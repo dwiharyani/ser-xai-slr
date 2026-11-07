@@ -1,0 +1,19 @@
+36
+W4402669711 | 2024 | 10.18653/v1/2024.findings-acl.931 | emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation
+W4392172995 | 2024 | 10.1109/taffc.2024.3369726 | Vesper: A Compact and Effective Pretrained Model for Speech Emotion Recognition
+W3197599801 | 2021 | 10.21437/interspeech.2021-809 | Audio-Visual Speech Emotion Recognition by Disentangling Emotion and Identity Attributes
+W4226507209 | 2022 | 10.1007/978-981-16-7618-5_5 | Context-Aware Multimodal Emotion Recognition
+W3108792608 | 2021 | 10.1109/slt48900.2021.9383618 | Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
+W4206326349 | 2022 | 10.1109/taffc.2022.3141237 | SMIN: Semi-Supervised Multi-Modal Interaction Network for Conversational Emotion Recognition
+W3174977508 | 2021 | 10.1109/access.2021.3092735 | Multimodal Emotion Recognition Fusion Analysis Adapting BERT With Heterogeneous Feature Unification
+W3137284029 | 2021 | 10.1109/mmul.2021.3068387 | Multimodal and Context-Aware Emotion Perception Model With Multiplicative Fusion
+W3165067022 | 2021 | 10.1109/icaci52617.2021.9435906 | MMTrans-MT: A Framework for Multimodal Emotion Recognition Using Multitask Learning
+W3211224152 | 2021 | 10.48550/arxiv.2111.02735 | A Fine-tuned Wav2vec 2.0/HuBERT Benchmark For Speech Emotion Recognition, Speaker Verification and Spoken Language Understanding
+W3194346343 | 2021 | 10.3390/info12090342 | Feature Extraction Network with Attention Mechanism for Data Enhancement and Recombination Fusion for Multimodal Sentiment Analysis
+W3217501503 | 2021 | 10.1080/08839514.2021.2000688 | Multimodal Sentiment Analysis Using Multi-tensor Fusion Network with Cross-modal Modeling
+W3183580551 | 2021 | 10.1145/3462244.3479919 | Bi-Bimodal Modality Fusion for Correlation-Controlled Multimodal Sentiment Analysis
+W3139283096 | 2021 | 10.1109/sami50585.2021.9378634 | What makes a smile? A Deep Neural Network Point of View
+W4408354583 | 2025 | 10.1109/icassp49660.2025.10890370 | Audio Explanation Synthesis with Generative Foundation Models
+W4387595589 | 2023 | 10.48550/arxiv.2310.04673 | LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT
+W3142456083 | 2021 | 10.3390/electronics10070800 | Correspondence Learning for Deep Multi-Modal Recognition and Fraud Detection
+older=19

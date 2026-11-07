@@ -1,0 +1,834 @@
+{
+  "counts": {
+    "screened": 1211,
+    "databaseScreened": 597,
+    "citationScreened": 614,
+    "sought": 92,
+    "databaseSought": 81,
+    "citationSought": 11,
+    "notRetrieved": 9,
+    "assessed": 83,
+    "included": 61,
+    "reportsIncluded": 62,
+    "companion": 1,
+    "eligible": 65,
+    "passed": 62,
+    "qaFailed": 3,
+    "eligibilityExcluded": 18,
+    "posthoc": 40,
+    "shap": 24,
+    "aggregated": 35,
+    "localised": 19,
+    "lexical": 10,
+    "fidelity": 7,
+    "human": 4,
+    "anyEvaluation": 11,
+    "pendingScreeningLabels": 0,
+    "missingOpenAlexTitles": 453
+  },
+  "comparison": [
+    {
+      "metric": "screened",
+      "manuscript": 1211,
+      "computed": 1211,
+      "match": true
+    },
+    {
+      "metric": "assessed",
+      "manuscript": 83,
+      "computed": 83,
+      "match": true
+    },
+    {
+      "metric": "included",
+      "manuscript": 61,
+      "computed": 61,
+      "match": true
+    },
+    {
+      "metric": "passed",
+      "manuscript": 62,
+      "computed": 62,
+      "match": true
+    },
+    {
+      "metric": "posthoc",
+      "manuscript": 40,
+      "computed": 40,
+      "match": true
+    },
+    {
+      "metric": "shap",
+      "manuscript": 24,
+      "computed": 24,
+      "match": true
+    },
+    {
+      "metric": "aggregated",
+      "manuscript": 35,
+      "computed": 35,
+      "match": true
+    },
+    {
+      "metric": "localised",
+      "manuscript": 19,
+      "computed": 19,
+      "match": true
+    },
+    {
+      "metric": "lexical",
+      "manuscript": 10,
+      "computed": 10,
+      "match": true
+    },
+    {
+      "metric": "fidelity",
+      "manuscript": 7,
+      "computed": 7,
+      "match": true
+    },
+    {
+      "metric": "human",
+      "manuscript": 4,
+      "computed": 4,
+      "match": true
+    },
+    {
+      "metric": "anyEvaluation",
+      "manuscript": 11,
+      "computed": 11,
+      "match": true
+    }
+  ],
+  "charts": [
+    {
+      "id": "years",
+      "title": "Publication trends",
+      "key": "year",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "2021",
+          "count": 2
+        },
+        {
+          "label": "2022",
+          "count": 5
+        },
+        {
+          "label": "2023",
+          "count": 6
+        },
+        {
+          "label": "2024",
+          "count": 10
+        },
+        {
+          "label": "2025",
+          "count": 19
+        },
+        {
+          "label": "2026",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "id": "publication",
+      "title": "Publication types",
+      "key": "publicationCategory",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Conference paper",
+          "count": 27
+        },
+        {
+          "label": "Journal article",
+          "count": 26
+        },
+        {
+          "label": "Not supplied",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "methods",
+      "title": "Explanation methods",
+      "key": "methods",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "SHAP",
+          "count": 24
+        },
+        {
+          "label": "LIME",
+          "count": 10
+        },
+        {
+          "label": "Attention analysis",
+          "count": 7
+        },
+        {
+          "label": "Grad-CAM",
+          "count": 7
+        },
+        {
+          "label": "Permutation importance",
+          "count": 5
+        },
+        {
+          "label": "Generated rationale",
+          "count": 4
+        },
+        {
+          "label": "Integrated Gradients",
+          "count": 4
+        },
+        {
+          "label": "Occlusion",
+          "count": 4
+        },
+        {
+          "label": "Tree importance",
+          "count": 3
+        },
+        {
+          "label": "Counterfactual audio",
+          "count": 2
+        },
+        {
+          "label": "DeepLIFT",
+          "count": 2
+        },
+        {
+          "label": "Learned filters",
+          "count": 2
+        },
+        {
+          "label": "TCAV",
+          "count": 2
+        },
+        {
+          "label": "Class model visualisation",
+          "count": 1
+        },
+        {
+          "label": "Contrastive acoustic cues",
+          "count": 1
+        },
+        {
+          "label": "Cue saliency",
+          "count": 1
+        },
+        {
+          "label": "Decision coefficients",
+          "count": 1
+        },
+        {
+          "label": "Generated caption",
+          "count": 1
+        },
+        {
+          "label": "Generative audio",
+          "count": 1
+        },
+        {
+          "label": "Grad-CAM++",
+          "count": 1
+        },
+        {
+          "label": "Gradient attribution",
+          "count": 1
+        },
+        {
+          "label": "Layer probing",
+          "count": 1
+        },
+        {
+          "label": "Layer-wise Relevance Propagation (LRP)",
+          "count": 1
+        },
+        {
+          "label": "Network weights",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "d1",
+      "title": "Explanation–model relationship",
+      "key": "d1",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Post-hoc analysis of a trained model",
+          "count": 40
+        },
+        {
+          "label": "Inspection of a built-in model component",
+          "count": 8
+        },
+        {
+          "label": "Explanation generated by design",
+          "count": 6
+        },
+        {
+          "label": "Combined: built-in component and post-hoc method",
+          "count": 4
+        },
+        {
+          "label": "Explanation-guided learning or feature selection",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "temporal",
+      "title": "Temporal resolution",
+      "key": "d2",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Aggregated",
+          "count": 35
+        },
+        {
+          "label": "Localised",
+          "count": 19
+        },
+        {
+          "label": "Unresolved",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "title": "Explained targets",
+      "key": "d3",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Acoustic features / descriptors",
+          "count": 16
+        },
+        {
+          "label": "Time–frequency regions / spectral bands",
+          "count": 11
+        },
+        {
+          "label": "Mixed representations across outputs",
+          "count": 10
+        },
+        {
+          "label": "Indexed features (mapping limited)",
+          "count": 6
+        },
+        {
+          "label": "Learned representations / model states",
+          "count": 6
+        },
+        {
+          "label": "Named concepts and cues",
+          "count": 6
+        },
+        {
+          "label": "Learned frame- or word-level evidence",
+          "count": 4
+        },
+        {
+          "label": "Boosted or transformed coordinates",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "families",
+      "title": "Explanation method families",
+      "key": "d4",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Shapley-value attribution",
+          "count": 24
+        },
+        {
+          "label": "Perturbation / surrogate attribution",
+          "count": 18
+        },
+        {
+          "label": "Model-internal inspection",
+          "count": 17
+        },
+        {
+          "label": "Gradient / propagation attribution",
+          "count": 15
+        },
+        {
+          "label": "Generative, contrastive or example-based",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "evaluation",
+      "title": "Explanation evaluation evidence",
+      "key": "evaluation",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Direct prediction faithfulness",
+          "count": 7
+        },
+        {
+          "label": "Human evaluation of explanations",
+          "count": 4
+        },
+        {
+          "label": "Automated scoring of generated rationales",
+          "count": 2
+        },
+        {
+          "label": "Controlled robustness of explanation or cue outputs",
+          "count": 2
+        },
+        {
+          "label": "Human task performance with explanation conditions",
+          "count": 2
+        },
+        {
+          "label": "Repeated-run stability of explanations",
+          "count": 2
+        },
+        {
+          "label": "Human annotation agreement without utility test",
+          "count": 1
+        },
+        {
+          "label": "Stability claim without adequate procedure",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "datasets",
+      "title": "Named corpora",
+      "key": "datasets",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "RAVDESS",
+          "count": 22
+        },
+        {
+          "label": "EmoDB",
+          "count": 20
+        },
+        {
+          "label": "IEMOCAP",
+          "count": 16
+        },
+        {
+          "label": "SAVEE",
+          "count": 12
+        },
+        {
+          "label": "TESS",
+          "count": 11
+        },
+        {
+          "label": "CREMA-D",
+          "count": 9
+        },
+        {
+          "label": "MELD",
+          "count": 6
+        },
+        {
+          "label": "MSP-Podcast",
+          "count": 4
+        },
+        {
+          "label": "AESSD",
+          "count": 2
+        },
+        {
+          "label": "CaFE",
+          "count": 2
+        },
+        {
+          "label": "Urdu emotional speech corpus",
+          "count": 2
+        },
+        {
+          "label": "ABC",
+          "count": 1
+        },
+        {
+          "label": "AI-Hub",
+          "count": 1
+        },
+        {
+          "label": "ASVP-ESD",
+          "count": 1
+        },
+        {
+          "label": "Author Afrikaans emotional-speech corpus",
+          "count": 1
+        },
+        {
+          "label": "Author Mandarin disyllabic emotional-speech recordings",
+          "count": 1
+        },
+        {
+          "label": "Author emotional speech corpus (HD, preHD and controls)",
+          "count": 1
+        },
+        {
+          "label": "CASIA",
+          "count": 1
+        },
+        {
+          "label": "CMU-MOSEI",
+          "count": 1
+        },
+        {
+          "label": "CSU 2021",
+          "count": 1
+        },
+        {
+          "label": "CSU 2022",
+          "count": 1
+        },
+        {
+          "label": "DEMoS",
+          "count": 1
+        },
+        {
+          "label": "DES",
+          "count": 1
+        },
+        {
+          "label": "Danish emotional speech database",
+          "count": 1
+        },
+        {
+          "label": "ESD",
+          "count": 1
+        },
+        {
+          "label": "EYASE",
+          "count": 1
+        },
+        {
+          "label": "Emo-IIT",
+          "count": 1
+        },
+        {
+          "label": "EmoFilm",
+          "count": 1
+        },
+        {
+          "label": "EmoTa",
+          "count": 1
+        },
+        {
+          "label": "EmoV-DB",
+          "count": 1
+        },
+        {
+          "label": "JL Corpus",
+          "count": 1
+        },
+        {
+          "label": "M3ED",
+          "count": 1
+        },
+        {
+          "label": "MSP-IMPROV",
+          "count": 1
+        },
+        {
+          "label": "Polish emotional speech database",
+          "count": 1
+        },
+        {
+          "label": "SEMOUR+",
+          "count": 1
+        },
+        {
+          "label": "SUBESCO",
+          "count": 1
+        },
+        {
+          "label": "SUSAS",
+          "count": 1
+        },
+        {
+          "label": "ShEMO",
+          "count": 1
+        },
+        {
+          "label": "Spanish TV debate corpus",
+          "count": 1
+        },
+        {
+          "label": "eNTERFACE’05",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "languages",
+      "title": "Corpus language context",
+      "key": "languages",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "English",
+          "count": 46
+        },
+        {
+          "label": "German",
+          "count": 20
+        },
+        {
+          "label": "Mandarin",
+          "count": 4
+        },
+        {
+          "label": "French",
+          "count": 3
+        },
+        {
+          "label": "Danish",
+          "count": 2
+        },
+        {
+          "label": "Greek",
+          "count": 2
+        },
+        {
+          "label": "Italian",
+          "count": 2
+        },
+        {
+          "label": "Not mapped",
+          "count": 2
+        },
+        {
+          "label": "Urdu",
+          "count": 2
+        },
+        {
+          "label": "Afrikaans",
+          "count": 1
+        },
+        {
+          "label": "Arabic",
+          "count": 1
+        },
+        {
+          "label": "Bangla",
+          "count": 1
+        },
+        {
+          "label": "Korean",
+          "count": 1
+        },
+        {
+          "label": "Multiple / unspecified",
+          "count": 1
+        },
+        {
+          "label": "Persian",
+          "count": 1
+        },
+        {
+          "label": "Polish",
+          "count": 1
+        },
+        {
+          "label": "Romanian",
+          "count": 1
+        },
+        {
+          "label": "Spanish",
+          "count": 1
+        },
+        {
+          "label": "Tamil",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "elicitation",
+      "title": "Corpus elicitation context",
+      "key": "elicitation",
+      "multi": true,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Acted (scripted)",
+          "count": 41
+        },
+        {
+          "label": "Acted (scripted and improvised)",
+          "count": 16
+        },
+        {
+          "label": "Broadcast / film / radio",
+          "count": 9
+        },
+        {
+          "label": "Naturalistic (podcast)",
+          "count": 4
+        },
+        {
+          "label": "Induced",
+          "count": 3
+        },
+        {
+          "label": "Not mapped",
+          "count": 2
+        },
+        {
+          "label": "Not specified",
+          "count": 2
+        },
+        {
+          "label": "Spontaneous (talk shows)",
+          "count": 2
+        },
+        {
+          "label": "Acted and synthetic voices",
+          "count": 1
+        },
+        {
+          "label": "Mixed media sources",
+          "count": 1
+        },
+        {
+          "label": "Naturalistic (online videos)",
+          "count": 1
+        },
+        {
+          "label": "Spontaneous (clinical narratives)",
+          "count": 1
+        },
+        {
+          "label": "Stress (real and simulated)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "models",
+      "title": "Explained model architectures",
+      "key": "modelGroup",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "CNN / recurrent / neural ensemble",
+          "count": 18
+        },
+        {
+          "label": "Tree / classical ML",
+          "count": 16
+        },
+        {
+          "label": "Specialised or mixed architecture",
+          "count": 12
+        },
+        {
+          "label": "Pretrained encoder / Transformer",
+          "count": 10
+        },
+        {
+          "label": "Language or audio-language model",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "Explanation delivery",
+      "key": "delivery",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Visual (plot, map, table)",
+          "count": 47
+        },
+        {
+          "label": "Ranked list or prose",
+          "count": 5
+        },
+        {
+          "label": "Verbal (text, cue phrases)",
+          "count": 5
+        },
+        {
+          "label": "Includes audible output",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "speech",
+      "title": "Speech information explained",
+      "key": "speechInformation",
+      "multi": false,
+      "denominator": 61,
+      "bars": [
+        {
+          "label": "Acoustic only",
+          "count": 51
+        },
+        {
+          "label": "Acoustic and lexical",
+          "count": 10
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "kind": "OpenAlex metadata limitation",
+      "id": "Citation screening",
+      "detail": "453 of 614 archived citation records have no recorded title, and the export does not retain abstracts. Their historical decisions cannot be independently audited from this snapshot."
+    },
+    {
+      "kind": "Screening provenance",
+      "id": "Database records",
+      "detail": "597 database-and-archive screening records use the final register; public web exports exclude full abstracts for redistribution reasons. The source workbook retains their metadata."
+    },
+    {
+      "kind": "QA score precedence",
+      "id": "M-0003",
+      "detail": "The final synthesis workbook supplies the verified Q1–Q7 scores for M-0003. Earlier QA extracts differed, so its historical scores must not be presented as final."
+    },
+    {
+      "kind": "Study versus report",
+      "id": "Companion",
+      "detail": "62 passing reports represent 61 distinct studies. Companion M-0038 is merged with its journal extension and excluded from study-level counts."
+    }
+  ],
+  "snapshot": "2026-11-07"
+}

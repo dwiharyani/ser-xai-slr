@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fig01",
+    "title": "Conceptual overview",
+    "note": "Exact figure crop from final manuscript, page 3. Consult the caption and original paper for context.",
+    "page": 3
+  },
+  {
+    "id": "fig02",
+    "title": "PRISMA selection flow",
+    "note": "Exact figure crop from final manuscript, page 5. Consult the caption and original paper for context.",
+    "page": 5
+  },
+  {
+    "id": "fig03",
+    "title": "Four-dimensional taxonomy",
+    "note": "Exact figure crop from final manuscript, page 7. Consult the caption and original paper for context.",
+    "page": 7
+  },
+  {
+    "id": "fig04",
+    "title": "Publication profile",
+    "note": "Exact figure crop from final manuscript, page 10. Consult the caption and original paper for context.",
+    "page": 10
+  },
+  {
+    "id": "fig05",
+    "title": "Explanation–model relationship",
+    "note": "Exact figure crop from final manuscript, page 10. Consult the caption and original paper for context.",
+    "page": 10
+  },
+  {
+    "id": "fig06",
+    "title": "Explained target and temporal resolution",
+    "note": "Exact figure crop from final manuscript, page 11. Consult the caption and original paper for context.",
+    "page": 11
+  },
+  {
+    "id": "fig07",
+    "title": "Explanation methods",
+    "note": "Exact figure crop from final manuscript, page 11. Consult the caption and original paper for context.",
+    "page": 11
+  },
+  {
+    "id": "fig08",
+    "title": "Method families by explained target",
+    "note": "Exact figure crop from final manuscript, page 13. Consult the caption and original paper for context.",
+    "page": 13
+  },
+  {
+    "id": "fig09",
+    "title": "Explanation evaluation",
+    "note": "Exact figure crop from final manuscript, page 13. Consult the caption and original paper for context.",
+    "page": 13
+  },
+  {
+    "id": "fig10",
+    "title": "Corpus, language and model contexts",
+    "note": "Exact figure crop from final manuscript, page 15. Consult the caption and original paper for context.",
+    "page": 15
+  },
+  {
+    "id": "fig11",
+    "title": "Evidence gaps and research agenda",
+    "note": "Exact figure crop from final manuscript, page 20. Consult the caption and original paper for context.",
+    "page": 20
+  }
+]

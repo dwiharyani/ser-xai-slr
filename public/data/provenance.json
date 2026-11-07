@@ -1,0 +1,25 @@
+{
+  "snapshot": "2026-11-07",
+  "sourceFiles": [
+    {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_Final.xlsx",
+      "sha256": "46f9f8cb2eb4ea227aaec68a02f7b53b4a80c9dba9bbedb8aa778b870f12fa65"
+    },
+    {
+      "file": "XAI_SER_QA_FullText_Final.xlsx",
+      "sha256": "3ecdc45ea4457613423e471327ec25999c13aa400598998993b97cc367587880"
+    },
+    {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sha256": "33a3533ec3321699199a5665b0b44c98ee2e00c2b0800b79f52850240540200d"
+    },
+    {
+      "file": "records_2021_2026.csv",
+      "sha256": "e37cb4ac9a35195a141a4c90c060fd1e7b32aa2bdbc06ebe35bc9cb7ab602a3e"
+    }
+  ],
+  "primaryWorkbook": "Final_Included_Excluded_Studies_XAI_SER_Final.xlsx",
+  "qaWorkbook": "XAI_SER_QA_FullText_Final.xlsx",
+  "scope": "Speech-derived acoustic or linguistic evidence, or both",
+  "privacy": "Abstracts and third-party full-text PDFs are not redistributed via the website."
+}

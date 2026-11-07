@@ -1,0 +1,9 @@
+8
+W4396704117|2024|10.1007/s41060-024-00553-6|x
+W4400492952|2024|10.3390/electronics13142689|Feature-Enhanced Multi-Task Learning for Speech Emotion Recognition Using Decision Trees and LSTM
+W7161283308|2026|10.1080/10255842.2026.2667299|x
+W7117817819|2025|10.35784/acs_8130|x
+W7202212234|2026|10.1007/978-981-92-4529-1_10|TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition
+W7213465237|2026|10.1007/s11036-026-02531-7|x
+W4416978931|2025|10.1007/s41870-025-02930-1|Explainable cross-domain emotion recognition using non-linear optimization and multimodal feature fusion based deep learning model
+W4401842519|2024|10.2478/amns-2024-2342|x

@@ -1,0 +1,6 @@
+d4 / d3,Acoustic features / descriptors,Boosted or transformed coordinates,Indexed features (mapping limited),Learned frame- or word-level evidence,Learned representations / model states,Mixed representations across outputs,Named concepts and cues,Time–frequency regions / spectral bands
+"Generative, contrastive or example-based",0,0,0,0,0,3,5,0
+Gradient / propagation attribution,0,0,0,0,1,5,0,7
+Model-internal inspection,3,0,1,3,5,1,1,1
+Perturbation / surrogate attribution,4,0,2,1,0,4,0,5
+Shapley-value attribution,11,2,5,1,0,3,0,1

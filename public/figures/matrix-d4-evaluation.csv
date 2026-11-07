@@ -1,0 +1,6 @@
+d4 / evaluation,Automated scoring of generated rationales,Controlled robustness of explanation or cue outputs,Direct prediction faithfulness,Human annotation agreement without utility test,Human evaluation of explanations,Human task performance with explanation conditions,Repeated-run stability of explanations,Stability claim without adequate procedure
+"Generative, contrastive or example-based",2,1,3,0,4,2,0,0
+Gradient / propagation attribution,0,1,3,0,1,1,1,1
+Model-internal inspection,0,0,2,1,0,0,1,0
+Perturbation / surrogate attribution,0,1,1,0,0,0,1,0
+Shapley-value attribution,0,1,1,0,0,0,1,0

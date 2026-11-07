@@ -1,0 +1,15 @@
+{
+  "M-0759": {
+    "publicationCategory": "Journal article",
+    "source": "https://www.iieta.org/journals/ts/paper/10.18280/ts.410344",
+    "verified": "2026-11-07"
+  },
+  "CMU-MOSEI": {
+    "source": "https://aclanthology.org/P18-1208.pdf",
+    "scope": "Corpus language and recording context only"
+  },
+  "M3ED": {
+    "source": "https://aclanthology.org/2022.acl-long.391.pdf",
+    "scope": "Corpus language and recording context only"
+  }
+}

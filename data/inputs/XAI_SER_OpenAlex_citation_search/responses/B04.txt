@@ -1,0 +1,27 @@
+70
+W3162387328 | 2021 | 10.1109/icassp39728.2021.9413876 | Compact Graph Architecture for Speech Emotion Recognition
+W4392124182 | 2024 | 10.1038/s41598-024-52989-2 | Speech emotion recognition via graph-based representations
+W4393841300 | 2023 | 10.5281/zenodo.8199347 | Appendix - Informative Speech Features based on Emotion Classes and Gender in Explainable Speech Emotion Recognition
+W4387530839 | 2023 | 10.1186/s13636-023-00303-9 | Speech emotion recognition based on Graph-LSTM neural network
+W4409728756 | 2025 | 10.1016/j.specom.2025.103242 | Speech Emotion Recognition via CNN-Transformer and multidimensional attention mechanism
+W4310988694 | 2022 | 10.3390/electronics11233943 | Speech Emotion Recognition Using Audio Matching
+W4410118057 | 2025 | 10.1016/j.inffus.2025.103268 | RMER-DT: Robust multimodal emotion recognition in conversational contexts based on diffusion and transformers
+W4400438927 | 2024 | 10.1016/j.neucom.2024.128177 | Speech emotion recognition based on multi-feature speed rate and LSTM
+W4312857458 | 2022 | 10.1109/tcss.2022.3219825 | Speech Emotion Recognition via an Attentive Time–Frequency Neural Network
+W4385822457 | 2023 | 10.21437/interspeech.2023-543 | Learning Local to Global Feature Aggregation for Speech Emotion Recognition
+W4406137817 | 2025 | 10.1109/taffc.2025.3526592 | Multitask Transformer for Cross-Corpus Speech Emotion Recognition
+W4404067337 | 2024 | 10.21437/iberspeech.2024-45 | Prototypical Networks for Speech Emotion Recognition in Spanish
+W4308216549 | 2022 | 10.1109/bhi56158.2022.9926795 | Investigating Graph-based Features for Speech Emotion Recognition
+W4402989757 | 2024 | 10.1016/j.bspc.2024.106967 | Hybrid CNN-BiLSTM architecture with multiple attention mechanisms to enhance speech emotion recognition
+W4386176982 | 2023 | 10.1109/tnnls.2023.3304516 | DSTCNet: Deep Spectro-Temporal-Channel Attention Network for Speech Emotion Recognition
+W4405963956 | 2025 | 10.1016/j.specom.2024.103184 | AMGCN: An adaptive multi-graph convolutional network for speech emotion recognition
+W4392902646 | 2024 | 10.1109/icassp48485.2024.10447726 | Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition
+W4200502037 | 2021 | 10.1016/j.specom.2021.11.005 | Learning affective representations based on magnitude and dynamic relative phase information for speech emotion recognition
+W4403136502 | 2024 | 10.1142/s021800142450023x | Graph-Based Multi-Feature Fusion Method for Speech Emotion Recognition
+W4283828626 | 2022 | 10.21437/interspeech.2022-637 | A Graph Isomorphism Network with Weighted Multiple Aggregators for Speech Emotion Recognition
+W4403918653 | 2024 | 10.1109/tcss.2024.3476325 | Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition
+W4393217352 | 2024 | 10.1109/tcss.2024.3362690 | Layer-Adapted Implicit Distribution Alignment Networks for Cross-Corpus Speech Emotion Recognition
+W4388998763 | 2023 | 10.1007/978-981-99-8138-0_33 | Time-Frequency Transformer: A Novel Time Frequency Joint Learning Method for Speech Emotion Recognition
+W4415624406 | 2025 | 10.1109/tcss.2025.3617160 | Coupled Sparse Subspace Alignment-Based Domain Adaptation for Speech Emotion Recognition
+W7105741676 | 2025 | 10.1007/s00034-025-03408-y | A Multi-branch Interactive Attention Network Based on Self-Distillation for Speech Emotion Recognition
+older=45

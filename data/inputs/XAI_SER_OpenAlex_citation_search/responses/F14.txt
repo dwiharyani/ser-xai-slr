@@ -1,0 +1,6 @@
+5
+W7172413838|2026|10.1109/icdca69396.2026.11619935|x
+W7223301691|2026|10.1109/icosec70158.2026.11735830|An Explainable Attention-based Multimodal Emotion Recognition Framework using Cross-Modal Transformer Fusion
+W7164147224|2026|10.1016/j.array.2026.100998|x
+W7160524580|2026|10.1371/journal.pone.0342953|x
+W7225039414|2026|10.48175/ijarsct-40501|x

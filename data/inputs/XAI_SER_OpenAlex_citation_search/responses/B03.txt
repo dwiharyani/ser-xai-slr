@@ -1,0 +1,17 @@
+44
+W3144073776 | 2021 | 10.21437/interspeech.2021-703 | Emotion Recognition from Speech Using wav2vec 2.0 Embeddings
+W3145643603 | 2021 | 10.1016/j.apacoust.2021.108046 | Improved speech emotion recognition with Mel frequency magnitude coefficient
+W4323569712 | 2023 | 10.1007/s11277-023-10244-3 | RETRACTED ARTICLE: Speech Emotion Recognition: A Comprehensive Survey
+W4221122497 | 2022 | 10.3390/s22072461 | The Emotion Probe: On the Universality of Cross-Linguistic and Cross-Gender Speech Emotion Recognition via Machine Learning
+W3163091219 | 2021 | 10.1109/icassp39728.2021.9414286 | Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention
+W3120709499 | 2021 | 10.1007/s40747-020-00250-4 | Cross corpus multi-lingual speech emotion recognition using ensemble learning
+W4403828470 | 2024 | 10.3390/app14219863 | Performance Metrics for Multilabel Emotion Classification: Comparing Micro, Macro, and Weighted F1-Scores
+W3154935508 | 2021 | 10.1007/s12559-021-09865-2 | When Old Meets New: Emotion Recognition from Speech Signals
+W4406137817 | 2025 | 10.1109/taffc.2025.3526592 | Multitask Transformer for Cross-Corpus Speech Emotion Recognition
+W4210273409 | 2022 | 10.3390/mti6020011 | End-to-End Modeling and Transfer Learning for Audiovisual Emotion Recognition in-the-Wild
+W3129285739 | 2021 | 10.1016/j.ins.2021.02.016 | Speech emotion recognition based on formant characteristics feature extraction and phoneme type convergence
+W4409409805 | 2025 | 10.1080/23268263.2025.2482495 | The Acoustic Profiles of Emotion: Analyzing the Spoken Voice in Theater Performance
+W4388821586 | 2023 | 10.1109/apsipaasc58517.2023.10317223 | Multilingual, Cross-lingual, and Monolingual Speech Emotion Recognition on EmoFilm Dataset
+W3132230678 | 2021 | 10.1109/access.2021.3060753 | Technology-Assisted Emotion Recognition for Autism Spectrum Disorder (ASD) Children: A Systematic Literature Review
+W4399374391 | 2024 | 10.1109/icit58233.2024.10540745 | Enhancing Speech Emotion Recognition in Urdu Using Bi-GRU Networks: An In-Depth Analysis of Acoustic Features and Model Interpretability
+older=29

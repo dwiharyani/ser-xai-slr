@@ -1,0 +1,5 @@
+4
+W7165903720|2026|10.1109/lsp.2026.3707494|x
+W7123355441|2026|10.1007/s10772-025-10229-6|x
+W7224960789|2026|10.1109/i-smac70384.2026.11747477|Capacity-Dependent Effects of Theory-Guided Attention Regularization in Speech Emotion Recognition
+W7164825645|2026|10.3390/electronics15122608|x

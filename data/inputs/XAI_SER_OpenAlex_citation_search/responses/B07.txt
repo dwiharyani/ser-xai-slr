@@ -1,0 +1,49 @@
+54
+W3144073776 | 2021 | 10.21437/interspeech.2021-703 | Emotion Recognition from Speech Using wav2vec 2.0 Embeddings
+W4399434529 | 2024 | 10.1038/s41598-024-63776-4 | An enhanced speech emotion recognition using vision transformer
+W4412421540 | 2025 | 10.1016/j.patcog.2025.112122 | A systematic review of interpretability and explainability for speech emotion features in automatic speech emotion recognition
+W4402095521 | 2024 | 10.1007/s10772-024-10138-0 | Speech emotion recognition for human–computer interaction
+W4409728756 | 2025 | 10.1016/j.specom.2025.103242 | Speech Emotion Recognition via CNN-Transformer and multidimensional attention mechanism
+W4392034510 | 2024 | 10.3390/s24051429 | A New Network Structure for Speech Emotion Recognition Research
+W4411499477 | 2025 | 10.3390/app15136958 | Emotion Recognition from Speech in a Subject-Independent Approach
+W3136524425 | 2021 | 10.1109/access.2021.3067460 | Head Fusion: Improving the Accuracy and Robustness of Speech Emotion Recognition on the IEMOCAP and RAVDESS Dataset
+W4378603564 | 2023 | 10.1007/978-3-031-33231-9_3 | TamilEmo: Fine-grained Emotion Detection Dataset for Tamil
+W4406137817 | 2025 | 10.1109/taffc.2025.3526592 | Multitask Transformer for Cross-Corpus Speech Emotion Recognition
+W4285319295 | 2021 | 10.1109/scc53769.2021.9768372 | Emotion Recognition using Speech Data with Convolutional Neural Network
+W4285144065 | 2022 | 10.1109/access.2022.3172954 | Robust Speech Emotion Recognition Using CNN+LSTM Based on Stochastic Fractal Search Optimization Algorithm
+W4416582908 | 2025 | 10.1109/access.2025.3636186 | Multimodal Emotion Recognition: A Comprehensive Survey of Datasets, Methods, and Applications
+W4404533470 | 2024 | 10.1016/j.icte.2024.11.003 | Addressing data scarcity in speech emotion recognition: A comprehensive review
+W4310506378 | 2022 | 10.1155/2022/9602429 | A Review of the Advancement in Speech Emotion Recognition for Indo-Aryan and Dravidian Languages
+W4411488299 | 2025 | 10.1016/j.eswa.2025.128605 | Bimodal speech emotion recognition via contrastive self-alignment learning
+W4399266758 | 2024 | 10.1007/978-3-031-61318-0_12 | A Study on Speech Emotion Recognition in the Context of Voice User Experience
+W4415378792 | 2025 | 10.1016/j.engappai.2025.112624 | Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies
+W4405963956 | 2025 | 10.1016/j.specom.2024.103184 | AMGCN: An adaptive multi-graph convolutional network for speech emotion recognition
+W7108601604 | 2025 | 10.1016/j.engappai.2025.113396 | Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
+W4412164083 | 2025 | 10.1109/access.2025.3587607 | A Lightweight Tri-Stream Feature Fusion Network for Speech Emotion Recognition
+W3101317406 | 2021 | 10.1109/slt48900.2021.9383456 | On the Use of Self-Supervised Pre-Trained Acoustic and Linguistic Features for Continuous Speech Emotion Recognition
+W3209072429 | 2021 | 10.1109/acii52823.2021.9597419 | End-to-End Speech Emotion Recognition: Challenges of Real-Life Emergency Call Centers Data Recordings
+W4408012284 | 2025 | 10.1016/j.neucom.2025.129836 | A dynamic-static feature fusion learning network for speech emotion recognition
+W4375868941 | 2023 | 10.1109/icassp49357.2023.10096808 | Designing and Evaluating Speech Emotion Recognition Systems: A Reality Check Case Study with IEMOCAP
+W4412725705 | 2025 | 10.1142/s0129065725300013 | A Performance Benchmarking Review of Transformers for Speaker-Independent Speech Emotion Recognition
+W4410236540 | 2025 | 10.3390/signals6020022 | Speech Emotion Recognition: Comparative Analysis of CNN-LSTM and Attention-Enhanced CNN-LSTM Models
+W4411865290 | 2025 | 10.1038/s41598-025-94727-2 | MS-EmoBoost: a novel strategy for enhancing self-supervised speech emotion representations
+W4403677552 | 2024 | 10.1109/icaccs60874.2024.10717145 | Multi-Class Emotion Classification on Tamil and Tulu Code-Mixed Text
+W4400976863 | 2024 | 10.1109/accai61061.2024.10601715 | Multi-Lingual Speech Emotion Recognition: Investigating Similarities between English and German Languages
+W7117120958 | 2025 | 10.1016/j.knosys.2025.115194 | SONANCE: Speech-oriented neuromorphic auditory noise-resilient cascaded emotion-recognition
+W4406772261 | 2025 | 10.1016/j.specom.2025.103198 | Coordination Attention based Transformers with bidirectional contrastive loss for multimodal speech emotion recognition
+W4407686845 | 2025 | 10.1016/j.eswa.2025.126855 | MTLSER: Multi-task learning enhanced speech emotion recognition with pre-trained acoustic model
+W4415743604 | 2025 | 10.1016/j.dsp.2025.105641 | MDIPI-Net: Multidimensional information perception and interleaving strategy for speech emotion recognition
+W7124179313 | 2026 | 10.1109/taslpro.2026.3654273 | A Comprehensive Study on the Effectiveness of ASR Representations for Noise-Robust Speech Emotion Recognition
+W4415571224 | 2025 | 10.7717/peerj-cs.3292 | Hybrid-Module Transformer: enhancing speech emotion recognition with HuBERT, LSTM, and ResNet-50
+W4412455387 | 2025 | 10.1016/j.specom.2025.103278 | Multimodal speech emotion recognition via modality constraint with hierarchical bottleneck feature fusion
+W4408352790 | 2025 | 10.1109/icassp49660.2025.10889825 | Exploring Local Interpretable Model-Agnostic Explanations for Speech Emotion Recognition with Distribution-Shift
+W4412958396 | 2025 | 10.1038/s41598-025-14016-w | A deep learning framework for gender sensitive speech emotion recognition based on MFCC feature selection and SHAP analysis
+W4415433472 | 2025 | 10.21437/interspeech.2025-1006 | Learning More with Less: Self-Supervised Approaches forLow-Resource Speech Emotion Recognition
+W4408760591 | 2025 | 10.1016/j.knosys.2025.113414 | Advanced speech emotion recognition utilizing optimized equivariant quantum convolutional neural network for accurate emotional state classification
+W4400824915 | 2024 | 10.54985/peeref.2407p6861077 | Speech Emotion Recognition Using Convolutional Neural Network and Its Use Case in Digital Healthcare
+W7120112424 | 2025 | 10.70112/ajes-2025.14.2.4286 | Interpretable Speech Emotion Recognition: A Comparative Study of BiLSTM Temporal Attention and Transformer-Based Multi-Head Self-Attention
+W4399134373 | 2024 | 10.1007/s11518-024-5607-y | Self-supervised Learning for Speech Emotion Recognition Task Using Audio-visual Features and Distil Hubert Model on BAVED and RAVDESS Databases
+W4409787152 | 2025 | 10.1007/s00034-025-03080-2 | Multimodal Emotion Recognition based on Face and Speech using Deep Convolution Neural Network and Long Short Term Memory
+W4393406783 | 2023 | 10.1109/o-cocosda60357.2023.10482961 | NITK-KLESC: Kannada Language Emotional Speech Corpus for Speaker Recognition
+W4407477717 | 2024 | 10.1109/icuis64676.2024.10866623 | Enhancing Sentiment Analysis of Customer Reviews Using Deep Learning, Data Augmentation and Explainable AI
+older=7

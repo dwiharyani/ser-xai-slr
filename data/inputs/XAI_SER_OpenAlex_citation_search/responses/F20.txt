@@ -1,0 +1,11 @@
+10
+W4412659728|2025|10.1016/j.bspc.2025.108323|x
+W7204448896|2026|10.4238/8kv1tf14|x
+W7169501086|2026|10.1109/aicconf69182.2026.11600714|x
+W4411364489|2025|10.32628/ijsrst25123135|x
+W7125672658|2026|10.1016/j.patcog.2026.113159|x
+W7159839885|2026|10.1109/esci68015.2026.11493202|x
+W7202212234|2026|10.1007/978-981-92-4529-1_10|TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition
+W7213465237|2026|10.1007/s11036-026-02531-7|x
+W7169838137|2026|10.69882/adba.chf.2026075|Efficacy of Multi-Domain Acoustic Features in Speech Emotion Recognition: A Comparative Analysis of Machine Learning and Deep Learning Models
+W7164825645|2026|10.3390/electronics15122608|x

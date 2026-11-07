@@ -1,0 +1,7166 @@
+[
+  {
+    "id": "M-0001",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 2
+    }
+  },
+  {
+    "id": "M-0002",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — below QA v2 gate",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 3
+    }
+  },
+  {
+    "id": "M-0003",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 4
+    }
+  },
+  {
+    "id": "M-0004",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 5
+    }
+  },
+  {
+    "id": "M-0005",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 6
+    }
+  },
+  {
+    "id": "M-0006",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 7
+    }
+  },
+  {
+    "id": "M-0007",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 8
+    }
+  },
+  {
+    "id": "M-0008",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 9
+    }
+  },
+  {
+    "id": "M-0009",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 10
+    }
+  },
+  {
+    "id": "M-0010",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X2)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 11
+    }
+  },
+  {
+    "id": "M-0012",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 12
+    }
+  },
+  {
+    "id": "M-0013",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — below QA v2 gate",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 13
+    }
+  },
+  {
+    "id": "M-0014",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 14
+    }
+  },
+  {
+    "id": "M-0016",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 15
+    }
+  },
+  {
+    "id": "M-0017",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 16
+    }
+  },
+  {
+    "id": "M-0018",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 17
+    }
+  },
+  {
+    "id": "M-0019",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 18
+    }
+  },
+  {
+    "id": "M-0020",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 19
+    }
+  },
+  {
+    "id": "M-0022",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X1)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 20
+    }
+  },
+  {
+    "id": "M-0024",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 21
+    }
+  },
+  {
+    "id": "M-0025",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 22
+    }
+  },
+  {
+    "id": "M-0026",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 23
+    }
+  },
+  {
+    "id": "M-0027",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advance to full text",
+    "fullTextDecision": null,
+    "qaDecision": "Awaiting full text",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 24
+    }
+  },
+  {
+    "id": "M-0028",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 25
+    }
+  },
+  {
+    "id": "M-0029",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 26
+    }
+  },
+  {
+    "id": "M-0030",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 27
+    }
+  },
+  {
+    "id": "M-0031",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 28
+    }
+  },
+  {
+    "id": "M-0032",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 29
+    }
+  },
+  {
+    "id": "M-0033",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 30
+    }
+  },
+  {
+    "id": "M-0034",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 31
+    }
+  },
+  {
+    "id": "M-0035",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 32
+    }
+  },
+  {
+    "id": "M-0036",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 33
+    }
+  },
+  {
+    "id": "M-0037",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 34
+    }
+  },
+  {
+    "id": "M-0038",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Companion",
+    "qaDecision": "Companion report — QA v2 pass (counted with M-0444)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 35
+    }
+  },
+  {
+    "id": "M-0039",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 36
+    }
+  },
+  {
+    "id": "M-0040",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 37
+    }
+  },
+  {
+    "id": "M-0041",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 38
+    }
+  },
+  {
+    "id": "M-0042",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 39
+    }
+  },
+  {
+    "id": "M-0043",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 40
+    }
+  },
+  {
+    "id": "M-0044",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 41
+    }
+  },
+  {
+    "id": "M-0045",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 42
+    }
+  },
+  {
+    "id": "M-0046",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 43
+    }
+  },
+  {
+    "id": "M-0047",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 44
+    }
+  },
+  {
+    "id": "M-0048",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 45
+    }
+  },
+  {
+    "id": "M-0049",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 46
+    }
+  },
+  {
+    "id": "M-0051",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 47
+    }
+  },
+  {
+    "id": "M-0053",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 48
+    }
+  },
+  {
+    "id": "M-0054",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 49
+    }
+  },
+  {
+    "id": "M-0055",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 50
+    }
+  },
+  {
+    "id": "M-0056",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 51
+    }
+  },
+  {
+    "id": "M-0057",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 52
+    }
+  },
+  {
+    "id": "M-0058",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 53
+    }
+  },
+  {
+    "id": "M-0059",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 54
+    }
+  },
+  {
+    "id": "M-0060",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — user confirmed",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 55
+    }
+  },
+  {
+    "id": "M-0061",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 56
+    }
+  },
+  {
+    "id": "M-0062",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 57
+    }
+  },
+  {
+    "id": "M-0063",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 58
+    }
+  },
+  {
+    "id": "M-0064",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 59
+    }
+  },
+  {
+    "id": "M-0065",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 60
+    }
+  },
+  {
+    "id": "M-0067",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 61
+    }
+  },
+  {
+    "id": "M-0068",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 62
+    }
+  },
+  {
+    "id": "M-0069",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 63
+    }
+  },
+  {
+    "id": "M-0071",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X5)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 64
+    }
+  },
+  {
+    "id": "M-0072",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 65
+    }
+  },
+  {
+    "id": "M-0073",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 66
+    }
+  },
+  {
+    "id": "M-0074",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 67
+    }
+  },
+  {
+    "id": "M-0075",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 68
+    }
+  },
+  {
+    "id": "M-0076",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 69
+    }
+  },
+  {
+    "id": "M-0077",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 70
+    }
+  },
+  {
+    "id": "M-0078",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 71
+    }
+  },
+  {
+    "id": "M-0079",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 72
+    }
+  },
+  {
+    "id": "M-0081",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 73
+    }
+  },
+  {
+    "id": "M-0082",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 74
+    }
+  },
+  {
+    "id": "M-0083",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 75
+    }
+  },
+  {
+    "id": "M-0084",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 76
+    }
+  },
+  {
+    "id": "M-0085",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 77
+    }
+  },
+  {
+    "id": "M-0086",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 78
+    }
+  },
+  {
+    "id": "M-0087",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 79
+    }
+  },
+  {
+    "id": "M-0090",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 80
+    }
+  },
+  {
+    "id": "M-0091",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 81
+    }
+  },
+  {
+    "id": "M-0092",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 82
+    }
+  },
+  {
+    "id": "M-0093",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 83
+    }
+  },
+  {
+    "id": "M-0095",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 84
+    }
+  },
+  {
+    "id": "M-0096",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 85
+    }
+  },
+  {
+    "id": "M-0097",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 86
+    }
+  },
+  {
+    "id": "M-0098",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 87
+    }
+  },
+  {
+    "id": "M-0099",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 88
+    }
+  },
+  {
+    "id": "M-0100",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 89
+    }
+  },
+  {
+    "id": "M-0102",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 90
+    }
+  },
+  {
+    "id": "M-0103",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 91
+    }
+  },
+  {
+    "id": "M-0104",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 92
+    }
+  },
+  {
+    "id": "M-0105",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 93
+    }
+  },
+  {
+    "id": "M-0106",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 94
+    }
+  },
+  {
+    "id": "M-0108",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 95
+    }
+  },
+  {
+    "id": "M-0110",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 96
+    }
+  },
+  {
+    "id": "M-0111",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 97
+    }
+  },
+  {
+    "id": "M-0112",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 98
+    }
+  },
+  {
+    "id": "M-0114",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 99
+    }
+  },
+  {
+    "id": "M-0115",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 100
+    }
+  },
+  {
+    "id": "M-0116",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 101
+    }
+  },
+  {
+    "id": "M-0117",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 102
+    }
+  },
+  {
+    "id": "M-0118",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 103
+    }
+  },
+  {
+    "id": "M-0119",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 104
+    }
+  },
+  {
+    "id": "M-0120",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 105
+    }
+  },
+  {
+    "id": "M-0121",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 106
+    }
+  },
+  {
+    "id": "M-0122",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 107
+    }
+  },
+  {
+    "id": "M-0123",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 108
+    }
+  },
+  {
+    "id": "M-0124",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 109
+    }
+  },
+  {
+    "id": "M-0125",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 110
+    }
+  },
+  {
+    "id": "M-0126",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 111
+    }
+  },
+  {
+    "id": "M-0127",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 112
+    }
+  },
+  {
+    "id": "M-0128",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 113
+    }
+  },
+  {
+    "id": "M-0129",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 114
+    }
+  },
+  {
+    "id": "M-0130",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 115
+    }
+  },
+  {
+    "id": "M-0131",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 116
+    }
+  },
+  {
+    "id": "M-0132",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 117
+    }
+  },
+  {
+    "id": "M-0133",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 118
+    }
+  },
+  {
+    "id": "M-0134",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 119
+    }
+  },
+  {
+    "id": "M-0135",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 120
+    }
+  },
+  {
+    "id": "M-0137",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 121
+    }
+  },
+  {
+    "id": "M-0138",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 122
+    }
+  },
+  {
+    "id": "M-0139",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 123
+    }
+  },
+  {
+    "id": "M-0140",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 124
+    }
+  },
+  {
+    "id": "M-0141",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 125
+    }
+  },
+  {
+    "id": "M-0142",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 126
+    }
+  },
+  {
+    "id": "M-0144",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 127
+    }
+  },
+  {
+    "id": "M-0145",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 128
+    }
+  },
+  {
+    "id": "M-0146",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 129
+    }
+  },
+  {
+    "id": "M-0147",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X3)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 130
+    }
+  },
+  {
+    "id": "M-0148",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 131
+    }
+  },
+  {
+    "id": "M-0149",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 132
+    }
+  },
+  {
+    "id": "M-0150",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 133
+    }
+  },
+  {
+    "id": "M-0151",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 134
+    }
+  },
+  {
+    "id": "M-0152",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 135
+    }
+  },
+  {
+    "id": "M-0153",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 136
+    }
+  },
+  {
+    "id": "M-0154",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 137
+    }
+  },
+  {
+    "id": "M-0155",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 138
+    }
+  },
+  {
+    "id": "M-0156",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 139
+    }
+  },
+  {
+    "id": "M-0158",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 140
+    }
+  },
+  {
+    "id": "M-0159",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 141
+    }
+  },
+  {
+    "id": "M-0160",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 142
+    }
+  },
+  {
+    "id": "M-0161",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 143
+    }
+  },
+  {
+    "id": "M-0163",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 144
+    }
+  },
+  {
+    "id": "M-0164",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 145
+    }
+  },
+  {
+    "id": "M-0165",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 146
+    }
+  },
+  {
+    "id": "M-0166",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 147
+    }
+  },
+  {
+    "id": "M-0167",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 148
+    }
+  },
+  {
+    "id": "M-0168",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 149
+    }
+  },
+  {
+    "id": "M-0169",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 150
+    }
+  },
+  {
+    "id": "M-0170",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 151
+    }
+  },
+  {
+    "id": "M-0171",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 152
+    }
+  },
+  {
+    "id": "M-0172",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 153
+    }
+  },
+  {
+    "id": "M-0173",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 154
+    }
+  },
+  {
+    "id": "M-0174",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 155
+    }
+  },
+  {
+    "id": "M-0175",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 156
+    }
+  },
+  {
+    "id": "M-0176",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 157
+    }
+  },
+  {
+    "id": "M-0177",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 158
+    }
+  },
+  {
+    "id": "M-0178",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 159
+    }
+  },
+  {
+    "id": "M-0180",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 160
+    }
+  },
+  {
+    "id": "M-0181",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 161
+    }
+  },
+  {
+    "id": "M-0183",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 162
+    }
+  },
+  {
+    "id": "M-0184",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 163
+    }
+  },
+  {
+    "id": "M-0185",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 164
+    }
+  },
+  {
+    "id": "M-0186",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 165
+    }
+  },
+  {
+    "id": "M-0190",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 166
+    }
+  },
+  {
+    "id": "M-0192",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 167
+    }
+  },
+  {
+    "id": "M-0194",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 168
+    }
+  },
+  {
+    "id": "M-0195",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 169
+    }
+  },
+  {
+    "id": "M-0196",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 170
+    }
+  },
+  {
+    "id": "M-0197",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 171
+    }
+  },
+  {
+    "id": "M-0198",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 172
+    }
+  },
+  {
+    "id": "M-0199",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 173
+    }
+  },
+  {
+    "id": "M-0200",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 174
+    }
+  },
+  {
+    "id": "M-0201",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 175
+    }
+  },
+  {
+    "id": "M-0204",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 176
+    }
+  },
+  {
+    "id": "M-0205",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 177
+    }
+  },
+  {
+    "id": "M-0208",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 178
+    }
+  },
+  {
+    "id": "M-0210",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 179
+    }
+  },
+  {
+    "id": "M-0211",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 180
+    }
+  },
+  {
+    "id": "M-0212",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 181
+    }
+  },
+  {
+    "id": "M-0213",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 182
+    }
+  },
+  {
+    "id": "M-0215",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 183
+    }
+  },
+  {
+    "id": "M-0217",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 184
+    }
+  },
+  {
+    "id": "M-0221",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 185
+    }
+  },
+  {
+    "id": "M-0224",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 186
+    }
+  },
+  {
+    "id": "M-0225",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 187
+    }
+  },
+  {
+    "id": "M-0226",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 188
+    }
+  },
+  {
+    "id": "M-0230",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 189
+    }
+  },
+  {
+    "id": "M-0231",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 190
+    }
+  },
+  {
+    "id": "M-0234",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 191
+    }
+  },
+  {
+    "id": "M-0235",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 192
+    }
+  },
+  {
+    "id": "M-0237",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 193
+    }
+  },
+  {
+    "id": "M-0238",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 194
+    }
+  },
+  {
+    "id": "M-0240",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 195
+    }
+  },
+  {
+    "id": "M-0241",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 196
+    }
+  },
+  {
+    "id": "M-0242",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 197
+    }
+  },
+  {
+    "id": "M-0243",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 198
+    }
+  },
+  {
+    "id": "M-0244",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 199
+    }
+  },
+  {
+    "id": "M-0245",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 200
+    }
+  },
+  {
+    "id": "M-0246",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 201
+    }
+  },
+  {
+    "id": "M-0247",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 202
+    }
+  },
+  {
+    "id": "M-0249",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 203
+    }
+  },
+  {
+    "id": "M-0250",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 204
+    }
+  },
+  {
+    "id": "M-0251",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 205
+    }
+  },
+  {
+    "id": "M-0252",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 206
+    }
+  },
+  {
+    "id": "M-0254",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 207
+    }
+  },
+  {
+    "id": "M-0255",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 208
+    }
+  },
+  {
+    "id": "M-0258",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 209
+    }
+  },
+  {
+    "id": "M-0261",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 210
+    }
+  },
+  {
+    "id": "M-0262",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 211
+    }
+  },
+  {
+    "id": "M-0264",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 212
+    }
+  },
+  {
+    "id": "M-0265",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 213
+    }
+  },
+  {
+    "id": "M-0266",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 214
+    }
+  },
+  {
+    "id": "M-0267",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 215
+    }
+  },
+  {
+    "id": "M-0268",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 216
+    }
+  },
+  {
+    "id": "M-0269",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 217
+    }
+  },
+  {
+    "id": "M-0270",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 218
+    }
+  },
+  {
+    "id": "M-0271",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 219
+    }
+  },
+  {
+    "id": "M-0272",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 220
+    }
+  },
+  {
+    "id": "M-0273",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 221
+    }
+  },
+  {
+    "id": "M-0274",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 222
+    }
+  },
+  {
+    "id": "M-0275",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 223
+    }
+  },
+  {
+    "id": "M-0276",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 224
+    }
+  },
+  {
+    "id": "M-0277",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 225
+    }
+  },
+  {
+    "id": "M-0278",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 226
+    }
+  },
+  {
+    "id": "M-0279",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 227
+    }
+  },
+  {
+    "id": "M-0280",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 228
+    }
+  },
+  {
+    "id": "M-0281",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 229
+    }
+  },
+  {
+    "id": "M-0282",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 230
+    }
+  },
+  {
+    "id": "M-0283",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 231
+    }
+  },
+  {
+    "id": "M-0284",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 232
+    }
+  },
+  {
+    "id": "M-0285",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 233
+    }
+  },
+  {
+    "id": "M-0286",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 234
+    }
+  },
+  {
+    "id": "M-0287",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 235
+    }
+  },
+  {
+    "id": "M-0288",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 236
+    }
+  },
+  {
+    "id": "M-0289",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 237
+    }
+  },
+  {
+    "id": "M-0290",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 238
+    }
+  },
+  {
+    "id": "M-0291",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 239
+    }
+  },
+  {
+    "id": "M-0293",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 240
+    }
+  },
+  {
+    "id": "M-0294",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 241
+    }
+  },
+  {
+    "id": "M-0295",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 242
+    }
+  },
+  {
+    "id": "M-0296",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 243
+    }
+  },
+  {
+    "id": "M-0297",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 244
+    }
+  },
+  {
+    "id": "M-0298",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 245
+    }
+  },
+  {
+    "id": "M-0299",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 246
+    }
+  },
+  {
+    "id": "M-0300",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 247
+    }
+  },
+  {
+    "id": "M-0301",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 248
+    }
+  },
+  {
+    "id": "M-0302",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 249
+    }
+  },
+  {
+    "id": "M-0303",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 250
+    }
+  },
+  {
+    "id": "M-0304",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 251
+    }
+  },
+  {
+    "id": "M-0305",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 252
+    }
+  },
+  {
+    "id": "M-0306",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 253
+    }
+  },
+  {
+    "id": "M-0307",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 254
+    }
+  },
+  {
+    "id": "M-0308",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 255
+    }
+  },
+  {
+    "id": "M-0309",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 256
+    }
+  },
+  {
+    "id": "M-0310",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 257
+    }
+  },
+  {
+    "id": "M-0311",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 258
+    }
+  },
+  {
+    "id": "M-0312",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X1)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 259
+    }
+  },
+  {
+    "id": "M-0313",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advance to full text",
+    "fullTextDecision": null,
+    "qaDecision": "Awaiting full text",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 260
+    }
+  },
+  {
+    "id": "M-0314",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 261
+    }
+  },
+  {
+    "id": "M-0315",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 262
+    }
+  },
+  {
+    "id": "M-0316",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 263
+    }
+  },
+  {
+    "id": "M-0317",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 264
+    }
+  },
+  {
+    "id": "M-0318",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 265
+    }
+  },
+  {
+    "id": "M-0319",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 266
+    }
+  },
+  {
+    "id": "M-0320",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 267
+    }
+  },
+  {
+    "id": "M-0321",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 268
+    }
+  },
+  {
+    "id": "M-0322",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 269
+    }
+  },
+  {
+    "id": "M-0323",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 270
+    }
+  },
+  {
+    "id": "M-0324",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 271
+    }
+  },
+  {
+    "id": "M-0325",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X2)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 272
+    }
+  },
+  {
+    "id": "M-0326",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 273
+    }
+  },
+  {
+    "id": "M-0327",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 274
+    }
+  },
+  {
+    "id": "M-0328",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 275
+    }
+  },
+  {
+    "id": "M-0329",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 276
+    }
+  },
+  {
+    "id": "M-0330",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 277
+    }
+  },
+  {
+    "id": "M-0331",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 278
+    }
+  },
+  {
+    "id": "M-0332",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 279
+    }
+  },
+  {
+    "id": "M-0333",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 280
+    }
+  },
+  {
+    "id": "M-0334",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 281
+    }
+  },
+  {
+    "id": "M-0335",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 282
+    }
+  },
+  {
+    "id": "M-0336",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 283
+    }
+  },
+  {
+    "id": "M-0337",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 284
+    }
+  },
+  {
+    "id": "M-0338",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 285
+    }
+  },
+  {
+    "id": "M-0339",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 286
+    }
+  },
+  {
+    "id": "M-0340",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 287
+    }
+  },
+  {
+    "id": "M-0341",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 288
+    }
+  },
+  {
+    "id": "M-0342",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 289
+    }
+  },
+  {
+    "id": "M-0343",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 290
+    }
+  },
+  {
+    "id": "M-0344",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 291
+    }
+  },
+  {
+    "id": "M-0345",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 292
+    }
+  },
+  {
+    "id": "M-0346",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 293
+    }
+  },
+  {
+    "id": "M-0347",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 294
+    }
+  },
+  {
+    "id": "M-0348",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 295
+    }
+  },
+  {
+    "id": "M-0349",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 296
+    }
+  },
+  {
+    "id": "M-0350",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 297
+    }
+  },
+  {
+    "id": "M-0351",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 298
+    }
+  },
+  {
+    "id": "M-0352",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 299
+    }
+  },
+  {
+    "id": "M-0353",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 300
+    }
+  },
+  {
+    "id": "M-0354",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 301
+    }
+  },
+  {
+    "id": "M-0355",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 302
+    }
+  },
+  {
+    "id": "M-0356",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advance to full text",
+    "fullTextDecision": null,
+    "qaDecision": "Awaiting full text",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 303
+    }
+  },
+  {
+    "id": "M-0357",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 304
+    }
+  },
+  {
+    "id": "M-0358",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 305
+    }
+  },
+  {
+    "id": "M-0359",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 306
+    }
+  },
+  {
+    "id": "M-0360",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 307
+    }
+  },
+  {
+    "id": "M-0361",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 308
+    }
+  },
+  {
+    "id": "M-0362",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 309
+    }
+  },
+  {
+    "id": "M-0363",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 310
+    }
+  },
+  {
+    "id": "M-0364",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 311
+    }
+  },
+  {
+    "id": "M-0365",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 312
+    }
+  },
+  {
+    "id": "M-0366",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 313
+    }
+  },
+  {
+    "id": "M-0367",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 314
+    }
+  },
+  {
+    "id": "M-0368",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 315
+    }
+  },
+  {
+    "id": "M-0369",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 316
+    }
+  },
+  {
+    "id": "M-0370",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 317
+    }
+  },
+  {
+    "id": "M-0371",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 318
+    }
+  },
+  {
+    "id": "M-0372",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 319
+    }
+  },
+  {
+    "id": "M-0373",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 320
+    }
+  },
+  {
+    "id": "M-0374",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 321
+    }
+  },
+  {
+    "id": "M-0375",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 322
+    }
+  },
+  {
+    "id": "M-0376",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 323
+    }
+  },
+  {
+    "id": "M-0377",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 324
+    }
+  },
+  {
+    "id": "M-0378",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 325
+    }
+  },
+  {
+    "id": "M-0379",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 326
+    }
+  },
+  {
+    "id": "M-0380",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 327
+    }
+  },
+  {
+    "id": "M-0381",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 328
+    }
+  },
+  {
+    "id": "M-0382",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 329
+    }
+  },
+  {
+    "id": "M-0383",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 330
+    }
+  },
+  {
+    "id": "M-0384",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 331
+    }
+  },
+  {
+    "id": "M-0385",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 332
+    }
+  },
+  {
+    "id": "M-0386",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 333
+    }
+  },
+  {
+    "id": "M-0387",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 334
+    }
+  },
+  {
+    "id": "M-0388",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 335
+    }
+  },
+  {
+    "id": "M-0389",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 336
+    }
+  },
+  {
+    "id": "M-0390",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 337
+    }
+  },
+  {
+    "id": "M-0392",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 338
+    }
+  },
+  {
+    "id": "M-0393",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 339
+    }
+  },
+  {
+    "id": "M-0394",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 340
+    }
+  },
+  {
+    "id": "M-0395",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 341
+    }
+  },
+  {
+    "id": "M-0396",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 342
+    }
+  },
+  {
+    "id": "M-0397",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 343
+    }
+  },
+  {
+    "id": "M-0398",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 344
+    }
+  },
+  {
+    "id": "M-0400",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 345
+    }
+  },
+  {
+    "id": "M-0401",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 346
+    }
+  },
+  {
+    "id": "M-0402",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 347
+    }
+  },
+  {
+    "id": "M-0403",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 348
+    }
+  },
+  {
+    "id": "M-0404",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 349
+    }
+  },
+  {
+    "id": "M-0405",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 350
+    }
+  },
+  {
+    "id": "M-0406",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 351
+    }
+  },
+  {
+    "id": "M-0407",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 352
+    }
+  },
+  {
+    "id": "M-0408",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 353
+    }
+  },
+  {
+    "id": "M-0409",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 354
+    }
+  },
+  {
+    "id": "M-0410",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 355
+    }
+  },
+  {
+    "id": "M-0411",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 356
+    }
+  },
+  {
+    "id": "M-0412",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 357
+    }
+  },
+  {
+    "id": "M-0413",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 358
+    }
+  },
+  {
+    "id": "M-0414",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 359
+    }
+  },
+  {
+    "id": "M-0415",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 360
+    }
+  },
+  {
+    "id": "M-0416",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 361
+    }
+  },
+  {
+    "id": "M-0417",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 362
+    }
+  },
+  {
+    "id": "M-0418",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 363
+    }
+  },
+  {
+    "id": "M-0419",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 364
+    }
+  },
+  {
+    "id": "M-0420",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 365
+    }
+  },
+  {
+    "id": "M-0421",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 366
+    }
+  },
+  {
+    "id": "M-0422",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 367
+    }
+  },
+  {
+    "id": "M-0424",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 368
+    }
+  },
+  {
+    "id": "M-0425",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 369
+    }
+  },
+  {
+    "id": "M-0426",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 370
+    }
+  },
+  {
+    "id": "M-0427",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 371
+    }
+  },
+  {
+    "id": "M-0428",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 372
+    }
+  },
+  {
+    "id": "M-0429",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 373
+    }
+  },
+  {
+    "id": "M-0430",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 374
+    }
+  },
+  {
+    "id": "M-0431",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 375
+    }
+  },
+  {
+    "id": "M-0432",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 376
+    }
+  },
+  {
+    "id": "M-0433",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 377
+    }
+  },
+  {
+    "id": "M-0434",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 378
+    }
+  },
+  {
+    "id": "M-0435",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 379
+    }
+  },
+  {
+    "id": "M-0436",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 380
+    }
+  },
+  {
+    "id": "M-0437",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 381
+    }
+  },
+  {
+    "id": "M-0438",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 382
+    }
+  },
+  {
+    "id": "M-0439",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 383
+    }
+  },
+  {
+    "id": "M-0440",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 384
+    }
+  },
+  {
+    "id": "M-0441",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 385
+    }
+  },
+  {
+    "id": "M-0443",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 386
+    }
+  },
+  {
+    "id": "M-0444",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 387
+    }
+  },
+  {
+    "id": "M-0445",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 388
+    }
+  },
+  {
+    "id": "M-0446",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 389
+    }
+  },
+  {
+    "id": "M-0447",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 390
+    }
+  },
+  {
+    "id": "M-0448",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 391
+    }
+  },
+  {
+    "id": "M-0449",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 392
+    }
+  },
+  {
+    "id": "M-0450",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 393
+    }
+  },
+  {
+    "id": "M-0451",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X2)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 394
+    }
+  },
+  {
+    "id": "M-0452",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 395
+    }
+  },
+  {
+    "id": "M-0453",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 396
+    }
+  },
+  {
+    "id": "M-0454",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 397
+    }
+  },
+  {
+    "id": "M-0455",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 398
+    }
+  },
+  {
+    "id": "M-0456",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 399
+    }
+  },
+  {
+    "id": "M-0457",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 400
+    }
+  },
+  {
+    "id": "M-0458",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 401
+    }
+  },
+  {
+    "id": "M-0459",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 402
+    }
+  },
+  {
+    "id": "M-0460",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 403
+    }
+  },
+  {
+    "id": "M-0461",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 404
+    }
+  },
+  {
+    "id": "M-0462",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 405
+    }
+  },
+  {
+    "id": "M-0463",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 406
+    }
+  },
+  {
+    "id": "M-0464",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 407
+    }
+  },
+  {
+    "id": "M-0465",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 408
+    }
+  },
+  {
+    "id": "M-0466",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 409
+    }
+  },
+  {
+    "id": "M-0467",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 410
+    }
+  },
+  {
+    "id": "M-0468",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 411
+    }
+  },
+  {
+    "id": "M-0469",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 412
+    }
+  },
+  {
+    "id": "M-0470",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 413
+    }
+  },
+  {
+    "id": "M-0471",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 414
+    }
+  },
+  {
+    "id": "M-0472",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 415
+    }
+  },
+  {
+    "id": "M-0473",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 416
+    }
+  },
+  {
+    "id": "M-0474",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 417
+    }
+  },
+  {
+    "id": "M-0475",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 418
+    }
+  },
+  {
+    "id": "M-0476",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 419
+    }
+  },
+  {
+    "id": "M-0477",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 420
+    }
+  },
+  {
+    "id": "M-0478",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 421
+    }
+  },
+  {
+    "id": "M-0479",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 422
+    }
+  },
+  {
+    "id": "M-0480",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 423
+    }
+  },
+  {
+    "id": "M-0481",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 424
+    }
+  },
+  {
+    "id": "M-0482",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 425
+    }
+  },
+  {
+    "id": "M-0483",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 426
+    }
+  },
+  {
+    "id": "M-0484",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 427
+    }
+  },
+  {
+    "id": "M-0485",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 428
+    }
+  },
+  {
+    "id": "M-0486",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 429
+    }
+  },
+  {
+    "id": "M-0487",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — recommended",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 430
+    }
+  },
+  {
+    "id": "M-0488",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Advance to full text",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed (X2)",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 431
+    }
+  },
+  {
+    "id": "M-0490",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 432
+    }
+  },
+  {
+    "id": "M-0491",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 433
+    }
+  },
+  {
+    "id": "M-0492",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 434
+    }
+  },
+  {
+    "id": "M-0493",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 435
+    }
+  },
+  {
+    "id": "M-0494",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 436
+    }
+  },
+  {
+    "id": "M-0495",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 437
+    }
+  },
+  {
+    "id": "M-0496",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 438
+    }
+  },
+  {
+    "id": "M-0497",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 439
+    }
+  },
+  {
+    "id": "M-0498",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 440
+    }
+  },
+  {
+    "id": "M-0499",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 441
+    }
+  },
+  {
+    "id": "M-0500",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 442
+    }
+  },
+  {
+    "id": "M-0501",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 443
+    }
+  },
+  {
+    "id": "M-0502",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 444
+    }
+  },
+  {
+    "id": "M-0503",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 445
+    }
+  },
+  {
+    "id": "M-0504",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 446
+    }
+  },
+  {
+    "id": "M-0505",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 447
+    }
+  },
+  {
+    "id": "M-0506",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 448
+    }
+  },
+  {
+    "id": "M-0507",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 449
+    }
+  },
+  {
+    "id": "M-0508",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 450
+    }
+  },
+  {
+    "id": "M-0509",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 451
+    }
+  },
+  {
+    "id": "M-0510",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 452
+    }
+  },
+  {
+    "id": "M-0511",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 453
+    }
+  },
+  {
+    "id": "M-0512",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 454
+    }
+  },
+  {
+    "id": "M-0513",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 455
+    }
+  },
+  {
+    "id": "M-0514",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 456
+    }
+  },
+  {
+    "id": "M-0515",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 457
+    }
+  },
+  {
+    "id": "M-0516",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 458
+    }
+  },
+  {
+    "id": "M-0517",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 459
+    }
+  },
+  {
+    "id": "M-0518",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 460
+    }
+  },
+  {
+    "id": "M-0519",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 461
+    }
+  },
+  {
+    "id": "M-0520",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 462
+    }
+  },
+  {
+    "id": "M-0521",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 463
+    }
+  },
+  {
+    "id": "M-0522",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 464
+    }
+  },
+  {
+    "id": "M-0523",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 465
+    }
+  },
+  {
+    "id": "M-0524",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 466
+    }
+  },
+  {
+    "id": "M-0525",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 467
+    }
+  },
+  {
+    "id": "M-0526",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 468
+    }
+  },
+  {
+    "id": "M-0527",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 469
+    }
+  },
+  {
+    "id": "M-0528",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 470
+    }
+  },
+  {
+    "id": "M-0529",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 471
+    }
+  },
+  {
+    "id": "M-0530",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 472
+    }
+  },
+  {
+    "id": "M-0531",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 473
+    }
+  },
+  {
+    "id": "M-0532",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 474
+    }
+  },
+  {
+    "id": "M-0533",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 475
+    }
+  },
+  {
+    "id": "M-0534",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 476
+    }
+  },
+  {
+    "id": "M-0535",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 477
+    }
+  },
+  {
+    "id": "M-0536",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 478
+    }
+  },
+  {
+    "id": "M-0537",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 479
+    }
+  },
+  {
+    "id": "M-0538",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 480
+    }
+  },
+  {
+    "id": "M-0539",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 481
+    }
+  },
+  {
+    "id": "M-0540",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 482
+    }
+  },
+  {
+    "id": "M-0541",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 483
+    }
+  },
+  {
+    "id": "M-0542",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 484
+    }
+  },
+  {
+    "id": "M-0543",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 485
+    }
+  },
+  {
+    "id": "M-0544",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 486
+    }
+  },
+  {
+    "id": "M-0545",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 487
+    }
+  },
+  {
+    "id": "M-0546",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 488
+    }
+  },
+  {
+    "id": "M-0547",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 489
+    }
+  },
+  {
+    "id": "M-0548",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 490
+    }
+  },
+  {
+    "id": "M-0549",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 491
+    }
+  },
+  {
+    "id": "M-0550",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 492
+    }
+  },
+  {
+    "id": "M-0551",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 493
+    }
+  },
+  {
+    "id": "M-0552",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 494
+    }
+  },
+  {
+    "id": "M-0553",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 495
+    }
+  },
+  {
+    "id": "M-0554",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 496
+    }
+  },
+  {
+    "id": "M-0555",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 497
+    }
+  },
+  {
+    "id": "M-0556",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 498
+    }
+  },
+  {
+    "id": "M-0557",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 499
+    }
+  },
+  {
+    "id": "M-0558",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 500
+    }
+  },
+  {
+    "id": "M-0560",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 501
+    }
+  },
+  {
+    "id": "M-0561",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 502
+    }
+  },
+  {
+    "id": "M-0562",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 503
+    }
+  },
+  {
+    "id": "M-0563",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 504
+    }
+  },
+  {
+    "id": "M-0564",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 505
+    }
+  },
+  {
+    "id": "M-0565",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 506
+    }
+  },
+  {
+    "id": "M-0566",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — adjudicated",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 507
+    }
+  },
+  {
+    "id": "M-0567",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 508
+    }
+  },
+  {
+    "id": "M-0568",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 509
+    }
+  },
+  {
+    "id": "M-0569",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 510
+    }
+  },
+  {
+    "id": "M-0570",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 511
+    }
+  },
+  {
+    "id": "M-0571",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 512
+    }
+  },
+  {
+    "id": "M-0572",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 513
+    }
+  },
+  {
+    "id": "M-0573",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 514
+    }
+  },
+  {
+    "id": "M-0574",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 515
+    }
+  },
+  {
+    "id": "M-0575",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 516
+    }
+  },
+  {
+    "id": "M-0576",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 517
+    }
+  },
+  {
+    "id": "M-0577",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 518
+    }
+  },
+  {
+    "id": "M-0578",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 519
+    }
+  },
+  {
+    "id": "M-0579",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 520
+    }
+  },
+  {
+    "id": "M-0580",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 521
+    }
+  },
+  {
+    "id": "M-0581",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 522
+    }
+  },
+  {
+    "id": "M-0582",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 523
+    }
+  },
+  {
+    "id": "M-0583",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 524
+    }
+  },
+  {
+    "id": "M-0584",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 525
+    }
+  },
+  {
+    "id": "M-0585",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 526
+    }
+  },
+  {
+    "id": "M-0586",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 527
+    }
+  },
+  {
+    "id": "M-0587",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 528
+    }
+  },
+  {
+    "id": "M-0588",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 529
+    }
+  },
+  {
+    "id": "M-0589",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 530
+    }
+  },
+  {
+    "id": "M-0590",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 531
+    }
+  },
+  {
+    "id": "M-0591",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 532
+    }
+  },
+  {
+    "id": "M-0592",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 533
+    }
+  },
+  {
+    "id": "M-0593",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 534
+    }
+  },
+  {
+    "id": "M-0595",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 535
+    }
+  },
+  {
+    "id": "M-0596",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 536
+    }
+  },
+  {
+    "id": "M-0597",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 537
+    }
+  },
+  {
+    "id": "M-0598",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 538
+    }
+  },
+  {
+    "id": "M-0599",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 539
+    }
+  },
+  {
+    "id": "M-0600",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 540
+    }
+  },
+  {
+    "id": "M-0601",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 541
+    }
+  },
+  {
+    "id": "M-0602",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 542
+    }
+  },
+  {
+    "id": "M-0603",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 543
+    }
+  },
+  {
+    "id": "M-0604",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 544
+    }
+  },
+  {
+    "id": "M-0605",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 545
+    }
+  },
+  {
+    "id": "M-0606",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 546
+    }
+  },
+  {
+    "id": "M-0607",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 547
+    }
+  },
+  {
+    "id": "M-0608",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 548
+    }
+  },
+  {
+    "id": "M-0609",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 549
+    }
+  },
+  {
+    "id": "M-0610",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 550
+    }
+  },
+  {
+    "id": "M-0611",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 551
+    }
+  },
+  {
+    "id": "M-0612",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 552
+    }
+  },
+  {
+    "id": "M-0613",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 553
+    }
+  },
+  {
+    "id": "M-0614",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 554
+    }
+  },
+  {
+    "id": "M-0615",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 555
+    }
+  },
+  {
+    "id": "M-0616",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 556
+    }
+  },
+  {
+    "id": "M-0617",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 557
+    }
+  },
+  {
+    "id": "M-0619",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 558
+    }
+  },
+  {
+    "id": "M-0620",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 559
+    }
+  },
+  {
+    "id": "M-0621",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 560
+    }
+  },
+  {
+    "id": "M-0622",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 561
+    }
+  },
+  {
+    "id": "M-0735",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 562
+    }
+  },
+  {
+    "id": "M-0736",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 563
+    }
+  },
+  {
+    "id": "M-0737",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 564
+    }
+  },
+  {
+    "id": "M-0739",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 565
+    }
+  },
+  {
+    "id": "M-0740",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 566
+    }
+  },
+  {
+    "id": "M-0741",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 567
+    }
+  },
+  {
+    "id": "M-0743",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 568
+    }
+  },
+  {
+    "id": "M-0744",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Exclude",
+    "qaDecision": "Exclude — full-text reviewed",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 569
+    }
+  },
+  {
+    "id": "M-0745",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advance to full text",
+    "fullTextDecision": null,
+    "qaDecision": "Awaiting full text",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 570
+    }
+  },
+  {
+    "id": "M-0746",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 571
+    }
+  },
+  {
+    "id": "M-0748",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 572
+    }
+  },
+  {
+    "id": "M-0749",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 573
+    }
+  },
+  {
+    "id": "M-0750",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 574
+    }
+  },
+  {
+    "id": "M-0751",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 575
+    }
+  },
+  {
+    "id": "M-0753",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 576
+    }
+  },
+  {
+    "id": "M-0754",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 577
+    }
+  },
+  {
+    "id": "M-0756",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 578
+    }
+  },
+  {
+    "id": "M-0759",
+    "frozenDecision": "Include candidate — read full text",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 579
+    }
+  },
+  {
+    "id": "M-0760",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 580
+    }
+  },
+  {
+    "id": "M-0762",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 581
+    }
+  },
+  {
+    "id": "M-0769",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 582
+    }
+  },
+  {
+    "id": "M-0771",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 583
+    }
+  },
+  {
+    "id": "M-0773",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 584
+    }
+  },
+  {
+    "id": "M-0776",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 585
+    }
+  },
+  {
+    "id": "M-0779",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 586
+    }
+  },
+  {
+    "id": "M-0780",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 587
+    }
+  },
+  {
+    "id": "M-0781",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Re-screen required",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 588
+    }
+  },
+  {
+    "id": "M-0782",
+    "frozenDecision": "Exclude after title/abstract",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 589
+    }
+  },
+  {
+    "id": "M-0783",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Advanced to full text / QA",
+    "fullTextDecision": "Include",
+    "qaDecision": "Include — QA v2 pass",
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 590
+    }
+  },
+  {
+    "id": "M-0784",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 591
+    }
+  },
+  {
+    "id": "M-0785",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 592
+    }
+  },
+  {
+    "id": "M-0786",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 593
+    }
+  },
+  {
+    "id": "M-0787",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 594
+    }
+  },
+  {
+    "id": "M-0788",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 595
+    }
+  },
+  {
+    "id": "M-0789",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 596
+    }
+  },
+  {
+    "id": "M-0795",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Historical title/abstract exclusion — scope re-screen pending",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 597
+    }
+  },
+  {
+    "id": "M-0796",
+    "frozenDecision": "Exclude",
+    "currentDecision": "Exclude — provisional",
+    "fullTextDecision": null,
+    "qaDecision": null,
+    "source": {
+      "file": "XAI_SER_Screening_597_Full.xlsx",
+      "sheet": "Screening",
+      "row": 598
+    }
+  }
+]

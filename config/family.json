@@ -1,0 +1,35 @@
+{
+  "Shapley-value attribution": [
+    "SHAP"
+  ],
+  "Perturbation / surrogate attribution": [
+    "LIME",
+    "Permutation importance",
+    "Occlusion"
+  ],
+  "Gradient / propagation attribution": [
+    "Grad-CAM",
+    "Grad-CAM++",
+    "Integrated Gradients",
+    "DeepLIFT",
+    "Gradient attribution",
+    "Layer-wise Relevance Propagation (LRP)"
+  ],
+  "Model-internal inspection": [
+    "Attention analysis",
+    "Learned filters",
+    "Network weights",
+    "Decision coefficients",
+    "Tree importance",
+    "Layer probing",
+    "TCAV"
+  ],
+  "Generative, contrastive or example-based": [
+    "Generated rationale",
+    "Generated caption",
+    "Generative audio",
+    "Counterfactual audio",
+    "Contrastive acoustic cues",
+    "Cue saliency"
+  ]
+}

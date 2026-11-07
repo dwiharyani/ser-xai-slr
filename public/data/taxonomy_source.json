@@ -1,0 +1,914 @@
+[
+  {
+    "id": "M-0001",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "LIME, Integrated Gradients",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5–6, Figs 4–8",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 4
+    }
+  },
+  {
+    "id": "M-0003",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "LIME",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 2, Figs 2–3. 3–4, distribution-shift comparisons",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 5
+    }
+  },
+  {
+    "id": "M-0005",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "methodsRaw": "SHAP, Attention analysis, Occlusion",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 3, explanation method. 4–5, Figs 4–7",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 6
+    }
+  },
+  {
+    "id": "M-0007",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5–6, Figs 5–6",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 7
+    }
+  },
+  {
+    "id": "M-0009",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "Generated rationale",
+    "deliveryRaw": "Text / cue phrase",
+    "locator": "PDF 2, supervision and test split. 4, Table 2 and Fig 1",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 8
+    }
+  },
+  {
+    "id": "M-0016",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Learned filters",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 3–4, filter masking and Table II. 4–5, Figs 4–5",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 9
+    }
+  },
+  {
+    "id": "M-0017",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Indexed features (mapping limited)",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 4, classifiers. 6–7, Figs 3–6",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 10
+    }
+  },
+  {
+    "id": "M-0018",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Learned filters",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5, Fig 5 and §IV.C",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 11
+    }
+  },
+  {
+    "id": "M-0019",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "Generated caption",
+    "deliveryRaw": "Text / cue phrase",
+    "locator": "PDF 8, datasets and pipeline. 10, Table II. 11–12, Fig 5",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 12
+    }
+  },
+  {
+    "id": "M-0029",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "LIME, SHAP, Grad-CAM",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 20, Fig 20. 20–22, metric definitions and Table 6",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 13
+    }
+  },
+  {
+    "id": "M-0031",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "LIME",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 7–8, Figs 8–10",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 14
+    }
+  },
+  {
+    "id": "M-0037",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Integrated Gradients",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 7, architectures. 11–12, Figs 8–10",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 15
+    }
+  },
+  {
+    "id": "M-0038",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Boosted or transformed coordinates",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 3–4, Figs 2–3 and class-wise feature importance",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 16
+    }
+  },
+  {
+    "id": "M-0046",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "Tree importance",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 4, Fig 2",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 17
+    }
+  },
+  {
+    "id": "M-0049",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 2, dataset and models. 4–6, Fig 2 on 6",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 18
+    }
+  },
+  {
+    "id": "M-0057",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "Permutation importance",
+    "deliveryRaw": "Prose / tabulated ranking",
+    "locator": "PDF 4, §2 Permutation Importance and Table IV",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 19
+    }
+  },
+  {
+    "id": "M-0065",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 7, Fig 2",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 20
+    }
+  },
+  {
+    "id": "M-0068",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Network weights",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 11–13, Figs 3–5",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 21
+    }
+  },
+  {
+    "id": "M-0073",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 4–5, Figs 5–6 on 5",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 22
+    }
+  },
+  {
+    "id": "M-0075",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5, SHAP method. 6–7, Table VI on 7",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 23
+    }
+  },
+  {
+    "id": "M-0076",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Prose / tabulated ranking",
+    "locator": "PDF 3–4, experiment 1. 4–5, Tables II–VII",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 24
+    }
+  },
+  {
+    "id": "M-0086",
+    "d1Raw": "Post-training probing of a learned decision pathway",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Layer probing",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 2, Fig 1. 3, Fig 2a and §3.2",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 25
+    }
+  },
+  {
+    "id": "M-0168",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP, Permutation importance",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 3, Table I. 8, Fig 8",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 26
+    }
+  },
+  {
+    "id": "M-0208",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Time-preserving generated audio; selection reported in latent space",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "Generative audio, Integrated Gradients",
+    "deliveryRaw": "Synthesized audio",
+    "locator": "PDF 3, classifiers. 4, Tables II–III",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 27
+    }
+  },
+  {
+    "id": "M-0311",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Indexed features (mapping limited)",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 13, Fig 7. 16, Fig 10",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 28
+    }
+  },
+  {
+    "id": "M-0372",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "Gradient attribution",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 11, Fig 2. 13, Fig 4. 15, Fig 7",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 29
+    }
+  },
+  {
+    "id": "M-0376",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP, Permutation importance",
+    "deliveryRaw": "Prose / tabulated ranking",
+    "locator": "PDF 4–5, PFI/Kernel SHAP composite. 7, Fig 4 and Table 2",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 30
+    }
+  },
+  {
+    "id": "M-0405",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "Tree importance",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 6, §5. 7, Figs 5–6",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 31
+    }
+  },
+  {
+    "id": "M-0408",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Grad-CAM, LIME, Occlusion",
+    "deliveryRaw": "Plots and audible output",
+    "locator": "PDF 12–15, datasets. 19–20, Figs 24–27",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 32
+    }
+  },
+  {
+    "id": "M-0443",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "methodsRaw": "Attention analysis",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 3, Fig 2. 4, Tables 3–6",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 33
+    }
+  },
+  {
+    "id": "M-0444",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Boosted or transformed coordinates",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 8–9, datasets. 10–11, Figs 2–3",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 34
+    }
+  },
+  {
+    "id": "M-0467",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "Attention analysis",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 14, Table 7. 15–16, Figs 7–8",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 35
+    }
+  },
+  {
+    "id": "M-0485",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Grad-CAM, Attention analysis",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 2, datasets. 6–7, Fig 4 on 7",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 36
+    }
+  },
+  {
+    "id": "M-0492",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Grad-CAM++",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 2, datasets. 6, Fig 4",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 37
+    }
+  },
+  {
+    "id": "M-0501",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "methodsRaw": "Attention analysis",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 4, Figs 3–5",
+    "speechInformation": "Acoustic",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 38
+    }
+  },
+  {
+    "id": "M-0513",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "SHAP, LIME, Grad-CAM",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 13–16, Figs 6–8 and Table 20",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 39
+    }
+  },
+  {
+    "id": "M-0533",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "SHAP, TCAV",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 9–10, method. 17–21, Figs 11–12",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 40
+    }
+  },
+  {
+    "id": "M-0540",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "SHAP, LIME",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 30–34, Figs 19–26",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 41
+    }
+  },
+  {
+    "id": "M-0552",
+    "d1Raw": "Purpose-built explanation network and saliency intervention",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "Cue saliency, Counterfactual audio",
+    "deliveryRaw": "Plots and audible output",
+    "locator": "PDF 6, Fig 4. 7, Fig 6. 7–10, Figs 7–8",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 42
+    }
+  },
+  {
+    "id": "M-0555",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "DeepLIFT",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 9, §3.5. 18–19, Table 10 on 19",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 43
+    }
+  },
+  {
+    "id": "M-0567",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Indexed features (mapping limited)",
+    "methodsRaw": "SHAP, LIME, Attention analysis",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 11–13, Figs 6–8",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 44
+    }
+  },
+  {
+    "id": "M-0569",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Occlusion",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 10–11, Fig 3 and spectral-occlusion experiment. 11–13, Figs 4–7",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 45
+    }
+  },
+  {
+    "id": "M-0571",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "methodsRaw": "Decision coefficients",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 14, Fig 4. 20–22, Fig 10 on 22",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 46
+    }
+  },
+  {
+    "id": "M-0592",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP, Permutation importance",
+    "deliveryRaw": "Prose / tabulated ranking",
+    "locator": "PDF 6, Fig 2. 7, Table 2. 9, Table 4",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 47
+    }
+  },
+  {
+    "id": "M-0596",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Grad-CAM",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 11–15, Figs 9–13 and Table 4",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 48
+    }
+  },
+  {
+    "id": "M-0604",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "methodsRaw": "Grad-CAM",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 13–14, Fig 12 on 14",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 49
+    }
+  },
+  {
+    "id": "M-0611",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 8, Tables 2–3. 10, Fig 4",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 50
+    }
+  },
+  {
+    "id": "M-0612",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Indexed features (mapping limited)",
+    "methodsRaw": "SHAP, LIME",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 14–22, Figs 3–22 including Fig 13 on 18",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 51
+    }
+  },
+  {
+    "id": "M-0614",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "LIME",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5, datasets. 9–10, Fig 4 on 10",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 52
+    }
+  },
+  {
+    "id": "M-0759",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 8, Figs 11–12",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 53
+    }
+  },
+  {
+    "id": "M-0582",
+    "d1Raw": "Jointly trained explanatory modules plus post-hoc attribution",
+    "d2Raw": "Time-localized speech evidence in contrastive saliency display",
+    "d3": "Mixed representations across outputs",
+    "methodsRaw": "Discounted Grad-CAM, counterfactual audio (StarGAN-VC and matched recordings), LRP-weighted contrastive acoustic cues",
+    "deliveryRaw": "Saliency strip, comparison audio and verbal acoustic-cue differences",
+    "locator": "PDF pp. 4–7 (Fig. 2 p. 5; Fig. 5 and Table 4 p. 7), pp. 8–10 (Fig. 7 p. 10).",
+    "speechInformation": "Acoustic",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 54
+    }
+  },
+  {
+    "id": "M-0106",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "TCAV",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 5-6, Fig. 2b-d; Table I",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 55
+    }
+  },
+  {
+    "id": "M-0378",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Indexed features (mapping limited)",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Prose / tabulated ranking",
+    "locator": "PDF 11-13, Tables 4-5 and 9",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 56
+    }
+  },
+  {
+    "id": "M-0545",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Boosted or transformed coordinates",
+    "methodsRaw": "SHAP",
+    "deliveryRaw": "Plot or tabulated model output",
+    "locator": "PDF 6-7 Sec. 3.5; PDF 9, Fig. 8",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 57
+    }
+  },
+  {
+    "id": "M-0284",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "Generated rationale",
+    "deliveryRaw": "Text / cue phrase",
+    "locator": "PDF 1, Fig. 1; PDF 3-4, Tables 1-4",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 58
+    }
+  },
+  {
+    "id": "M-0782",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "Generated rationale",
+    "deliveryRaw": "Text / cue phrase",
+    "locator": "PDF 6-8, Table 4; appendix Tables 10-12",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 59
+    }
+  },
+  {
+    "id": "M-0783",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "methodsRaw": "Generated rationale",
+    "deliveryRaw": "Text / cue phrase",
+    "locator": "PDF 8, Fig. 3; PDF 6-7, Tables 1-2",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "source": {
+      "file": "Final_Included_Excluded_Studies_XAI_SER_FIX.xlsx",
+      "sheet": "Taxonomy",
+      "row": 60
+    }
+  }
+]

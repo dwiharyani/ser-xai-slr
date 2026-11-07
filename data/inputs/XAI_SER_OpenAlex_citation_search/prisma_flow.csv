@@ -1,0 +1,19 @@
+stage,n
+"Seeds (57 reports, 2 reviews, 2 preprints)",61
+Seeds indexed in OpenAlex,60
+Backward links,1092
+Forward links,358
+Records identified,1450
+Removed: published before 2021,551
+Removed: duplicate links,197
+Removed: already identified (seed or database register),75
+Removed: preprint or non-report,13
+Records screened,614
+Excluded at title/abstract,603
+Reports sought,11
+Reports not retrieved,5
+Reports assessed,6
+Excluded at eligibility,0
+Appraised with QA v2,6
+Below QA threshold,1
+Included,5

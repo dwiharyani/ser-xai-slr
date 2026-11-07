@@ -1,0 +1,6 @@
+5
+W4409327450|2025|10.1109/access.2025.3559135|x
+W4416744780|2025|10.5753/webmedia.2025.16129|BAH: Beyond Acoustic Handcrafted features for speech emotion recognition in Portuguese
+W7165658763|2026|10.1109/icirca69024.2026.11570588|x
+W4407278820|2025|10.2139/ssrn.5129679|Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Speech Emotion Recognition
+W4407477717|2024|10.1109/icuis64676.2024.10866623|x

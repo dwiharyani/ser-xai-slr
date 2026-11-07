@@ -1,0 +1,9 @@
+d3 / d2,Aggregated,Localised,Unresolved
+Acoustic features / descriptors,15,0,0
+Boosted or transformed coordinates,2,0,0
+Indexed features (mapping limited),2,1,2
+Learned frame- or word-level evidence,0,3,0
+Learned representations / model states,6,0,0
+Mixed representations across outputs,1,5,3
+Named concepts and cues,5,1,0
+Time–frequency regions / spectral bands,1,7,2

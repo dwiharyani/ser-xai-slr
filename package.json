@@ -1,0 +1,28 @@
+{
+  "name": "xai-ser-review",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "validate": "python3 scripts/validate.py",
+    "reproduce": "python scripts/rebuild_latest.py && python scripts/extract_manuscript_figures.py public/downloads/manuscript-v6.pdf && python scripts/validate.py"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1",
+    "@vitejs/plugin-react": "^5.1.0",
+    "@types/node": "^24.0.0"
+  }
+}

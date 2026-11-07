@@ -1,0 +1,2955 @@
+[
+  {
+    "id": "M-0001",
+    "title": "Enhancing Speech Emotion Recognition with Explainable AI and Feature Importance Analysis",
+    "year": 2025,
+    "doi": "10.1109/NCIM65934.2025.11160160",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "LIME",
+      "Integrated Gradients"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "SAVEE",
+      "TESS",
+      "CREMA-D"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "1D CNN",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 5–6, Figs 4–8",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0003",
+    "title": "Exploring Local Interpretable Model-Agnostic Explanations for Speech Emotion Recognition with Distribution-Shift",
+    "year": 2025,
+    "doi": "10.1109/ICASSP49660.2025.10889825",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "LIME"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)"
+    ],
+    "model": "ComParE-SVC and wav2vec 2.0-SVC",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 2, Figs 2–3. 3–4, distribution-shift comparisons",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": false,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0005",
+    "title": "Explainable Transformer-Based Speech Emotion Recognition Using Benchmark Datasets",
+    "year": 2026,
+    "doi": "10.1109/AICCONF69182.2026.11600714",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "d4": [
+      "Model-internal inspection",
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "Attention analysis",
+      "Occlusion"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)"
+    ],
+    "model": "wav2vec 2.0 and Transformer",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 3, explanation method. 4–5, Figs 4–7",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0007",
+    "title": "Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/ICIRCA69024.2026.11570588",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "EmoTa"
+    ],
+    "languages": [
+      "Tamil"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Random forest and XGBoost",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 5–6, Figs 5–6",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0009",
+    "title": "Reasoning beyond Majority Vote: An Explainable Speechlm Framework for Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/icassp55912.2026.11464563",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "IEEE",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Generated rationale"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "IEMOCAP",
+      "CREMA-D",
+      "MELD",
+      "MSP-Podcast"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Broadcast / film / radio",
+      "Naturalistic (podcast)"
+    ],
+    "model": "Qwen2-Audio-7B-Instruct student and Qwen2.5-Omni teacher",
+    "modelGroup": "Language or audio-language model",
+    "delivery": "Verbal (text, cue phrases)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "evaluation": [
+      "Human evaluation of explanations",
+      "Automated scoring of generated rationales"
+    ],
+    "locator": "PDF 2, supervision and test split. 4, Table 2 and Fig 1",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "Rationale acceptance",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0016",
+    "title": "Filters Know How You Feel: Explaining Intermediate Speech Emotion Classification Representations",
+    "year": 2021,
+    "doi": null,
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Learned filters"
+    ],
+    "datasets": [
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)"
+    ],
+    "model": "SincNet-based emotion classifier",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness"
+    ],
+    "locator": "PDF 3–4, filter masking and Table II. 4–5, Figs 4–5",
+    "fidelityEvidence": "One-filter masking and confidence/accuracy change (pp. 3–4, Table II).",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0017",
+    "title": "Interpretable Feature Optimization for Sadness Recognition in Speech Emotion Analysis",
+    "year": 2024,
+    "doi": "10.1109/IS61756.2024.10705229",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "SAVEE",
+      "TESS"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "SVM and KNN evaluated; SHAP model linkage under-specified",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 4, classifiers. 6–7, Figs 3–6",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0018",
+    "title": "Persian Speech Emotion Recognition Using Multi-Scale SincNet and cGAN-based Ensemble Learning",
+    "year": 2026,
+    "doi": "10.1109/IICAI70155.2026.11620846",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Learned filters"
+    ],
+    "datasets": [
+      "ShEMO"
+    ],
+    "languages": [
+      "Persian"
+    ],
+    "elicitation": [
+      "Broadcast / film / radio"
+    ],
+    "model": "One-vs-all multi-scale SincNet ensemble",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 5, Fig 5 and §IV.C",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0019",
+    "title": "Exploring the Use of Large Language Models and Interpretable Features for Explainable Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/JSTSP.2026.3652299",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Generated caption"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "IEMOCAP",
+      "MSP-Podcast",
+      "MSP-IMPROV"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Naturalistic (podcast)"
+    ],
+    "model": "WavLM-Large, UniAdapter and LLaMA-2 (SEmoLLM)",
+    "modelGroup": "Language or audio-language model",
+    "delivery": "Verbal (text, cue phrases)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Human evaluation of explanations"
+    ],
+    "locator": "PDF 8, datasets and pipeline. 10, Table II. 11–12, Fig 5",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "Preference / perceived explanatory adequacy",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0029",
+    "title": "Can We Trust AI With Our Ears? A Cross-Domain Comparative Analysis of Explainability in Audio Intelligence",
+    "year": 2025,
+    "doi": "10.1109/ACCESS.2025.3622161",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "LIME",
+      "Grad-CAM"
+    ],
+    "datasets": [
+      "CREMA-D"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "CNN with MFCC and spectrogram inputs",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness",
+      "Controlled robustness of explanation or cue outputs",
+      "Repeated-run stability of explanations"
+    ],
+    "locator": "PDF 20, Fig 20. 20–22, metric definitions and Table 6",
+    "fidelityEvidence": "Insertion AUC on CREMA-D (pp. 20–22, Table 6).",
+    "stabilityEvidence": "Jaccard overlap of top features across repeated runs (pp. 20–22, Table 6).",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0031",
+    "title": "Multi-Lingual Speech Emotion Recognition: Investigating Similarities between English and German Languages",
+    "year": 2024,
+    "doi": "10.1109/ACCAI61061.2024.10601715",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "LIME"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "CNN",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 7–8, Figs 8–10",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0037",
+    "title": "The Shape of Emotion in Speech: A Topological Data Analysis of Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/ACCESS.2026.3681238",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Integrated Gradients"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "SAVEE",
+      "TESS",
+      "CREMA-D"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "TDA MLP, CRNN and fusion",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 7, architectures. 11–12, Figs 8–10",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0046",
+    "title": "Feature Importance and Model Performance in Deep Learning for Speech Emotion Recognition",
+    "year": 2024,
+    "doi": "10.1109/ICACC63692.2024.10845528",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Tree importance"
+    ],
+    "datasets": [
+      "TESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Random forest and decision tree",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 4, Fig 2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0049",
+    "title": "Language-Dependent and Language-Independent Acoustic Cues in Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/MetroInd4.0IoT69397.2026.11653136",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "EmoFilm"
+    ],
+    "languages": [
+      "English",
+      "Italian",
+      "Spanish"
+    ],
+    "elicitation": [
+      "Broadcast / film / radio"
+    ],
+    "model": "Random forest and SVM compared",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 2, dataset and models. 4–6, Fig 2 on 6",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0057",
+    "title": "Speech Emotion Recognition System for Human Interaction Applications",
+    "year": 2021,
+    "doi": "10.1109/ICICIS52592.2021.9694246",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "Permutation importance"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "CaFE"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Logistic regression, SVM, random forest and MLP",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Ranked list or prose",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 4, §2 Permutation Importance and Table IV",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0065",
+    "title": "Enhancing Speech Emotion Recognition through Domain-Aware Data Augmentation and Model Explainability",
+    "year": 2025,
+    "doi": "10.1109/ISCIPT67144.2025.11265207",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "TESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "XGBoost",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 7, Fig 2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0068",
+    "title": "An Interpretable Collaborative Acoustic Parameter Modeling Network for Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/TCSS.2026.3692891",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Network weights"
+    ],
+    "datasets": [
+      "EmoDB",
+      "IEMOCAP",
+      "ABC"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Induced"
+    ],
+    "model": "ICAPM-Net",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 11–13, Figs 3–5",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0073",
+    "title": "Enhancing Speech Emotion Recognition in Urdu Using Bi-GRU Networks: An In-Depth Analysis of Acoustic Features and Model Interpretability",
+    "year": 2024,
+    "doi": "10.1109/ICIT58233.2024.10540745",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "Urdu emotional speech corpus"
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "elicitation": [
+      "Spontaneous (talk shows)"
+    ],
+    "model": "Bidirectional GRU",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 4–5, Figs 5–6 on 5",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0075",
+    "title": "Acoustic Characterization of Huntington's Disease Emotional Expression: An Explainable AI Approach",
+    "year": 2024,
+    "doi": "10.1109/ACIIW63320.2024.00052",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "Author emotional speech corpus (HD, preHD and controls)"
+    ],
+    "languages": [
+      "French"
+    ],
+    "elicitation": [
+      "Spontaneous (clinical narratives)"
+    ],
+    "model": "Random forest on acoustics and transcript features",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 5, SHAP method. 6–7, Table VI on 7",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0076",
+    "title": "Informative Speech Features based on Emotion Classes and Gender in Explainable Speech Emotion Recognition",
+    "year": 2023,
+    "doi": "10.1109/ACIIW59127.2023.10388158",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "EmoDB"
+    ],
+    "languages": [
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Multiple classical classifiers",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Ranked list or prose",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 3–4, experiment 1. 4–5, Tables II–VII",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0086",
+    "title": "Behind the Scenes: Mechanistic Interpretability of Lora-Adapted Whisper for Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1109/icassp55912.2026.11464049",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Post-training probing of a learned decision pathway",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Layer probing"
+    ],
+    "datasets": [
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)"
+    ],
+    "model": "LoRA-adapted Whisper-large-v2",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 2, Fig 1. 3, Fig 2a and §3.2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0168",
+    "title": "Acoustic Correlates of Affective Prosody Across Emotions and Stress Levels: A Phonetic Analysis With Interpretable AI-Assisted Modeling",
+    "year": 2026,
+    "doi": "10.1109/TASLPRO.2026.3693971",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "Permutation importance"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "IEMOCAP",
+      "SAVEE",
+      "TESS",
+      "DEMoS",
+      "DES",
+      "EmoV-DB",
+      "SUSAS"
+    ],
+    "languages": [
+      "Danish",
+      "English",
+      "German",
+      "Italian"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Induced",
+      "Stress (real and simulated)"
+    ],
+    "model": "TDNN and SVM",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 3, Table I. 8, Fig 8",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0208",
+    "title": "Improving Audio Explanations Using Audio Language Models",
+    "year": 2025,
+    "doi": "10.1109/LSP.2025.3532218",
+    "authors": null,
+    "publicationType": "IEEE Journals",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; IEEE; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "Time-preserving generated audio; selection reported in latent space",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Generative, contrastive or example-based",
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Integrated Gradients",
+      "Generative audio"
+    ],
+    "datasets": [
+      "TESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "EnCodec embedding classifiers and AudioGen",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Includes audible output",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness"
+    ],
+    "locator": "PDF 3, classifiers. 4, Tables II–III",
+    "fidelityEvidence": "Reconstructed-audio prediction agreement against random and zeroing baselines (p. 4, Table II).",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0284",
+    "title": "Chain-of-Thought Distillation with Fine-Grained Acoustic Cues for Speech Emotion Recognition",
+    "year": 2025,
+    "doi": "10.21437/Interspeech.2025-1979",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS; ISCA",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Generated rationale"
+    ],
+    "datasets": [
+      "IEMOCAP",
+      "MELD"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Broadcast / film / radio"
+    ],
+    "model": "AECoTD: Qwen2.5-7B student distilled from DeepSeek-R1 on transcripts and verbalised acoustic cues",
+    "modelGroup": "Language or audio-language model",
+    "delivery": "Verbal (text, cue phrases)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [],
+    "locator": "PDF 1, Fig. 1; PDF 3-4, Tables 1-4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0311",
+    "title": "Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network",
+    "year": 2023,
+    "doi": "10.1080/24751839.2023.2187278",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "EmoDB",
+      "AESSD"
+    ],
+    "languages": [
+      "German",
+      "Greek"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Deep pyramidal residual network",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 13, Fig 7. 16, Fig 10",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0372",
+    "title": "An Interpretable Hybrid Deep Learning Framework for Speech Emotion Recognition Using Self-Supervised Representations and Bidirectional Sequence Modelling.",
+    "year": 2026,
+    "doi": "10.59543/jidmis.v3.443",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Gradient attribution"
+    ],
+    "datasets": [
+      "TESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Self-supervised representations and BiLSTM",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 11, Fig 2. 13, Fig 4. 15, Fig 7",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0376",
+    "title": "Exploring the acoustic-prosodic characteristics of emotional prosody in Mandarin disyllabic speech materials with machine-learning tools",
+    "year": 2026,
+    "doi": "10.1016/j.specom.2026.103473",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "Permutation importance"
+    ],
+    "datasets": [
+      "Author Mandarin disyllabic emotional-speech recordings"
+    ],
+    "languages": [
+      "Mandarin"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "SVM, random forest and MLP",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Ranked list or prose",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 4–5, PFI/Kernel SHAP composite. 7, Fig 4 and Table 2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0405",
+    "title": "Acoustic feature analysis and optimization for Bangla speech emotion recognition",
+    "year": 2023,
+    "doi": "10.1250/ast.44.157",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Tree importance"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "SUBESCO"
+    ],
+    "languages": [
+      "Bangla",
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "XGBoost",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 6, §5. 7, Figs 5–6",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0408",
+    "title": "Speech Emotion Recognition Using Deep Learning Transfer Models and Explainable Techniques",
+    "year": 2024,
+    "doi": "10.3390/app14041553",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "LIME",
+      "Grad-CAM",
+      "Occlusion"
+    ],
+    "datasets": [
+      "AI-Hub",
+      "CSU 2021",
+      "CSU 2022"
+    ],
+    "languages": [
+      "Korean"
+    ],
+    "elicitation": [
+      "Acted and synthetic voices",
+      "Not specified"
+    ],
+    "model": "YAMNet and VGGish transfer pipeline",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Includes audible output",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 12–15, datasets. 19–20, Figs 24–27",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0443",
+    "title": "Interpretabilty of Speech Emotion Recognition modelled using Self-Supervised Speech and Text Pre-Trained Embeddings",
+    "year": 2022,
+    "doi": "10.21437/Interspeech.2022-10685",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS; ISCA",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Attention analysis"
+    ],
+    "datasets": [
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)"
+    ],
+    "model": "Sub-utterance speech–text model (SSPM-ATT)",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [
+      "Direct prediction faithfulness",
+      "Human annotation agreement without utility test"
+    ],
+    "locator": "PDF 3, Fig 2. 4, Tables 3–6",
+    "fidelityEvidence": "Above- vs below-mean attention removal, −2.44 vs −0.21 percentage points (p. 4, Table 6).",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "Annotation agreement only",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0444",
+    "title": "Unveiling hidden factors: explainable AI for feature boosting in speech emotion recognition",
+    "year": 2024,
+    "doi": "10.1007/s10489-024-05536-5",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Boosted or transformed coordinates",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "SAVEE",
+      "TESS"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Extra Trees on boosted PCA features",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 8–9, datasets. 10–11, Figs 2–3",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0467",
+    "title": "MSFL: Explainable Multitask-Based Shared Feature Learning for Multilingual Speech Emotion Recognition",
+    "year": 2022,
+    "doi": "10.3390/app122412805",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Attention analysis"
+    ],
+    "datasets": [
+      "EmoDB",
+      "SAVEE",
+      "CASIA"
+    ],
+    "languages": [
+      "English",
+      "German",
+      "Mandarin"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Multitask shared-feature network (MSFL)",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 14, Table 7. 15–16, Figs 7–8",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0485",
+    "title": "Explainable Multimodal Hybrid Vision Transformers for Emotional Speech Recognition",
+    "year": 2025,
+    "doi": "10.3233/FAIA250823",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Grad-CAM",
+      "Attention analysis"
+    ],
+    "datasets": [
+      "EmoDB",
+      "SAVEE",
+      "Danish emotional speech database",
+      "Polish emotional speech database"
+    ],
+    "languages": [
+      "Danish",
+      "English",
+      "German",
+      "Polish"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "EM-H-ViT on four acoustic transforms",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 2, datasets. 6–7, Fig 4 on 7",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0492",
+    "title": "Benchmarking Adversarial Robustness in Speech Emotion Recognition: Insights into Low-Resource Romanian and German Languages",
+    "year": 2024,
+    "doi": "10.3233/FAIA240774",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Grad-CAM++"
+    ],
+    "datasets": [
+      "EmoDB",
+      "Emo-IIT"
+    ],
+    "languages": [
+      "German",
+      "Romanian"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "AlexNet and convolutional vision Transformer",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 2, datasets. 6, Fig 4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0501",
+    "title": "Explainable Speech Emotion Recognition Through Attentive Pooling: Insights from Attention-Based Temporal Localization",
+    "year": 2025,
+    "doi": "10.21437/Interspeech.2025-1841",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS; ISCA",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Attention analysis"
+    ],
+    "datasets": [
+      "MSP-Podcast"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Naturalistic (podcast)"
+    ],
+    "model": "W2V-BERT 2.0 audio, DeBERTa-v3 text, attentive statistics pooling",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio and transcript",
+    "evaluation": [],
+    "locator": "PDF 4, Figs 3–5",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0513",
+    "title": "A systematic evaluation of acoustic representation and feature fusion strategies for Arabic speech emotion recognition",
+    "year": 2026,
+    "doi": "10.1007/s10772-026-10290-9",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "LIME",
+      "Grad-CAM"
+    ],
+    "datasets": [
+      "EYASE"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "elicitation": [
+      "Broadcast / film / radio"
+    ],
+    "model": "ExtraTrees and XGBoost base learners, voting ensemble, wav2vec2 backbone",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 13–16, Figs 6–8 and Table 20",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0533",
+    "title": "Intelligent Explainable Dual Path Feature Extraction and Pyramid Squeeze Attention Convolution Network for Speech Emotion Recognition",
+    "year": 2026,
+    "doi": "10.1007/s11036-026-02531-7",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Model-internal inspection",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "TCAV"
+    ],
+    "datasets": [
+      "RAVDESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Dual-path 1D/2D PSAConvNN",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 9–10, method. 17–21, Figs 11–12",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0540",
+    "title": "FedSER-XAI: PSO-optimized multi-stream cross-attention transformer with graph features for explainable federated speech emotion recognition",
+    "year": 2025,
+    "doi": "10.1038/s41598-025-28686-z",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "LIME"
+    ],
+    "datasets": [
+      "EmoDB",
+      "SAVEE"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Federated multi-stream cross-attention Transformer",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 30–34, Figs 19–26",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0552",
+    "title": "Robust Relatable Explanations of Machine Learning with Disentangled Cue-specific Saliency",
+    "year": 2025,
+    "doi": "10.1145/3708359.3712105",
+    "authors": null,
+    "publicationType": "IUI '25: Proceedings of the 30th International Conference on Intelligent User Interfaces",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS; ACM",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Purpose-built explanation network and saliency intervention",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Counterfactual audio",
+      "Cue saliency"
+    ],
+    "datasets": [
+      "ESD"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "RobustRexNet",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Includes audible output",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness",
+      "Human evaluation of explanations",
+      "Controlled robustness of explanation or cue outputs",
+      "Human task performance with explanation conditions"
+    ],
+    "locator": "PDF 6, Fig 4. 7, Fig 6. 7–10, Figs 7–8",
+    "fidelityEvidence": "Removal of salient evidence and resulting correctness decrease (p. 7, Fig 6).",
+    "stabilityEvidence": "Controlled cue perturbations and change to other cue estimates; indirect, cue-level robustness (pp. 7–8, Figs 6–7).",
+    "humanEvaluation": "Task performance and helpfulness",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0555",
+    "title": "A deformable convolution and attention-driven multiscale transformer framework for robust and explainable speech emotion recognition",
+    "year": 2026,
+    "doi": "10.1080/10255842.2026.2667299",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "DeepLIFT"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "CREMA-D",
+      "ASVP-ESD"
+    ],
+    "languages": [
+      "English",
+      "German",
+      "Multiple / unspecified"
+    ],
+    "elicitation": [
+      "Acted (scripted)",
+      "Mixed media sources"
+    ],
+    "model": "DUST-Net, deformable convolution and multiscale Transformer",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Stability claim without adequate procedure"
+    ],
+    "locator": "PDF 9, §3.5. 18–19, Table 10 on 19",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "Reported without reproducible procedure",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0567",
+    "title": "FedEmoNet: Privacy-preserving federated learning with TCN-Transformer fusion for cross-corpus speech emotion recognition",
+    "year": 2026,
+    "doi": "10.1371/journal.pone.0342953",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Internal attention analysis plus post-hoc attribution",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Model-internal inspection",
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "LIME",
+      "Attention analysis"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "CREMA-D"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Federated CNN/TCN/Transformer (FedEmoNet)",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 11–13, Figs 6–8",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0569",
+    "title": "Exploring Foundation Model Fusion Effectiveness and Explainability for Stylistic Analysis of Emotional Podcast Data",
+    "year": 2025,
+    "doi": "10.1007/978-3-031-84457-7_23",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "Occlusion"
+    ],
+    "datasets": [
+      "MSP-Podcast"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Naturalistic (podcast)"
+    ],
+    "model": "Late fusion of pretrained speech encoders",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 10–11, Fig 3 and spectral-occlusion experiment. 11–13, Figs 4–7",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0571",
+    "title": "A deep interpretable representation learning method for speech emotion recognition",
+    "year": 2023,
+    "doi": "10.1016/j.ipm.2023.103501",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Learned representations / model states",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Decision coefficients"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "IEMOCAP",
+      "CREMA-D",
+      "eNTERFACE’05"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Induced"
+    ],
+    "model": "Interpretable group CNN (IG-CNN)",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 14, Fig 4. 20–22, Fig 10 on 22",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0592",
+    "title": "Explainability guided feature selection for speech emotion recognition using SHAP and permutation importance",
+    "year": 2026,
+    "doi": "10.1007/s13534-026-00592-x",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "Permutation importance"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "SAVEE",
+      "TESS",
+      "CREMA-D"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "XGBoost; comparison with SVM and random forest",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Ranked list or prose",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 6, Fig 2. 7, Table 2. 9, Table 4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0596",
+    "title": "Interpreting Convolutional Layers in DNN Model Based on Time-Frequency Representation of Emotional Speech",
+    "year": 2024,
+    "doi": "10.2478/jaiscr-2024-0001",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Grad-CAM"
+    ],
+    "datasets": [
+      "EmoDB"
+    ],
+    "languages": [
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "CNNs on constant-Q time–frequency inputs",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 11–15, Figs 9–13 and Table 4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0604",
+    "title": "Modulation spectral features for speech emotion recognition using deep neural networks",
+    "year": 2023,
+    "doi": "10.1016/j.specom.2022.11.005",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Grad-CAM"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "CNN front end with SVM back end",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 13–14, Fig 12 on 14",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0611",
+    "title": "Interpretable Feature Selection for Speech Emotion Recognition in New Zealand English with Grid Search Optimization for Effective Hyperparameter Tuning",
+    "year": 2026,
+    "doi": "10.1007/978-3-032-19675-0_18",
+    "authors": null,
+    "publicationType": "Conference paper",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "JL Corpus"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Random forest",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 8, Tables 2–3. 10, Fig 4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0612",
+    "title": "Explainable Artificial Intelligence Techniques for Speech Emotion Recognition: A Focus on XAI Models",
+    "year": 2025,
+    "doi": "10.4114/intartif.vol28iss76pp85-123",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "LIME"
+    ],
+    "datasets": [
+      "Author Afrikaans emotional-speech corpus"
+    ],
+    "languages": [
+      "Afrikaans"
+    ],
+    "elicitation": [
+      "Not specified"
+    ],
+    "model": "CNN and ConvLSTM",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 14–22, Figs 3–22 including Fig 13 on 18",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0614",
+    "title": "Speech emotion recognition with light weight deep neural ensemble model using hand crafted features",
+    "year": 2025,
+    "doi": "10.1038/s41598-025-95734-z",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Unresolved",
+    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "LIME"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "EmoDB",
+      "SAVEE",
+      "TESS",
+      "CREMA-D"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "Averaged 1D CNN and CNN–BiLSTM ensemble",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 5, datasets. 9–10, Fig 4 on 10",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0759",
+    "title": "Effect of Data Augmentation, Cross-Validation Methods in Robustness of Explainable Speech Based Emotion Recognition",
+    "year": 2024,
+    "doi": "10.18280/ts.410344",
+    "authors": null,
+    "publicationType": "Not supplied",
+    "publicationCategory": "Not supplied",
+    "databases": "WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "EmoDB"
+    ],
+    "languages": [
+      "German"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "XGBoost",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 8, Figs 11–12",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0582",
+    "title": "Towards Relatable Explainable AI with the Perceptual Process",
+    "year": 2022,
+    "doi": "10.1145/3491102.3501826",
+    "authors": null,
+    "publicationType": "CHI '22: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; WoS; ACM",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Jointly trained explanatory modules plus post-hoc attribution",
+    "d2": "Localised",
+    "d2Raw": "Time-localized speech evidence in contrastive saliency display",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Generative, contrastive or example-based",
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "Grad-CAM",
+      "Counterfactual audio",
+      "Contrastive acoustic cues",
+      "Layer-wise Relevance Propagation (LRP)"
+    ],
+    "datasets": [
+      "RAVDESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "RexNet: mel-spectrogram CNN, StarGAN-VC and a cue-comparison module",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Includes audible output",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness",
+      "Human evaluation of explanations",
+      "Human task performance with explanation conditions"
+    ],
+    "locator": "PDF pp. 4–7 (Fig. 2 p. 5; Fig. 5 and Table 4 p. 7), pp. 8–10 (Fig. 7 p. 10).",
+    "fidelityEvidence": "Saliency-region ablation and resulting emotion accuracy loss (p. 7, Table 4).",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "Task performance and helpfulness",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0106",
+    "title": "Interpretability for Multimodal Emotion Recognition using Concept Activation Vectors",
+    "year": 2022,
+    "doi": "10.1109/ijcnn55064.2022.9892315",
+    "authors": null,
+    "publicationType": "IEEE Conferences",
+    "publicationCategory": "Conference paper",
+    "databases": "Scopus; IEEE",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "TCAV"
+    ],
+    "datasets": [
+      "IEMOCAP"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)"
+    ],
+    "model": "BC-LSTM; TCAV on the unimodal audio and transcript bottlenecks",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [
+      "Repeated-run stability of explanations"
+    ],
+    "locator": "PDF 5-6, Fig. 2b-d; Table I",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "CAVs retrained 30 times with minimal accuracy variation; two-tailed t-tests against 50 random concepts (Fig. 2)",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0378",
+    "title": "Evaluating significant features in context-aware multimodal emotion recognition with XAI methods",
+    "year": 2025,
+    "doi": "10.1111/exsy.13403",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "CMU-MOSEI"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Naturalistic (online videos)"
+    ],
+    "model": "Early-fusion BiLSTM; audio-text bimodal models (GloVe and BERT text features)",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Ranked list or prose",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [],
+    "locator": "PDF 11-13, Tables 4-5 and 9",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0545",
+    "title": "Joint acoustic-semantic alignment network for advanced speech emotion recognition",
+    "year": 2026,
+    "doi": "10.1016/j.specom.2026.103409",
+    "authors": null,
+    "publicationType": "Article",
+    "publicationCategory": "Journal article",
+    "databases": "Scopus; WoS",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Boosted or transformed coordinates",
+    "d4": [
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP"
+    ],
+    "datasets": [
+      "IEMOCAP",
+      "MELD"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Broadcast / film / radio"
+    ],
+    "model": "ASNet (CNN acoustic branch, BERT transcript branch, alignment); XGBoost surrogate on PCA-reduced representations",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [],
+    "locator": "PDF 6-7 Sec. 3.5; PDF 9, Fig. 8",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0782",
+    "title": "Beyond Classification: Towards Speech Emotion Reasoning with Multitask AudioLLMs",
+    "year": 2025,
+    "doi": "10.18653/v1/2025.ijcnlp-long.62",
+    "authors": null,
+    "publicationType": "inproceedings",
+    "publicationCategory": "Not supplied",
+    "databases": "ACL",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Generated rationale"
+    ],
+    "datasets": [
+      "IEMOCAP",
+      "MELD",
+      "M3ED"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Broadcast / film / radio"
+    ],
+    "model": "Multitask AudioLLM trained on emotion-reasoning targets",
+    "modelGroup": "Language or audio-language model",
+    "delivery": "Verbal (text, cue phrases)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "evaluation": [
+      "Automated scoring of generated rationales"
+    ],
+    "locator": "PDF 6-8, Table 4; appendix Tables 10-12",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0783",
+    "title": "EMO-RL: Emotion-Rule-Based Reinforcement Learning Enhanced Audio-Language Model for Generalized Speech Emotion Recognition",
+    "year": 2025,
+    "doi": "10.18653/v1/2025.findings-emnlp.1018",
+    "authors": null,
+    "publicationType": "inproceedings",
+    "publicationCategory": "Not supplied",
+    "databases": "ACL",
+    "d1": "Explanation generated by design",
+    "d1Raw": "Explanatory output learned jointly with the task",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Named concepts and cues",
+    "d4": [
+      "Generative, contrastive or example-based"
+    ],
+    "methods": [
+      "Generated rationale"
+    ],
+    "datasets": [
+      "RAVDESS",
+      "IEMOCAP",
+      "SAVEE",
+      "MELD"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Broadcast / film / radio"
+    ],
+    "model": "Qwen2-Audio-7B-Instruct trained with GRPO and emotion rules (EMO-RL)",
+    "modelGroup": "Language or audio-language model",
+    "delivery": "Verbal (text, cue phrases)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "PDF 8, Fig. 3; PDF 6-7, Tables 1-2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0801",
+    "title": "Zero-shot cross-lingual speech emotion recognition: a study of loss functions and feature importance",
+    "year": 2022,
+    "doi": "10.21437/SPSC.2022-5",
+    "authors": null,
+    "publicationType": "Not recorded",
+    "publicationCategory": "Not supplied",
+    "databases": "OpenAlex citation searching",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
+    "d4": [
+      "Gradient / propagation attribution"
+    ],
+    "methods": [
+      "DeepLIFT"
+    ],
+    "datasets": [
+      "EmoDB",
+      "IEMOCAP",
+      "SAVEE",
+      "AESSD",
+      "CaFE",
+      "Urdu emotional speech corpus"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Greek",
+      "Urdu"
+    ],
+    "elicitation": [
+      "Acted (scripted and improvised)",
+      "Acted (scripted)",
+      "Spontaneous (talk shows)"
+    ],
+    "model": "VAE with a two-dimensional latent space (four loss variants) and a linear SVC; DeepLIFT on the bottleneck mean",
+    "modelGroup": "Specialised or mixed architecture",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "Sec. 2.3 and Sec. 4.3; Fig. 3; Table 2",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0802",
+    "title": "Analysis of Deep Learning-Based Decision-Making in an Emotional Spontaneous Speech Task",
+    "year": 2023,
+    "doi": "10.3390/app13020980",
+    "authors": null,
+    "publicationType": "Not recorded",
+    "publicationCategory": "Not supplied",
+    "databases": "OpenAlex citation searching",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Time–frequency regions / spectral bands",
+    "d4": [],
+    "methods": [
+      "Class model visualisation"
+    ],
+    "datasets": [
+      "Spanish TV debate corpus"
+    ],
+    "languages": [
+      "Not mapped"
+    ],
+    "elicitation": [
+      "Not mapped"
+    ],
+    "model": "Small CNN (about 43K parameters) on spectrograms with categorical and VAD outputs; VGG16 comparison",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [
+      "Direct prediction faithfulness"
+    ],
+    "locator": "Sec. 4; Figs. 5-7; Tables 4-5",
+    "fidelityEvidence": "Class-profile transfer: replacing a sample's frequency profile with the target-class profile moves predictions to the target class (Tables 4-5).",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0803",
+    "title": "Bridging Text and Speech for Emotion Understanding: An Explainable Multimodal Transformer Fusion Framework with Unified Audio–Text Attribution",
+    "year": 2025,
+    "doi": "10.3390/jintelligence13120159",
+    "authors": null,
+    "publicationType": "Not recorded",
+    "publicationCategory": "Not supplied",
+    "databases": "OpenAlex citation searching",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Mixed representations across outputs",
+    "d4": [
+      "Gradient / propagation attribution",
+      "Perturbation / surrogate attribution"
+    ],
+    "methods": [
+      "Integrated Gradients",
+      "Occlusion"
+    ],
+    "datasets": [
+      "MELD"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Broadcast / film / radio"
+    ],
+    "model": "RoBERTa (transcript) and WavLM (audio) projected to a shared space and fused by a Transformer",
+    "modelGroup": "Pretrained encoder / Transformer",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic and lexical",
+    "input": "Audio and transcript",
+    "evaluation": [],
+    "locator": "Sec. 5.5-5.8; Figs. 5-8; Tables 2-4",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0804",
+    "title": "Assessing random forest performance in low resource speech emotion recognition",
+    "year": 2025,
+    "doi": "10.1038/s41598-025-30511-6",
+    "authors": null,
+    "publicationType": "Not recorded",
+    "publicationCategory": "Not supplied",
+    "databases": "OpenAlex citation searching",
+    "d1": "Post-hoc analysis of a trained model",
+    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Indexed features (mapping limited)",
+    "d4": [
+      "Model-internal inspection",
+      "Perturbation / surrogate attribution",
+      "Shapley-value attribution"
+    ],
+    "methods": [
+      "SHAP",
+      "Permutation importance",
+      "Tree importance"
+    ],
+    "datasets": [
+      "SEMOUR+"
+    ],
+    "languages": [
+      "Not mapped"
+    ],
+    "elicitation": [
+      "Not mapped"
+    ],
+    "model": "Random forest on MFCC (with deltas and chroma in extended runs)",
+    "modelGroup": "Tree / classical ML",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "Figs. 2, 7, 12-14",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  },
+  {
+    "id": "M-0805",
+    "title": "Interpretable Speech Emotion Recognition: A Comparative Study of BiLSTM Temporal Attention and Transformer-Based Multi-Head Self-Attention",
+    "year": 2025,
+    "doi": "10.70112/ajes-2025.14.2.4286",
+    "authors": null,
+    "publicationType": "Not recorded",
+    "publicationCategory": "Not supplied",
+    "databases": "OpenAlex citation searching",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
+    "d2": "Localised",
+    "d2Raw": "At least one reported output localized within an utterance",
+    "d3": "Learned frame- or word-level evidence",
+    "d4": [
+      "Model-internal inspection"
+    ],
+    "methods": [
+      "Attention analysis"
+    ],
+    "datasets": [
+      "RAVDESS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "elicitation": [
+      "Acted (scripted)"
+    ],
+    "model": "BiLSTM with temporal attention; one-block Transformer with multi-head self-attention",
+    "modelGroup": "CNN / recurrent / neural ensemble",
+    "delivery": "Visual (plot, map, table)",
+    "speechInformation": "Acoustic only",
+    "input": "Audio",
+    "evaluation": [],
+    "locator": "Sec. III; Figs. 3-4; Table III",
+    "fidelityEvidence": "No qualifying test located",
+    "stabilityEvidence": "No qualifying test located",
+    "humanEvaluation": "No qualifying user evaluation located",
+    "recognitionReported": true,
+    "source": {
+      "file": "Final synthesis workbook",
+      "sheet": "Taxonomy"
+    }
+  }
+]

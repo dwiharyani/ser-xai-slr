@@ -1,0 +1,22 @@
+62
+W4386524296 | 2023 | 10.1016/j.specom.2023.102974 | Speech emotion recognition approaches: A systematic review
+W4295957212 | 2022 | 10.1016/j.specom.2022.07.005 | GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition
+W3196711847 | 2021 | 10.48550/arxiv.2108.12009 | EmoBERTa: Speaker-Aware Emotion Recognition in Conversation with RoBERTa
+W3198528147 | 2021 | 10.21437/interspeech.2021-1852 | Speech Emotion Recognition with Multi-Task Learning
+W3128401974 | 2021 | 10.1109/tce.2021.3056421 | Real-Time Speech Emotion Analysis for Smart Home Assistants
+W4226239215 | 2022 | 10.1609/aaai.v36i10.21413 | Hybrid Curriculum Learning for Emotion Recognition in Conversation
+W4221162872 | 2022 | 10.1109/icassp43922.2022.9747095 | Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information
+W3023281269 | 2021 | 10.1109/tmm.2021.3063612 | Deep Auto-Encoders With Sequential Learning for Multimodal Dimensional Emotion Recognition
+W4412627971 | 2025 | 10.1371/journal.pone.0328833 | Measuring negative emotions and stress through acoustic correlates in speech: A systematic review
+W4399216988 | 2024 | 10.1007/s10489-024-05536-5 | Unveiling hidden factors: explainable AI for feature boosting in speech emotion recognition
+W4416450732 | 2025 | 10.1515/phon-2025-0003 | Modeling the acoustic profiles of vocal emotions in American English and Mandarin Chinese
+W3183294261 | 2021 | 10.1109/embc46164.2021.9630427 | Interpretable SincNet-based Deep Learning for Emotion Recognition from EEG brain activity
+W3194531986 | 2021 | 10.1108/aci-05-2021-0130 | An overlapping sliding window and combined features based emotion recognition system for EEG signals
+W4410995531 | 2025 | 10.1121/10.0036812 | High-arousal emotional speech enhances speech intelligibility and emotion recognition in noise
+W4312218381 | 2022 | 10.1186/s13636-022-00264-5 | Cross-corpus speech emotion recognition using subspace learning and domain adaption
+W4401827145 | 2024 | 10.1016/j.eswa.2024.125162 | Exploring corpus-invariant emotional acoustic feature for cross-corpus speech emotion recognition
+W4386716259 | 2023 | 10.54254/2755-2721/6/20230449 | Speech emotion recognition using multiple classification models based on MFCC feature values
+W4414676586 | 2025 | 10.1136/bmjment-2025-301858 | Acoustic signatures of depression elicited by emotion-based and theme-based speech tasks
+W4391404009 | 2024 | 10.3390/electronics13030588 | Speech Emotion Recognition Using RA-Gmlp Model on Time–Frequency Domain Features Extracted by TFCM
+W3210961004 | 2021 | 10.1016/j.specom.2021.10.003 | Prosodic alignment toward emotionally expressive speech: Comparing human and Alexa model talkers
+older=42

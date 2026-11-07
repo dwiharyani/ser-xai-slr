@@ -1,0 +1,12 @@
+29
+W4221089191 | 2022 | 10.1016/j.specom.2022.03.002 | Survey on bimodal speech emotion recognition from acoustic and linguistic information fusion
+W4361017851 | 2023 | 10.1007/978-3-031-27499-2_8 | Speech Emotion Recognition Using CNN-LSTM and Vision Transformer
+W3171032899 | 2021 | 10.1007/978-981-33-6984-9_15 | Speech Emotion Recognition Using Machine Learning Techniques
+W4284899427 | 2022 | 10.1007/s10772-022-09985-6 | Machine learning techniques for speech emotion recognition using paralinguistic acoustic features
+W4389076505 | 2023 | 10.1109/access.2023.3336714 | Equilibrium Optimizer for Emotion Classification From English Speech Signals
+W4321442131 | 2023 | 10.1016/j.apacoust.2023.109279 | An efficient feature selection method for arabic and english speech emotion recognition using Grey Wolf Optimizer
+W4388634648 | 2023 | 10.3390/app132212262 | English Speech Emotion Classification Based on Multi-Objective Differential Evolution
+W4323059831 | 2022 | 10.1109/centcon56610.2022.10051557 | Comparative Deep Network Analysis of Speech Emotion Recognition Models using Data Augmentation
+W4294567953 | 2022 | 10.1007/s12065-022-00772-5 | A robust feature selection method based on meta-heuristic optimization for speech emotion recognition
+W4283366946 | 2022 | 10.1007/s11042-021-11839-3 | A feature selection model for speech emotion recognition using clustering-based population generation with hybrid of equilibrium optimizer and atom search optimization algorithm
+older=19

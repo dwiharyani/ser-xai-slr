@@ -1,0 +1,1156 @@
+[
+  {
+    "dimension": "XAI method",
+    "category": "SHAP",
+    "reportedCount": 24,
+    "ids": [
+      "M-0005",
+      "M-0007",
+      "M-0017",
+      "M-0029",
+      "M-0049",
+      "M-0065",
+      "M-0073",
+      "M-0075",
+      "M-0076",
+      "M-0168",
+      "M-0311",
+      "M-0376",
+      "M-0378",
+      "M-0444",
+      "M-0513",
+      "M-0533",
+      "M-0540",
+      "M-0545",
+      "M-0567",
+      "M-0592",
+      "M-0611",
+      "M-0612",
+      "M-0759",
+      "M-0804"
+    ],
+    "sourceRow": 5
+  },
+  {
+    "dimension": "XAI method",
+    "category": "LIME",
+    "reportedCount": 10,
+    "ids": [
+      "M-0001",
+      "M-0003",
+      "M-0029",
+      "M-0031",
+      "M-0408",
+      "M-0513",
+      "M-0540",
+      "M-0567",
+      "M-0612",
+      "M-0614"
+    ],
+    "sourceRow": 6
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Grad-CAM",
+    "reportedCount": 7,
+    "ids": [
+      "M-0029",
+      "M-0408",
+      "M-0485",
+      "M-0513",
+      "M-0582",
+      "M-0596",
+      "M-0604"
+    ],
+    "sourceRow": 7
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Attention analysis",
+    "reportedCount": 7,
+    "ids": [
+      "M-0005",
+      "M-0443",
+      "M-0467",
+      "M-0485",
+      "M-0501",
+      "M-0567",
+      "M-0805"
+    ],
+    "sourceRow": 8
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Permutation importance",
+    "reportedCount": 5,
+    "ids": [
+      "M-0057",
+      "M-0168",
+      "M-0376",
+      "M-0592",
+      "M-0804"
+    ],
+    "sourceRow": 9
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Generated rationale",
+    "reportedCount": 4,
+    "ids": [
+      "M-0009",
+      "M-0284",
+      "M-0782",
+      "M-0783"
+    ],
+    "sourceRow": 10
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Integrated Gradients",
+    "reportedCount": 4,
+    "ids": [
+      "M-0001",
+      "M-0037",
+      "M-0208",
+      "M-0803"
+    ],
+    "sourceRow": 11
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Occlusion",
+    "reportedCount": 4,
+    "ids": [
+      "M-0005",
+      "M-0408",
+      "M-0569",
+      "M-0803"
+    ],
+    "sourceRow": 12
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Tree importance",
+    "reportedCount": 3,
+    "ids": [
+      "M-0046",
+      "M-0405",
+      "M-0804"
+    ],
+    "sourceRow": 13
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Learned filters",
+    "reportedCount": 2,
+    "ids": [
+      "M-0016",
+      "M-0018"
+    ],
+    "sourceRow": 14
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Counterfactual audio",
+    "reportedCount": 2,
+    "ids": [
+      "M-0552",
+      "M-0582"
+    ],
+    "sourceRow": 15
+  },
+  {
+    "dimension": "XAI method",
+    "category": "TCAV",
+    "reportedCount": 2,
+    "ids": [
+      "M-0106",
+      "M-0533"
+    ],
+    "sourceRow": 16
+  },
+  {
+    "dimension": "XAI method",
+    "category": "DeepLIFT",
+    "reportedCount": 2,
+    "ids": [
+      "M-0555",
+      "M-0801"
+    ],
+    "sourceRow": 17
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Cue saliency",
+    "reportedCount": 1,
+    "ids": [
+      "M-0552"
+    ],
+    "sourceRow": 18
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Decision coefficients",
+    "reportedCount": 1,
+    "ids": [
+      "M-0571"
+    ],
+    "sourceRow": 19
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Generated caption",
+    "reportedCount": 1,
+    "ids": [
+      "M-0019"
+    ],
+    "sourceRow": 20
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Generative audio",
+    "reportedCount": 1,
+    "ids": [
+      "M-0208"
+    ],
+    "sourceRow": 21
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Grad-CAM++",
+    "reportedCount": 1,
+    "ids": [
+      "M-0492"
+    ],
+    "sourceRow": 22
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Gradient attribution",
+    "reportedCount": 1,
+    "ids": [
+      "M-0372"
+    ],
+    "sourceRow": 23
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Layer probing",
+    "reportedCount": 1,
+    "ids": [
+      "M-0086"
+    ],
+    "sourceRow": 24
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Network weights",
+    "reportedCount": 1,
+    "ids": [
+      "M-0068"
+    ],
+    "sourceRow": 25
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Contrastive acoustic cues",
+    "reportedCount": 1,
+    "ids": [
+      "M-0582"
+    ],
+    "sourceRow": 26
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Layer-wise Relevance Propagation (LRP)",
+    "reportedCount": 1,
+    "ids": [
+      "M-0582"
+    ],
+    "sourceRow": 27
+  },
+  {
+    "dimension": "XAI method",
+    "category": "Class model visualisation",
+    "reportedCount": 1,
+    "ids": [
+      "M-0802"
+    ],
+    "sourceRow": 28
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Acoustic features / descriptors",
+    "reportedCount": 16,
+    "ids": [
+      "M-0007",
+      "M-0046",
+      "M-0049",
+      "M-0057",
+      "M-0065",
+      "M-0073",
+      "M-0075",
+      "M-0076",
+      "M-0168",
+      "M-0376",
+      "M-0405",
+      "M-0467",
+      "M-0592",
+      "M-0611",
+      "M-0759",
+      "M-0801"
+    ],
+    "sourceRow": 29
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Time–frequency regions / spectral bands",
+    "reportedCount": 11,
+    "ids": [
+      "M-0003",
+      "M-0029",
+      "M-0031",
+      "M-0408",
+      "M-0485",
+      "M-0492",
+      "M-0555",
+      "M-0569",
+      "M-0596",
+      "M-0604",
+      "M-0802"
+    ],
+    "sourceRow": 30
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Mixed representations across outputs",
+    "reportedCount": 10,
+    "ids": [
+      "M-0001",
+      "M-0208",
+      "M-0372",
+      "M-0513",
+      "M-0533",
+      "M-0540",
+      "M-0552",
+      "M-0582",
+      "M-0614",
+      "M-0803"
+    ],
+    "sourceRow": 31
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Learned representations / model states",
+    "reportedCount": 6,
+    "ids": [
+      "M-0016",
+      "M-0018",
+      "M-0037",
+      "M-0068",
+      "M-0086",
+      "M-0571"
+    ],
+    "sourceRow": 32
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Named concepts and cues",
+    "reportedCount": 6,
+    "ids": [
+      "M-0009",
+      "M-0019",
+      "M-0106",
+      "M-0284",
+      "M-0782",
+      "M-0783"
+    ],
+    "sourceRow": 33
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Indexed features (mapping limited)",
+    "reportedCount": 6,
+    "ids": [
+      "M-0017",
+      "M-0311",
+      "M-0378",
+      "M-0567",
+      "M-0612",
+      "M-0804"
+    ],
+    "sourceRow": 34
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Learned frame- or word-level evidence",
+    "reportedCount": 4,
+    "ids": [
+      "M-0005",
+      "M-0443",
+      "M-0501",
+      "M-0805"
+    ],
+    "sourceRow": 35
+  },
+  {
+    "dimension": "Explanation target",
+    "category": "Boosted or transformed coordinates",
+    "reportedCount": 2,
+    "ids": [
+      "M-0444",
+      "M-0545"
+    ],
+    "sourceRow": 36
+  },
+  {
+    "dimension": "Explained system / broad group",
+    "category": "CNN / recurrent / neural ensemble",
+    "reportedCount": 18,
+    "ids": [
+      "M-0001",
+      "M-0016",
+      "M-0018",
+      "M-0029",
+      "M-0031",
+      "M-0037",
+      "M-0073",
+      "M-0106",
+      "M-0311",
+      "M-0378",
+      "M-0408",
+      "M-0571",
+      "M-0596",
+      "M-0604",
+      "M-0612",
+      "M-0614",
+      "M-0802",
+      "M-0805"
+    ],
+    "sourceRow": 37
+  },
+  {
+    "dimension": "Explained system / broad group",
+    "category": "Tree / classical ML",
+    "reportedCount": 16,
+    "ids": [
+      "M-0003",
+      "M-0007",
+      "M-0017",
+      "M-0046",
+      "M-0049",
+      "M-0057",
+      "M-0065",
+      "M-0075",
+      "M-0076",
+      "M-0376",
+      "M-0405",
+      "M-0444",
+      "M-0592",
+      "M-0611",
+      "M-0759",
+      "M-0804"
+    ],
+    "sourceRow": 38
+  },
+  {
+    "dimension": "Explained system / broad group",
+    "category": "Specialised or mixed architecture",
+    "reportedCount": 12,
+    "ids": [
+      "M-0068",
+      "M-0168",
+      "M-0208",
+      "M-0443",
+      "M-0467",
+      "M-0513",
+      "M-0533",
+      "M-0545",
+      "M-0552",
+      "M-0567",
+      "M-0582",
+      "M-0801"
+    ],
+    "sourceRow": 39
+  },
+  {
+    "dimension": "Explained system / broad group",
+    "category": "Pretrained encoder / Transformer",
+    "reportedCount": 10,
+    "ids": [
+      "M-0005",
+      "M-0086",
+      "M-0372",
+      "M-0485",
+      "M-0492",
+      "M-0501",
+      "M-0540",
+      "M-0555",
+      "M-0569",
+      "M-0803"
+    ],
+    "sourceRow": 40
+  },
+  {
+    "dimension": "Explained system / broad group",
+    "category": "Language or audio-language model",
+    "reportedCount": 5,
+    "ids": [
+      "M-0009",
+      "M-0019",
+      "M-0284",
+      "M-0782",
+      "M-0783"
+    ],
+    "sourceRow": 41
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "RAVDESS",
+    "reportedCount": 22,
+    "ids": [
+      "M-0001",
+      "M-0003",
+      "M-0005",
+      "M-0009",
+      "M-0017",
+      "M-0019",
+      "M-0031",
+      "M-0037",
+      "M-0057",
+      "M-0168",
+      "M-0405",
+      "M-0444",
+      "M-0533",
+      "M-0555",
+      "M-0567",
+      "M-0571",
+      "M-0582",
+      "M-0592",
+      "M-0604",
+      "M-0614",
+      "M-0783",
+      "M-0805"
+    ],
+    "sourceRow": 42
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "EmoDB",
+    "reportedCount": 20,
+    "ids": [
+      "M-0003",
+      "M-0017",
+      "M-0031",
+      "M-0057",
+      "M-0068",
+      "M-0076",
+      "M-0168",
+      "M-0311",
+      "M-0444",
+      "M-0467",
+      "M-0485",
+      "M-0492",
+      "M-0540",
+      "M-0555",
+      "M-0567",
+      "M-0596",
+      "M-0604",
+      "M-0614",
+      "M-0759",
+      "M-0801"
+    ],
+    "sourceRow": 43
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "IEMOCAP",
+    "reportedCount": 16,
+    "ids": [
+      "M-0003",
+      "M-0005",
+      "M-0009",
+      "M-0016",
+      "M-0019",
+      "M-0068",
+      "M-0086",
+      "M-0106",
+      "M-0168",
+      "M-0284",
+      "M-0443",
+      "M-0545",
+      "M-0571",
+      "M-0782",
+      "M-0783",
+      "M-0801"
+    ],
+    "sourceRow": 44
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "SAVEE",
+    "reportedCount": 12,
+    "ids": [
+      "M-0001",
+      "M-0017",
+      "M-0037",
+      "M-0168",
+      "M-0444",
+      "M-0467",
+      "M-0485",
+      "M-0540",
+      "M-0592",
+      "M-0614",
+      "M-0783",
+      "M-0801"
+    ],
+    "sourceRow": 45
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "TESS",
+    "reportedCount": 11,
+    "ids": [
+      "M-0001",
+      "M-0017",
+      "M-0037",
+      "M-0046",
+      "M-0065",
+      "M-0168",
+      "M-0208",
+      "M-0372",
+      "M-0444",
+      "M-0592",
+      "M-0614"
+    ],
+    "sourceRow": 46
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CREMA-D",
+    "reportedCount": 9,
+    "ids": [
+      "M-0001",
+      "M-0009",
+      "M-0029",
+      "M-0037",
+      "M-0555",
+      "M-0567",
+      "M-0571",
+      "M-0592",
+      "M-0614"
+    ],
+    "sourceRow": 47
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "MELD",
+    "reportedCount": 6,
+    "ids": [
+      "M-0009",
+      "M-0284",
+      "M-0545",
+      "M-0782",
+      "M-0783",
+      "M-0803"
+    ],
+    "sourceRow": 48
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "MSP-Podcast",
+    "reportedCount": 4,
+    "ids": [
+      "M-0009",
+      "M-0019",
+      "M-0501",
+      "M-0569"
+    ],
+    "sourceRow": 49
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "AESSD",
+    "reportedCount": 2,
+    "ids": [
+      "M-0311",
+      "M-0801"
+    ],
+    "sourceRow": 50
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CaFE",
+    "reportedCount": 2,
+    "ids": [
+      "M-0057",
+      "M-0801"
+    ],
+    "sourceRow": 51
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Urdu emotional speech corpus",
+    "reportedCount": 2,
+    "ids": [
+      "M-0073",
+      "M-0801"
+    ],
+    "sourceRow": 52
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "ABC",
+    "reportedCount": 1,
+    "ids": [
+      "M-0068"
+    ],
+    "sourceRow": 53
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "AI-Hub",
+    "reportedCount": 1,
+    "ids": [
+      "M-0408"
+    ],
+    "sourceRow": 54
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "ASVP-ESD",
+    "reportedCount": 1,
+    "ids": [
+      "M-0555"
+    ],
+    "sourceRow": 55
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Author Afrikaans emotional-speech corpus",
+    "reportedCount": 1,
+    "ids": [
+      "M-0612"
+    ],
+    "sourceRow": 56
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Author Mandarin disyllabic emotional-speech recordings",
+    "reportedCount": 1,
+    "ids": [
+      "M-0376"
+    ],
+    "sourceRow": 57
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Author emotional speech corpus (HD, preHD and controls)",
+    "reportedCount": 1,
+    "ids": [
+      "M-0075"
+    ],
+    "sourceRow": 58
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CASIA",
+    "reportedCount": 1,
+    "ids": [
+      "M-0467"
+    ],
+    "sourceRow": 59
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CSU 2021",
+    "reportedCount": 1,
+    "ids": [
+      "M-0408"
+    ],
+    "sourceRow": 60
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CSU 2022",
+    "reportedCount": 1,
+    "ids": [
+      "M-0408"
+    ],
+    "sourceRow": 61
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "DEMoS",
+    "reportedCount": 1,
+    "ids": [
+      "M-0168"
+    ],
+    "sourceRow": 62
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "DES",
+    "reportedCount": 1,
+    "ids": [
+      "M-0168"
+    ],
+    "sourceRow": 63
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Danish emotional speech database",
+    "reportedCount": 1,
+    "ids": [
+      "M-0485"
+    ],
+    "sourceRow": 64
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "ESD",
+    "reportedCount": 1,
+    "ids": [
+      "M-0552"
+    ],
+    "sourceRow": 65
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "EYASE",
+    "reportedCount": 1,
+    "ids": [
+      "M-0513"
+    ],
+    "sourceRow": 66
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Emo-IIT",
+    "reportedCount": 1,
+    "ids": [
+      "M-0492"
+    ],
+    "sourceRow": 67
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "EmoFilm",
+    "reportedCount": 1,
+    "ids": [
+      "M-0049"
+    ],
+    "sourceRow": 68
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "EmoTa",
+    "reportedCount": 1,
+    "ids": [
+      "M-0007"
+    ],
+    "sourceRow": 69
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "EmoV-DB",
+    "reportedCount": 1,
+    "ids": [
+      "M-0168"
+    ],
+    "sourceRow": 70
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "JL Corpus",
+    "reportedCount": 1,
+    "ids": [
+      "M-0611"
+    ],
+    "sourceRow": 71
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "MSP-IMPROV",
+    "reportedCount": 1,
+    "ids": [
+      "M-0019"
+    ],
+    "sourceRow": 72
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Polish emotional speech database",
+    "reportedCount": 1,
+    "ids": [
+      "M-0485"
+    ],
+    "sourceRow": 73
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "SUBESCO",
+    "reportedCount": 1,
+    "ids": [
+      "M-0405"
+    ],
+    "sourceRow": 74
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "SUSAS",
+    "reportedCount": 1,
+    "ids": [
+      "M-0168"
+    ],
+    "sourceRow": 75
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "ShEMO",
+    "reportedCount": 1,
+    "ids": [
+      "M-0018"
+    ],
+    "sourceRow": 76
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "eNTERFACE’05",
+    "reportedCount": 1,
+    "ids": [
+      "M-0571"
+    ],
+    "sourceRow": 77
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "CMU-MOSEI",
+    "reportedCount": 1,
+    "ids": [
+      "M-0378"
+    ],
+    "sourceRow": 78
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "M3ED",
+    "reportedCount": 1,
+    "ids": [
+      "M-0782"
+    ],
+    "sourceRow": 79
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "Spanish TV debate corpus",
+    "reportedCount": 1,
+    "ids": [
+      "M-0802"
+    ],
+    "sourceRow": 80
+  },
+  {
+    "dimension": "Named corpus in evaluated pipeline",
+    "category": "SEMOUR+",
+    "reportedCount": 1,
+    "ids": [
+      "M-0804"
+    ],
+    "sourceRow": 81
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2026",
+    "reportedCount": 19,
+    "ids": [
+      "M-0005",
+      "M-0007",
+      "M-0009",
+      "M-0018",
+      "M-0019",
+      "M-0037",
+      "M-0049",
+      "M-0068",
+      "M-0086",
+      "M-0168",
+      "M-0372",
+      "M-0376",
+      "M-0513",
+      "M-0533",
+      "M-0545",
+      "M-0555",
+      "M-0567",
+      "M-0592",
+      "M-0611"
+    ],
+    "sourceRow": 82
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2025",
+    "reportedCount": 19,
+    "ids": [
+      "M-0001",
+      "M-0003",
+      "M-0029",
+      "M-0065",
+      "M-0208",
+      "M-0284",
+      "M-0378",
+      "M-0485",
+      "M-0501",
+      "M-0540",
+      "M-0552",
+      "M-0569",
+      "M-0612",
+      "M-0614",
+      "M-0782",
+      "M-0783",
+      "M-0803",
+      "M-0804",
+      "M-0805"
+    ],
+    "sourceRow": 83
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2024",
+    "reportedCount": 10,
+    "ids": [
+      "M-0017",
+      "M-0031",
+      "M-0046",
+      "M-0073",
+      "M-0075",
+      "M-0408",
+      "M-0444",
+      "M-0492",
+      "M-0596",
+      "M-0759"
+    ],
+    "sourceRow": 84
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2023",
+    "reportedCount": 6,
+    "ids": [
+      "M-0076",
+      "M-0311",
+      "M-0405",
+      "M-0571",
+      "M-0604",
+      "M-0802"
+    ],
+    "sourceRow": 85
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2022",
+    "reportedCount": 5,
+    "ids": [
+      "M-0106",
+      "M-0443",
+      "M-0467",
+      "M-0582",
+      "M-0801"
+    ],
+    "sourceRow": 86
+  },
+  {
+    "dimension": "Publication year",
+    "category": "2021",
+    "reportedCount": 2,
+    "ids": [
+      "M-0016",
+      "M-0057"
+    ],
+    "sourceRow": 87
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Direct prediction faithfulness",
+    "reportedCount": 7,
+    "ids": [
+      "M-0016",
+      "M-0029",
+      "M-0208",
+      "M-0443",
+      "M-0552",
+      "M-0582",
+      "M-0802"
+    ],
+    "sourceRow": 88
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Human evaluation of explanations",
+    "reportedCount": 4,
+    "ids": [
+      "M-0009",
+      "M-0019",
+      "M-0552",
+      "M-0582"
+    ],
+    "sourceRow": 89
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Controlled robustness of explanation or cue outputs",
+    "reportedCount": 2,
+    "ids": [
+      "M-0029",
+      "M-0552"
+    ],
+    "sourceRow": 90
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Repeated-run stability of explanations",
+    "reportedCount": 2,
+    "ids": [
+      "M-0029",
+      "M-0106"
+    ],
+    "sourceRow": 91
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Human task performance with explanation conditions",
+    "reportedCount": 2,
+    "ids": [
+      "M-0552",
+      "M-0582"
+    ],
+    "sourceRow": 92
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Automated scoring of generated rationales",
+    "reportedCount": 2,
+    "ids": [
+      "M-0009",
+      "M-0782"
+    ],
+    "sourceRow": 93
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Human annotation agreement without utility test",
+    "reportedCount": 1,
+    "ids": [
+      "M-0443"
+    ],
+    "sourceRow": 94
+  },
+  {
+    "dimension": "Validation / sensitivity",
+    "category": "Stability claim without adequate procedure",
+    "reportedCount": 1,
+    "ids": [
+      "M-0555"
+    ],
+    "sourceRow": 95
+  }
+]

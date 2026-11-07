@@ -1,0 +1,12 @@
+master_id,openalex_id,year,title,doi,route,decision,qa_v2_total
+M-0801,W4306933566,2022,Zero-shot cross-lingual speech emotion recognition: a study of loss functions and feature importance,10.21437/SPSC.2022-5,"Citation searching (backward, query B01, B20)",Include,6.0
+M-0802,W4315574048,2023,Analysis of Deep Learning-Based Decision-Making in an Emotional Spontaneous Speech Task,10.3390/app13020980,"Citation searching (backward, query B19; forward, query F16)",Include,6.5
+M-0803,W4416944656,2025,Bridging Text and Speech for Emotion Understanding: An Explainable Multimodal Transformer Fusion Framework with Unified Audio–Text Attribution,10.3390/jintelligence13120159,"Citation searching (forward, query F11, F18)",Include,5.5
+M-0804,W4417200090,2025,Assessing random forest performance in low resource speech emotion recognition,10.1038/s41598-025-30511-6,"Citation searching (forward, query F09)",Include,4.0
+M-0805,W7120112424,2025,Interpretable Speech Emotion Recognition: A Comparative Study of BiLSTM Temporal Attention and Transformer-Based Multi-Head Self-Attention,10.70112/ajes-2025.14.2.4286,"Citation searching (backward, query B07; forward, query F18)",Include,5.5
+M-0806,W4410621378,2025,Multimodal Emotional Analysis using XAI for Psychotherapy,10.38124/ijisrt/25may474,"Citation searching (forward, query F06)",Exclude,3.5
+M-0807,W4320155329,2022,Affective Human-Robot Interaction with Multimodal Explanations,10.1007/978-3-031-24667-8_22,"Citation searching (backward, query B19)",Not retrieved,
+M-0808,W7202212234,2026,TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition,10.1007/978-981-92-4529-1_10,"Citation searching (forward, query F05, F11, F12, F16, F18, F19, F20)",Not retrieved,
+M-0809,W4414500093,2025,Multimodal Emotion Recognition with Explainable AI for Cognitive Human-Computer Interaction in Smart Environments,10.1109/ICSCSA66339.2025.11170860,"Citation searching (forward, query F06)",Not retrieved,
+M-0810,W4415728655,2025,Enhancing Emotion Detection Accuracy and Transparency Through Multimodal Fusion and Explainable AI,10.1007/978-981-96-8563-9_17,"Citation searching (forward, query F06, F11)",Not retrieved,
+M-0811,W4416978931,2025,Explainable cross-domain emotion recognition using non-linear optimization and multimodal feature fusion based deep learning model,10.1007/s41870-025-02930-1,"Citation searching (forward, query F12)",Not retrieved,

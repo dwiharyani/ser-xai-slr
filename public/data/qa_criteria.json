@@ -1,0 +1,58 @@
+[
+  {
+    "Criterion": "Q1 — SER task and data origin",
+    "0 — not met": "No emotion task on spoken utterances, or source cannot be established",
+    "0.5 — partly met": "Speech-linked task but spoken origin/labels partly unclear",
+    "1 — met": "Emotion recognition of spoken speech or clearly speech-derived transcript; audio, audio–text and justified speech-grounded settings accepted",
+    "Required evidence": "Task; label; speech/transcript origin",
+    "Coding guidance": "No penalty solely for having text or speech-centered context. Written-only sentiment is outside scope."
+  },
+  {
+    "Criterion": "Q2 — Dataset and preprocessing",
+    "0 — not met": "Dataset/labels or preparation not identified",
+    "0.5 — partly met": "Dataset named; mapping, split or preparation partly unclear",
+    "1 — met": "Dataset provenance, classes, processing and sampling adequately reported",
+    "Required evidence": "Corpus; classes; split; preprocessing",
+    "Coding guidance": "Video-derived recording permitted; written text converted to TTS is not real emotional-speech evidence."
+  },
+  {
+    "Criterion": "Q3 — Evaluation protocol",
+    "0 — not met": "Essential training/test procedure absent",
+    "0.5 — partly met": "Some details given, but split/validation or implementation ambiguous",
+    "1 — met": "Dataset partition, evaluation unit, model and test protocol replicable in principle",
+    "Required evidence": "Experiment section; reproducibility",
+    "Coding guidance": "Avoid assigning full credit solely from accuracy or benchmark name."
+  },
+  {
+    "Criterion": "Q4 — Implemented explanation approach",
+    "0 — not met": "Only claims of explainability or attention used for optimization",
+    "0.5 — partly met": "XAI described but explanation target/model connection partly unclear",
+    "1 — met": "A concrete XAI/reasoning method applied to an identified emotion prediction or relevant model component",
+    "Required evidence": "Method; actual explained predictor",
+    "Coding guidance": "Modality weighting alone is not automatically a speech explanation."
+  },
+  {
+    "Criterion": "Q5 — Actual XAI evidence",
+    "0 — not met": "No reported explanation output",
+    "0.5 — partly met": "Only qualitative claim or limited output with ambiguous linkage",
+    "1 — met": "Figure, table, concept score or generated rationale linked to emotion predictions from speech or speech-derived language",
+    "Required evidence": "Specific page/figure, predicted class and evidence",
+    "Coding guidance": "Do not treat confusion matrix, training curves or architecture alone as XAI."
+  },
+  {
+    "Criterion": "Q6 — SER prediction assessment",
+    "0 — not met": "No predictive evaluation",
+    "0.5 — partly met": "Incomplete test protocol or comparator",
+    "1 — met": "Appropriate SER metrics on stated test data with interpretable baselines/comparisons",
+    "Required evidence": "WA/UA, F1, test design",
+    "Coding guidance": "Compare model outcome and explanation separately."
+  },
+  {
+    "Criterion": "Q7 — Interpretation and reliability",
+    "0 — not met": "No explanation analysis or limitations",
+    "0.5 — partly met": "Discussion/illustration without independent faithfulness check",
+    "1 — met": "Interpretation with meaningful validation or sensitivity/robustness/fidelity test",
+    "Required evidence": "Stability, perturbation, human evaluation, fidelity",
+    "Coding guidance": "Natural-language rationale is observed explanation but not automatically faithful."
+  }
+]

@@ -1,0 +1,45 @@
+44
+W4412421540|2025|10.1016/j.patcog.2025.112122|x
+W4417495036|2025|10.1145/3773365.3773383|x
+W7160519830|2026|10.1016/j.aej.2026.04.060|x
+W4411499477|2025|10.3390/app15136958|x
+W4415188343|2025|10.3390/data10100164|x
+W7197039694|2026|10.18687/laccei2026.1.1.2195|x
+W7130501983|2026|10.1002/widm.70073|x
+W4406729380|2024|10.1109/icacc63692.2024.10845528|x
+W7212181487|2026|10.70917/ijcisim-2026-5629|x
+W4414271061|2025|10.1109/ncim65934.2025.11160160|x
+W4408934273|2025|10.1016/j.bspc.2025.107860|A comprehensive approach to enhance emotion recognition through advanced feature extraction and Attention
+W4403290123|2024|10.21203/rs.3.rs-5035263/v1|x
+W4409797003|2025|10.1109/icmlas64557.2025.10968799|x
+W4415728655|2025|10.1007/978-981-96-8563-9_17|x
+W7123357891|2026|10.1109/jstsp.2026.3652299|x
+W4377565691|2023|10.3389/fnins.2023.1183132|x
+W4417404437|2025|10.1109/icidca66325.2025.11280536|x
+W4408352790|2025|10.1109/icassp49660.2025.10889825|x
+W7123355441|2026|10.1007/s10772-025-10229-6|x
+W7224960789|2026|10.1109/i-smac70384.2026.11747477|Capacity-Dependent Effects of Theory-Guided Attention Regularization in Speech Emotion Recognition
+W7164205134|2025|10.1109/icspis68676.2025.11551721|An Explainable MFCC-Based Deep Learning Framework for Song Emotion Recognition
+W4407476463|2024|10.1109/icuis64676.2024.10866189|x
+W7131066259|2025|10.1109/dsit67006.2025.11389981|A Retrieval-Augmented Generation Method Based on Intent Analysis for Explainable Speech Emotion Recognition
+W4416944656|2025|10.3390/jintelligence13120159|Bridging Text and Speech for Emotion Understanding: An Explainable Multimodal Transformer Fusion Framework with Unified Audio-Text Attribution
+W4416911958|2025|10.36548/jaicn.2025.4.003|Integrating Automatic Speech Recognition and Emotion Detection: A Conformer-XGBoost Framework for Human-Centered Speech Systems
+W7133201092|2025|10.1109/ocit66168.2025.11400410|Real-Time Classroom Emotion Detection Using Explainable AI (XAI) for Adaptive Learning Feedback
+W7160524580|2026|10.1371/journal.pone.0342953|x
+W7202212234|2026|10.1007/978-981-92-4529-1_10|TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition
+W7213465237|2026|10.1007/s11036-026-02531-7|x
+W7118104391|2025|10.56979/1001/2025/1146|x
+W7162420605|2026|10.1109/taslpro.2026.3693971|x
+W7163651481|2026|10.14569/ijacsa.2026.0170518|x
+W7169838137|2026|10.69882/adba.chf.2026075|Efficacy of Multi-Domain Acoustic Features in Speech Emotion Recognition: A Comparative Analysis of Machine Learning and Deep Learning Models
+W7165659254|2026|10.1109/iciscn67954.2026.11566605|Speech Emotion Recognition Using Additive Attention Integrated with Bidirectional Long Short Term Memory Model for Temporal and Contextual Feature Learning
+W7203749469|2026|10.1109/icetm68138.2026.11648091|x
+W4408361561|2025|10.1145/3723005|x
+W4400522055|2024|10.3390/app14146042|x
+W4412050790|2025|10.1007/s00034-025-03224-4|x
+W4410153524|2024|10.1109/bitcon63716.2024.10985486|x
+W7147077271|2026|10.1109/icarc68737.2026.11453656|x
+W7118680432|2025|10.54389/pbuj2961|x
+W7214921724|2026|10.1145/3831648|x
+W7160089291|2026|10.3390/app16094394|x
+W4390191185|2023|10.2478/jaiscr-2024-0001|x

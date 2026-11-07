@@ -1,0 +1,18 @@
+{
+  "file": "XAI_for_SER__A_Systematic_Review_and_Taxonomy-6.pdf",
+  "reported": {
+    "screened": 1211,
+    "assessed": 83,
+    "included": 61,
+    "passed": 62,
+    "posthoc": 40,
+    "shap": 24,
+    "aggregated": 35,
+    "localised": 19,
+    "lexical": 10,
+    "anyEvaluation": 11,
+    "fidelity": 7,
+    "human": 4
+  },
+  "source": "User-supplied current manuscript dated 7 November 2026"
+}

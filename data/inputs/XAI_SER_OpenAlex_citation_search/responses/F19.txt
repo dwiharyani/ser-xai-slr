@@ -1,0 +1,8 @@
+7
+W7212258749|2026|10.1002/9781394479771.ch13|x
+W7169604375|2026|10.1109/icicds70526.2026.11604693|x
+W7133201092|2025|10.1109/ocit66168.2025.11400410|Real-Time Classroom Emotion Detection Using Explainable AI (XAI) for Adaptive Learning Feedback
+W7202212234|2026|10.1007/978-981-92-4529-1_10|TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition
+W7155098126|2026|10.1109/icassp55912.2026.11464906|x
+W7196947840|2026|10.1016/j.knosys.2026.116727|x
+W7108076681|2025|10.64136/deef2831|x

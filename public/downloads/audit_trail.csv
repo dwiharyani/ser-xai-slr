@@ -1,0 +1,1212 @@
+﻿id,title,screeningDecision,finalDecision,source
+M-0001,Enhancing Speech Emotion Recognition with Explainable AI and Feature Importance Analysis,Full text sought,Include,Scopus; IEEE
+M-0002,Speech Emotion Recognition with Explainable AI: Enhancing Transparency in Emotion Recognition Systems,Full text sought,Exclude,Scopus; IEEE
+M-0003,Exploring Local Interpretable Model-Agnostic Explanations for Speech Emotion Recognition with Distribution-Shift,Full text sought,Include,Scopus; IEEE; WoS
+M-0004,An Empirical Study and Improvement for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0005,Explainable Transformer-Based Speech Emotion Recognition Using Benchmark Datasets,Full text sought,Include,Scopus; IEEE
+M-0006,"A Multimodal Emotion Analysis System for Psychological Counseling Using Image, Audio, and Large Language Model Inference",Excluded at title/abstract,,Scopus; IEEE
+M-0007,Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE
+M-0008,An Explainable Attention-based Multimodal Emotion Recognition Framework using Cross-Modal Transformer Fusion,Excluded at title/abstract,,IEEE
+M-0009,Reasoning beyond Majority Vote: An Explainable Speechlm Framework for Speech Emotion Recognition,Full text sought,Include,IEEE
+M-0010,Graph Neural Network-Based Speech Emotion Recognition for Emotion-Aware Support,Full text sought,Exclude,Scopus; IEEE
+M-0012,"EnhanceNet: Leveraging Facial, Speech, and Textual Cues for Multimodal Emotion Recognition",Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0013,A Retrieval-Augmented Generation Method Based on Intent Analysis for Explainable Speech Emotion Recognition,Full text sought,Exclude,Scopus; IEEE
+M-0014,Multimodal Emotion Recognition using AGSA-Optimized LSTM with Explainable AI,Full text sought,Exclude,Scopus; IEEE
+M-0016,Filters Know How You Feel: Explaining Intermediate Speech Emotion Classification Representations,Full text sought,Include,Scopus; IEEE; WoS
+M-0017,Interpretable Feature Optimization for Sadness Recognition in Speech Emotion Analysis,Full text sought,Include,Scopus; IEEE
+M-0018,Persian Speech Emotion Recognition Using Multi-Scale SincNet and cGAN-based Ensemble Learning,Full text sought,Include,Scopus; IEEE
+M-0019,Exploring the Use of Large Language Models and Interpretable Features for Explainable Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE; WoS
+M-0020,Meta-Learning for Low-Resource Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0022,Feature Selection Based on Causal Analysis Algorithm for Speech Emotion Recognition,Full text sought,Exclude,Scopus; IEEE
+M-0024,Implementation of the MFCC-Streaming Bi-LSTM Based Speech Emotion Recognition Method,Excluded at title/abstract,,Scopus; IEEE
+M-0025,Temporal Graph Modeling for Speech Emotion Recognition Using LSTM-Aggregated Multigraph Networks,Excluded at title/abstract,,IEEE
+M-0026,Speech Emotion Recognition Method Using Depth Wavefield Extrapolation and Improved Wave Physics Model,Excluded at title/abstract,,IEEE
+M-0027,"Multimodal Emotion Recognition using Explainable AI for Text, Multilingual Audio, and Live Video",Full text sought,,Scopus; IEEE
+M-0028,Steering Language Model to Stable Speech Emotion Recognition via Contextual Perception and Chain of Thought,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0029,Can We Trust AI With Our Ears? A Cross-Domain Comparative Analysis of Explainability in Audio Intelligence,Full text sought,Include,Scopus; IEEE; WoS
+M-0030,Improving Domain Generalization in Speech Emotion Recognition with Whisper,Excluded at title/abstract,,IEEE
+M-0031,Multi-Lingual Speech Emotion Recognition: Investigating Similarities between English and German Languages,Full text sought,Include,Scopus; IEEE; WoS
+M-0032,Plug-and-Play Emotion Graphs for Compositional Prompting in Zero-Shot Speech Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0033,Explainable AI for Emotion-Aware Humancomputer Interaction Systems,Full text sought,Exclude,Scopus; IEEE
+M-0034,Preliminary Study of Explainable Deep Learning for Multimodal Emotion Recognition from Facial Expressions and Physiological Signal,Excluded at title/abstract,,Scopus; IEEE
+M-0035,Speech and Text Based Students' Mental Health Detection System Using Natural Language Processing with Explainable Ai,Excluded at title/abstract,,Scopus; IEEE
+M-0036,Speech Emotion Recognition Using Transformer-Based Architectures with Self-Attention Mechanisms,Excluded at title/abstract,,IEEE
+M-0037,The Shape of Emotion in Speech: A Topological Data Analysis of Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE; WoS
+M-0038,Iterative Feature Boosting for Explainable Speech Emotion Recognition,Full text sought,Companion,Scopus; IEEE
+M-0039,Robust Speech Emotion Recognition Using Explainable Deep Learning and Temporal-Spectral Feature Integration,Excluded at title/abstract,,Scopus; IEEE
+M-0040,An Explainable Deep Learning Framework for Robust Speech Emotion Recognition Using Temporal Spectral Feature Fusion,Excluded at title/abstract,,Scopus; IEEE
+M-0041,Speech Emotion Recognition Using Additive Attention Integrated with Bidirectional Long Short Term Memory Model for Temporal and Contextual Feature Learning,Excluded at title/abstract,,Scopus; IEEE
+M-0042,"Multimodal Emotion Recognition Via Integrated Facial, Speech, and Textual Features",Excluded at title/abstract,,Scopus; IEEE
+M-0043,Creation of an Afrikaans Speech Corpora for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0044,A Deep Learning Approach to Speech Emotion Recognition in Bengali Code-Mixed Speech,Excluded at title/abstract,,Scopus; IEEE
+M-0045,Neural Network-Based Speech Emotion Recognition for the Indonesian Language,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0046,Feature Importance and Model Performance in Deep Learning for Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE
+M-0047,Speech Emotion Recognition with Multiscale Area Attention and Data Augmentation,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0048,Gradient-Level Differential Privacy Against Attribute Inference Attack for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0049,Language-Dependent and Language-Independent Acoustic Cues in Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE
+M-0051,Triangular Region Cut-Mix Augmentation Algorithm-Based Speech Emotion Recognition System With Transfer Learning Approach,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0053,Improved Vocal Tract Length Perturbation for Improving Child Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0054,Analysis on Speech-Emotion Recognition with Effective Feature Combination,Excluded at title/abstract,,Scopus; IEEE
+M-0055,Comprehensive Analysis of Speech Emotion Recognition Using Deep Learning Techniques Under Clean and Noisy Environments,Excluded at title/abstract,,Scopus; IEEE
+M-0056,Speech Emotion Recognition from Bone-Conducted Speech Using Wav2Vec2 Transformer Model,Excluded at title/abstract,,IEEE
+M-0057,Speech Emotion Recognition System for Human Interaction Applications,Full text sought,Include,Scopus; IEEE
+M-0058,STAA-Net: A Sparse and Transferable Adversarial Attack for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0059,Rethinking Generalization in Speech Emotion Recognition: A Large-Scale Pairwise Cross-Corpus Evaluation,Excluded at title/abstract,,IEEE
+M-0060,VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition,Full text sought,Exclude,Scopus; IEEE; WoS
+M-0061,A Speech Emotion Recognition Method Based on Improved Residual Network,Excluded at title/abstract,,Scopus; IEEE
+M-0062,The Role of Task and Acoustic Similarity in Audio Transfer Learning: Insights from the Speech Emotion Recognition Case,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0063,Aclipse: Attention-Based Cascaded Learning Enabling Privacy-Preserving Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0064,Emotion Classification in Adults Using Transformer Networks with Multi Stage Preprocessing and Token Optimization,Excluded at title/abstract,,IEEE
+M-0065,Enhancing Speech Emotion Recognition through Domain-Aware Data Augmentation and Model Explainability,Full text sought,Include,Scopus; IEEE
+M-0067,"Reducing Prejudice in Hiring: An Explainable AI-Powered Multimodal Virtual Interviewer for Assessing Candidates and Generating Feedback with Text, Voice, and Emotion Recognition",Excluded at title/abstract,,Scopus; IEEE
+M-0068,An Interpretable Collaborative Acoustic Parameter Modeling Network for Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE; WoS
+M-0069,Hybrid Wav2Vec2–CNN–BiLSTM with Multi-Head Self-Attention for Noise Robust Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0071,An Interpretable Deep Mutual Information Curriculum Metric for a Robust and Generalized Speech Emotion Recognition System,Full text sought,Exclude,Scopus; IEEE; WoS; ACM
+M-0072,Enhancing Automated Interview Performance Evaluation Using Multimodal Emotion Detection and Retrieval-Augmented Generation,Excluded at title/abstract,,Scopus; IEEE
+M-0073,Enhancing Speech Emotion Recognition in Urdu Using Bi-GRU Networks: An In-Depth Analysis of Acoustic Features and Model Interpretability,Full text sought,Include,Scopus; IEEE
+M-0074,Toward Accountable and Explainable Artificial Intelligence Part Two: The Framework Implementation,Excluded at title/abstract,,IEEE
+M-0075,Acoustic Characterization of Huntington's Disease Emotional Expression: An Explainable AI Approach,Full text sought,Include,Scopus; IEEE; WoS
+M-0076,Informative Speech Features based on Emotion Classes and Gender in Explainable Speech Emotion Recognition,Full text sought,Include,Scopus; IEEE; WoS
+M-0077,Speech–Text Fusion With ASR Reliability Metadata for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0078,"Explainable Context-Aware Emotion Recognition in Conversations Through Attribution Analysis, Layer-Wise Probing and Representation Geometry",Excluded at title/abstract,,Scopus; IEEE
+M-0079,MCM-CSD: Multi-Granularity Context Modeling with Contrastive Speaker Detection for Emotion Recognition in Real-Time Conversation,Excluded at title/abstract,,Scopus; IEEE
+M-0081,Emotional AI and Adaptive user Interfaces,Excluded at title/abstract,,Scopus; IEEE
+M-0082,Capacity-Dependent Effects of Theory-Guided Attention Regularization in Speech Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0083,Detecting Moral Emotions with Facial and Vocal Expressions: A Multimodal Emotion Recognition Approach,Excluded at title/abstract,,Scopus; IEEE
+M-0084,Contextual Cross-Modal Emotion Fusion Network for Robust Multi-Modal Emotion Recognition in Ambient Assisted Living Environments,Excluded at title/abstract,,IEEE
+M-0085,Explainable Emotion Recognition Using Xception-Based Feature Extraction and Supervised Machine Learning on the RAVDESS Dataset,Excluded at title/abstract,,Scopus; IEEE
+M-0086,Behind the Scenes: Mechanistic Interpretability of Lora-Adapted Whisper for Speech Emotion Recognition,Full text sought,Include,IEEE
+M-0087,Improving Crowd Emotion Recognition with Multimodal Data and AI,Excluded at title/abstract,,Scopus; IEEE
+M-0090,Hybrid 1D-2D Deep CRNN Ensemble with Feature Selection for Cross-Corpus Robust Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0091,A Real-Time Multimodal Emotion-Aware Conversational AI System with ConfidenceWeighted Fusion and Temporal Emotion Tracking,Excluded at title/abstract,,Scopus; IEEE
+M-0092,Multimodal Emotion Recognition using Hierarchical Contrastive Residual Cross-Attention Fusion,Excluded at title/abstract,,Scopus; IEEE
+M-0093,Speech Emotion Recognition-A Deep Learning Approach,Excluded at title/abstract,,IEEE
+M-0095,Feature Enhancement for Audio and Visual Streams in Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0096,Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0097,Cochceps-Augment: A Novel Self-Supervised Contrastive Learning Using Cochlear Cepstrum-Based Masking for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0098,Speech Emotion Recognition in Filipino Spoken Language Using Deep Learning,Excluded at title/abstract,,IEEE
+M-0099,Speech Emotion Recognition with Complementary Acoustic Representations,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0100,AI-Based Suicide Risk Detection System Using Text and Voice Emotion Analysis,Excluded at title/abstract,,IEEE
+M-0102,A Novel Approach to Speech Emotion Recognition Using Wav2Vec2,Excluded at title/abstract,,Scopus; IEEE
+M-0103,Performance Enhancement of Speech Emotion Recognition via Stacking-Based Model Fusion,Excluded at title/abstract,,IEEE
+M-0104,Investigating the Impact of Combined Spectral and Prosodic Features on Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0105,Emotion-Specific Routing With Acoustic Descriptors for Efficient Speech Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0106,Interpretability for Multimodal Emotion Recognition using Concept Activation Vectors,Full text sought,Include,Scopus; IEEE
+M-0108,Dawn of the Transformer Era in Speech Emotion Recognition: Closing the Valence Gap,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0110,Enhanced Speech Emotion Recognition in Educational Settings Using Multi-Modal AFCNN Fusion,Excluded at title/abstract,,IEEE
+M-0111,"A Multi-Modal AI Framework for Real-Time Depression and Anxiety Detection using Voice, Text, and Facial Cues",Excluded at title/abstract,,Scopus; IEEE
+M-0112,Distribution-Preserving Output Restructuring for Ambient Visual Feedback in Speech Emotion Recognition: A Design-Oriented Comparative Study,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0114,Integrating Advanced NLP and Deep Learning for Multimodal Data in Suicide Prevention Chatbot,Excluded at title/abstract,,IEEE
+M-0115,Cross-Speaker Emotion Transfer Through Information Perturbation in Emotional Speech Synthesis,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0116,SONAR: A Hybrid Explainable Emotion-Aware Music Recommendation Framework,Excluded at title/abstract,,Scopus; IEEE
+M-0117,An Interpretable Multimodal AI Framework to Support Psychological Follow-Up in Child Maltreatment Cases,Excluded at title/abstract,,IEEE
+M-0118,EmoMI: A Multi-Scale Heterogeneous Graph Contrastive Learning Network for Conversational Multimodal Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0119,Enhancing Privacy Through Domain Adaptive Noise Injection For Speech Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0120,"Speech Sentiment and Emotion Recognition: A Systematic Survey of Acoustic Features, Deep Models, and Transformer Architectures",Excluded at title/abstract,,Scopus; IEEE
+M-0121,Adversarially Resilient Task-Oriented Semantic Communication for Speech Emotion Classification,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0122,A Defense Framework for Multimodal Emotion Recognition: Adversarial Detection via Large Language Model Consistency Scoring,Excluded at title/abstract,,IEEE
+M-0123,Emotion Recognition with Adaptive Fusion and Personalized Recommendation for Mental Health Monitoring,Excluded at title/abstract,,Scopus; IEEE
+M-0124,Multimodal Fusion of Speech and Handwriting Biomarkers for Parkinson’s Disease Diagnosis,Excluded at title/abstract,,Scopus; IEEE
+M-0125,A Novel Attention-Based Method for Integrating Facial and Speech Features in Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0126,"Ethical, Privacy, and Technical Challenges of AI-Driven Emotion Recognition in Education Settings: An Umbrella Review",Excluded at title/abstract,,IEEE
+M-0127,Comprehensive Insights Into Multimodal Emotion Recognition Using Machine Learning and Deep Learning,Excluded at title/abstract,,Scopus; IEEE
+M-0128,A Novel Framework for Emotion Detection with Graph Neural Networks: A Deep Learning Perspective,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0129,"Choices, Choices, Choices: Features, Datasets, and Optimisation for Speech Emotion Recognition",Excluded at title/abstract,,IEEE
+M-0130,"Large Language Model Based Generative Error Correction: A Challenge and Baselines For Speech Recognition, Speaker Tagging, and Emotion Recognition",Excluded at title/abstract,,IEEE
+M-0131,A Lightweight Late Fusion-Based Framework for Temporal Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0132,A Multimodal Emotion Recognition Enhanced Resilient Cognitive Twin,Excluded at title/abstract,,IEEE
+M-0133,NeuroSIFT: A Biologically-Inspired Framework with Explicit Signal-Noise Separation for Robust Multimodal Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0134,AI-Powered Mobile Application for Supporting Mental Wellness in Children,Excluded at title/abstract,,Scopus; IEEE
+M-0135,Emotion Detection From Speech for Improved Communication Accessibility,Excluded at title/abstract,,IEEE
+M-0137,Multi-Modal Emotion and Personality Analysis for AI-Enabled Recruitment Systems,Excluded at title/abstract,,IEEE
+M-0138,Tri-Modal Deep Learning for Interpretable and Non-Invasive Suicide Risk Detection,Excluded at title/abstract,,Scopus; IEEE
+M-0139,A Review of Multimodal Emotion Recognition: Deep Learning-Based Methods and Applications,Excluded at title/abstract,,Scopus; IEEE
+M-0140,Multimodal Emotion Recognition Using Deep Learning for Audio and Visual Fusion,Excluded at title/abstract,,Scopus; IEEE
+M-0141,"A Comparative Benchmark of Machine Learning, Deep Learning, and LLM Models for Bangla Drama Sentiment Analysis",Excluded at title/abstract,,IEEE
+M-0142,Interpreting Human Feelings: A Comparison of Speech-Based Identification Methods,Excluded at title/abstract,,Scopus; IEEE
+M-0144,Low-Latency Edge Fusion for Multimodal Emotion Recognition in 6G Networks,Excluded at title/abstract,,Scopus; IEEE
+M-0145,Enhancing Robustness Against Adversarial Attacks in Multimodal Emotion Recognition With Spiking Transformers,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0146,Explicit Modality Weighting With Unimodal Supervision for Categorical Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0147,An Explainable MFCC-Based Deep Learning Framework for Song Emotion Recognition,Full text sought,Exclude,IEEE
+M-0148,Multimodal Emotion Detection from Image and Speech Using Advanced Deep Learning,Excluded at title/abstract,,IEEE
+M-0149,AI based Psychometric Assessment using Multimodal Signal Data,Excluded at title/abstract,,Scopus; IEEE
+M-0150,Integrating Speech and Pupillometry for Enhanced Emotion Recognition: A Multimodal Approach,Excluded at title/abstract,,IEEE
+M-0151,DQ-Former: Layer-Wise Querying Transformer With Dynamic Modality Priority for Conversational Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0152,AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis,Excluded at title/abstract,,Scopus; IEEE
+M-0153,Multi-Modal Machine Learning for Sentiment and Emotion Recognition in Social Media Data,Excluded at title/abstract,,IEEE
+M-0154,HIFN-Transformer: Learnable Information-Theoretic Parameters for Interpretable Deep Classification,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0155,Human–Object Interaction as Affective Evidence for Multimodal Emotion Recognition,Excluded at title/abstract,,IEEE
+M-0156,A Road-Rage Emotion Detection Framework for Intelligent Cockpits Based on Multimodal Fusion,Excluded at title/abstract,,IEEE
+M-0158,MES-P: An Emotional Tonal Speech Dataset in Mandarin with Distal and Proximal Labels,Excluded at title/abstract,,IEEE
+M-0159,Speech-Based Emotion Detection for Mental Health Monitoring: A Machine Learning Approach,Excluded at title/abstract,,Scopus; IEEE
+M-0160,An Engineering View on Emotions and Speech: From Analysis and Predictive Models to Responsible Human-Centered Applications,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0161,Fusion with Hierarchical Graphs for Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0163,Ethicore AI: Trust Driven Cognitive Intelligence with Emotion Awareness and Transparent Decision Making,Excluded at title/abstract,,Scopus; IEEE
+M-0164,Emotion Recognition in Artificial Intelligence: A New Frontier in Human-Computer Interaction,Excluded at title/abstract,,IEEE
+M-0165,Detecting Emotions Escalating and De-Escalating Patterns using Deep Learning: A Review,Excluded at title/abstract,,IEEE
+M-0166,A Speech Representation Anonymization Framework via Selective Noise Perturbation,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0167,"Spoken in Jest, Detected in Earnest: A Systematic Review of Sarcasm Recognition—Multimodal Fusion, Challenges, and Future Prospects",Excluded at title/abstract,,IEEE
+M-0168,Acoustic Correlates of Affective Prosody Across Emotions and Stress Levels: A Phonetic Analysis With Interpretable AI-Assisted Modeling,Full text sought,Include,Scopus; IEEE; WoS
+M-0169,Emotion-Aware Voice Monitoring: Mapping Continuous VAD to Operationally Interpretable Affect Levels,Excluded at title/abstract,,Scopus; IEEE
+M-0170,"AI-Driven Audiobook Production: Advancements, Challenges, And Future Directions",Excluded at title/abstract,,Scopus; IEEE
+M-0171,Utilizing Enhanced Particle Swarm Optimization for Feature Selection in Gender-Emotion Detection From English Speech Signals,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0172,Audio Explanation Synthesis with Generative Foundation Models,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0173,Exploring Emotional Engagement with Responsible AI Constructs: A Video-Based Cognitive Experiment,Excluded at title/abstract,,IEEE
+M-0174,AMMHAS: An Adaptive Multimodal Framework for Mental Health Assessment with LLM-Based Interpretability,Excluded at title/abstract,,Scopus; IEEE
+M-0175,An Emotion-Aware Digital Twin Educational Metaverse Framework for Adaptive Learner Motivation and Affective Engagement Optimization,Excluded at title/abstract,,Scopus; IEEE
+M-0176,Multimodal Attentive Learning for Real-time Explainable Emotion Recognition in Conversations,Full text sought,Exclude,Scopus; IEEE
+M-0177,Emotion Recognition in Speech: Exploiting ResNet50 and Attention Mechanism,Excluded at title/abstract,,IEEE
+M-0178,Emotion Recognition for Human Computer Interaction using Attention-Transformer Assisted Selfish Herd Optimization tuned Bidirectional Long Short-Term Memory,Excluded at title/abstract,,Scopus; IEEE
+M-0180,"A Novel Emotion-Aware Method Based on the Fusion of Textual Description of Speech, Body Movements, and Facial Expressions",Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0181,Random Forest-Powered Acoustic Gunshot Detection Leveraging LPC Features and LIME-Based Interpretability,Excluded at title/abstract,,IEEE
+M-0183,SAFE-GUARD: Audio Emotion Recognition System for Real-Time Public Place Abuse Detection,Excluded at title/abstract,,IEEE
+M-0184,SGEANet: Interpretable and Controllable Emotional Speech Synthesis via Emotion Basis Vectors,Excluded at title/abstract,,Scopus; IEEE
+M-0185,SABER: Speaker-Aware Bayesian Emotion Recognition,Excluded at title/abstract,,Scopus; IEEE
+M-0186,AudioAuth: A Dual-Watermarking Framework for Robust Audio Integrity and Source Attribution,Excluded at title/abstract,,IEEE
+M-0190,BERSting at the Screams: Recognition of Shouted and Distressed Speech from Smartphone Recordings,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0192,Interpretable Control for Emotional Text-to-Speech System toward Development of Sympathetic Educational-Support Robots,Excluded at title/abstract,,IEEE
+M-0194,Extended Abstract: Probed Language-Based Assessments Using Spoken Language,Excluded at title/abstract,,IEEE; WoS
+M-0195,Detecting Emotion Carriers by Combining Acoustic and Lexical Representations,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0196,Emotion-Aware Adaptation in E-Learning: A Real-Time Multimodal Virtual Teaching Assistant,Excluded at title/abstract,,Scopus; IEEE
+M-0197,Audio-Based Sentiment Analysis Using CNNs for Emotion Detection,Excluded at title/abstract,,Scopus; IEEE
+M-0198,Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0199,Classifying Perceived Emotions based on Polarity of Arousal and Valence from Sound Events,Excluded at title/abstract,,IEEE
+M-0200,Early Detection of Mental Health Patterns Using Multimodal AI,Excluded at title/abstract,,Scopus; IEEE
+M-0201,Analysis of Formant Correlations in Emotional Speech – Do Formants Correlate?,Excluded at title/abstract,,IEEE
+M-0204,Generative Adversarial Approaches for Cross-Lingual Emotion-Aware Speech Synthesis,Excluded at title/abstract,,Scopus; IEEE
+M-0205,Ai Based Emotion Detection System,Excluded at title/abstract,,Scopus; IEEE
+M-0208,Improving Audio Explanations Using Audio Language Models,Full text sought,Include,Scopus; IEEE; WoS
+M-0210,Emotion information recovery potential of wav2vec2 network fine-tuned for speech recognition task,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0211,BiMER: Design and Implementation of a Bimodal Emotion Recognition System Enhanced by Data Augmentation Techniques,Excluded at title/abstract,,IEEE; WoS
+M-0212,Combining Relative and Absolute Learning Formulations to Predict Emotional Attributes From Speech,Excluded at title/abstract,,IEEE
+M-0213,DualECot: Toward Explainable Emotion Causality Analysis in Conversations,Excluded at title/abstract,,IEEE
+M-0215,"Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information, and Handling Missing Features",Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0217,10 Affective Computing,Excluded at title/abstract,,IEEE
+M-0221,A Brief Survey on Facial Expression Detection,Excluded at title/abstract,,IEEE
+M-0224,"PEFT for Speech: Unveiling Optimal Placement, Merging Strategies, and Ensemble Techniques",Excluded at title/abstract,,IEEE
+M-0225,"A Unified Mathematical Model for Human Vocal Dynamics Integrating Energy, Entropy, and Resonance for Voice Activity Detection and Affective Computing",Excluded at title/abstract,,IEEE
+M-0226,ClonEval: An Open Voice Cloning Benchmark,Excluded at title/abstract,,IEEE
+M-0230,The Cortical Spatial Responses and Decoding of Emotion Imagery Toward a Novel fNIRS-Based Affective BCI,Excluded at title/abstract,,IEEE
+M-0231,Synthesizing Speech-guided Face Animation by Low-Rank and Noise-tolerant Active Learning,Excluded at title/abstract,,IEEE
+M-0234,Bridging Discrete and Continuous: A Multimodal Strategy for Complex Emotion Detection,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0235,Natural Language Processing Studies in HumanComputer Interaction: A Bibliometric Analysis and Future Research Framework,Excluded at title/abstract,,IEEE
+M-0237,MyRecommender: Personalized Activity Recommendation based on Negative Emotions Classification,Excluded at title/abstract,,IEEE
+M-0238,Distributed Machine Learning Frameworks for Emotion Classification Leveraging Facial Action Coding System Features,Excluded at title/abstract,,Scopus; IEEE
+M-0240,What Is Faster than Where in Vocal Emotional Perception,Excluded at title/abstract,,IEEE
+M-0241,User Engagement Prediction via Multi-Modal Emotion Analysis in Static and Dynamic Media,Excluded at title/abstract,,IEEE
+M-0242,"SpeakSmart: Empowering Public Speakers, Elevating Every Speech",Excluded at title/abstract,,IEEE
+M-0243,"A Comprehensive Survey on Emotion Detection: Modalities, Methods, Applications, and Future Directions",Excluded at title/abstract,,Scopus; IEEE
+M-0244,MCF: Text LLMS for Multimodal Emotional Causality,Excluded at title/abstract,,IEEE
+M-0245,Masked Attention-Driven Unified Multitask Representation Learning for Affective Computing,Excluded at title/abstract,,Scopus; IEEE
+M-0246,A Multimodal Emotional Interaction Framework Driven by Large Language Models,Excluded at title/abstract,,Scopus; IEEE
+M-0247,Demystifying the Hypercomplex: Inductive biases in hypercomplex deep learning,Excluded at title/abstract,,IEEE
+M-0249,Early Detection of Neurodegenerative Diseases Through Multimodal Neuro-Biosensing and Digital Biomarker Fusion,Excluded at title/abstract,,IEEE
+M-0250,Multimodal Voice Distress Detection for Real-Time Safety Monitoring in Schools,Excluded at title/abstract,,IEEE
+M-0251,Emotion-Aware Token Reweighting for Aspect-Based Emotion Detection in Bangla Text,Excluded at title/abstract,,IEEE
+M-0252,Diagnostic Biomarker Exploration of Autistic Patients With Different Ages and Different Verbal Intelligence Quotients Based on Random Forest Model,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0254,METTS: Multilingual Emotional Text-to-Speech by Cross-Speaker and Cross-Lingual Emotion Transfer,Excluded at title/abstract,,IEEE
+M-0255,A Multimodal Framework for Automated Teaching Quality Assessment of One-to-many Online Instruction Videos,Excluded at title/abstract,,IEEE
+M-0258,Emotion Decoding of Speech Using NLP Analysis Approach,Excluded at title/abstract,,IEEE
+M-0261,Bridging Discrepancies in Debate: Joint Debate for Enhancing Multimodal Emotion-Cause Pair Extraction in Conversation,Excluded at title/abstract,,IEEE
+M-0262,Kalman-Filtered Emotion State Estimation with Valence-Asymmetric Contagion for Companion AI,Excluded at title/abstract,,IEEE
+M-0264,Contrastive Fusion Network for Interpreting Multimodal Emotional Cues within Interactive Theatre Performances,Full text sought,Exclude,Scopus; IEEE
+M-0265,The Whisper Effect: Can LLMs Learn Language from Non-Linguistic Audio Signals?,Excluded at title/abstract,,IEEE
+M-0266,Perceptual Study of Emotions: A Comparative Analysis on Audio-Visual Signal of Tamil Children,Excluded at title/abstract,,IEEE
+M-0267,MINDtrack: A Conversational Interface with an AI-Powered Adaptive Human State Recognition System,Excluded at title/abstract,,IEEE
+M-0268,Emotionally Enhanced Audiobook Reader with Character Voice Differentiation,Excluded at title/abstract,,Scopus; IEEE
+M-0269,A Study of Brain Mechanisms by Which Sound Source Location and Amount of Masking Affect Target Perception,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0270,Perceptually Constrained Fast Adversarial Audio Attacks,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0271,MAGIC: Multimodal Adaptive Graph Interaction Network for Conversation,Excluded at title/abstract,,Scopus; IEEE
+M-0272,Multimodal Emotion Detection and Classification of Audio-Visual Using Deep Learning,Excluded at title/abstract,,Scopus; IEEE
+M-0273,Robat-e-Beheshti: A Persian Wake Word Detection Dataset for Robotic Purposes,Excluded at title/abstract,,Scopus; IEEE
+M-0274,Discriminative Feature Learning-Based Federated Lightweight Distillation Against Multiple Attacks,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0275,Integration of Emotion-Aware Multilingual NLP and Persuasive Dialogue Modeling for Context-Aware AI Voice Agents,Excluded at title/abstract,,Scopus; IEEE
+M-0276,"Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving",Excluded at title/abstract,,Scopus; IEEE
+M-0277,Adaptive Internal Models in Neuroscience,Excluded at title/abstract,,Scopus; IEEE; WoS
+M-0278,Multimodal emotion recognition model based on hierarchical graph matching; [基于层级化图匹配的多模态情感识别模型],Excluded at title/abstract,,Scopus
+M-0279,Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis,Excluded at title/abstract,,Scopus; ACL
+M-0280,"2nd International Conference on Neural Computing for Advanced Applications, NCAA 2021",Excluded at title/abstract,,Scopus
+M-0281,Emotion-Aware Intelligent Agents Using Multimodal Neuro-Symbolic Reasoning,Excluded at title/abstract,,Scopus
+M-0282,An Acoustic Wave Equation Emotion Recognition Model Based on Image Saliency; [融合图像显著性的声波动方程情感识别模型],Excluded at title/abstract,,Scopus
+M-0283,GS³-ICL: Graph-Structured Sparse Selection with Invariance-Consistent Learning for multimodal SER,Excluded at title/abstract,,Scopus; ACM
+M-0284,Chain-of-Thought Distillation with Fine-Grained Acoustic Cues for Speech Emotion Recognition,Full text sought,Include,Scopus; WoS; ISCA
+M-0285,An explainable DAE-transformer-based multimodal fusion algorithm for elderly emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0286,"A survey of multimodal emotion recognition from facial expressions,audios,and language; [面向表情、语音和语言的多模态情感识别综述]",Excluded at title/abstract,,Scopus
+M-0287,A prosodic analysis of emotional expressions in Langkat Malay speech,Excluded at title/abstract,,Scopus
+M-0288,SignalGrad-CAM: beyond image explanation,Excluded at title/abstract,,Scopus
+M-0289,"5th International Conference on Artificial Intelligence and Speech Technology, AIST 2023",Excluded at title/abstract,,Scopus
+M-0290,Multimodal emotion recognition-driven personalized digital therapeutics for anxiety management,Excluded at title/abstract,,Scopus
+M-0291,Arabic Speech Emotion Recognition Using Deep Neural Network,Excluded at title/abstract,,Scopus; WoS
+M-0293,"27th International Conference on Speech and Computer, SPECOM 2025",Excluded at title/abstract,,Scopus
+M-0294,"23rd International Conference on Human-Computer Interaction, HCII 2021",Excluded at title/abstract,,Scopus
+M-0295,``Actors Challenge'': Collecting Data to Study Prosodic Patterns and Their Mappings to Meanings Across Languages,Excluded at title/abstract,,Scopus; ACL
+M-0296,Real-Time End-to-End Speech Emotion Recognition with Cross-Domain Adaptation,Excluded at title/abstract,,Scopus; WoS
+M-0297,Sparse temporal aware capsule network for robust speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0298,"Proceedings of 2022 25th International Conference on Computer and Information Technology, ICCIT 2022",Excluded at title/abstract,,Scopus
+M-0299,From EEG to Emotion: Spatio-Temporal Deep Learning for Real-Time Affective State Recognition,Excluded at title/abstract,,Scopus
+M-0300,"ISAS 2023 - 7th International Symposium on Innovative Approaches in Smart Technologies, Proceedings",Excluded at title/abstract,,Scopus
+M-0301,"2nd International Conference on Intelligent Systems for Cybersecurity, ISCS 2025",Excluded at title/abstract,,Scopus
+M-0302,A systematic review of vision transformer and explainable AI advances in multimodal facial expression recognition,Excluded at title/abstract,,Scopus; WoS
+M-0303,A multi-modal speech emotion recognition method based on graph neural networks,Excluded at title/abstract,,Scopus; WoS
+M-0304,Toward Robust Speech Emotion Recognition: A Hybrid EMix-Based Augmentation Approach,Excluded at title/abstract,,Scopus; WoS
+M-0305,Disentangled Variational Autoencoder for Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0306,An encoder–decoder transformer with signal-level data augmentation for robust speech emotion recognition,Excluded at title/abstract,,Scopus
+M-0307,"Comprehensive Analysis of Speech Emotion Recognition: Models, Methods, and Applications in Intelligent Interaction",Excluded at title/abstract,,Scopus
+M-0308,A deep neuro-fuzzy framework for speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0309,Speech emotion recognition with unsupervised graph contrastive learning; [基 于 无 监 督 图 对 比 学 习 的 语 音 情 感 识 别],Excluded at title/abstract,,Scopus
+M-0310,Similarities in emotion perception from faces and voices: evidence from emotion sorting tasks,Excluded at title/abstract,,Scopus; WoS
+M-0311,Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network,Full text sought,Include,Scopus; WoS
+M-0312,An Interpretable Multi-Level Feature Disentanglement Algorithm for Speech Emotion Recognition,Full text sought,Exclude,Scopus; WoS
+M-0313,WavXAI-EmoNet: Explainable Emotion Understanding Through VAD Mapping and Multimodal Sensor Fusion,Full text sought,,Scopus
+M-0314,Lightweight Neural Networks for Speech Emotion Recognition using Layer-wise Adaptive Quantization,Excluded at title/abstract,,Scopus; WoS
+M-0315,"32nd International Conference on Neural Information Processing, ICONIP 2025",Excluded at title/abstract,,Scopus
+M-0316,EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0317,DDE-SER: A Dual-Decomposition Ensemble Framework Fusing Adaptive Variational Modes and Harmonic-Percussive Spectrograms for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; WoS
+M-0318,Learning coordinated emotion representation between voice and face,Excluded at title/abstract,,Scopus; WoS
+M-0319,"Semi-supervised Ladder Networks for Speech Emotion Recognition (vol 16, pg 437, 2019)",Excluded at title/abstract,,Scopus; WoS
+M-0320,The interplay between emotional semantics and prosody: behavioural and skin conductance responses,Excluded at title/abstract,,Scopus; WoS
+M-0321,"2024 1st International Conference on Cognitive, Green and Ubiquitous Computing, IC-CGU 2024",Excluded at title/abstract,,Scopus
+M-0322,Emotion Recognition in Conversation with Multi-step Prompting Using Large Language Model,Excluded at title/abstract,,Scopus
+M-0323,"25th International Conference on Pattern Recognition Workshops, ICPR 2020",Excluded at title/abstract,,Scopus
+M-0324,Emotional speech Recognition using CNN and Deep learning techniques,Excluded at title/abstract,,Scopus; WoS
+M-0325,Towards LLM-Empowered Fine-Grained Speech Descriptors for Explainable Emotion Recognition,Full text sought,Exclude,Scopus; WoS; ISCA
+M-0326,"Social cognitive deficits in schizophrenia, bipolar disorder, and first-degree relatives: A large-sample, multi-task investigation",Excluded at title/abstract,,Scopus; WoS
+M-0327,Does Multi-dataset Combination Impact Machine Learning Performance? Emotion Recognition Use Case,Excluded at title/abstract,,Scopus
+M-0328,"18th International Conference on Distributed Computing and Intelligent Technology, ICDCIT 2022",Excluded at title/abstract,,Scopus
+M-0329,Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0330,Neurocognitive Dynamics of Prosodic Salience over Semantics during Explicit and Implicit Processing of Basic Emotions in Spoken Words,Excluded at title/abstract,,Scopus; WoS
+M-0331,Multimodal analysis of spontaneous speech for predicting food liking: Integrating linguistic and prosodic features with machine learning,Excluded at title/abstract,,Scopus; WoS
+M-0332,A systematic review of interpretability and explainability for speech emotion features in automatic speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0333,Multimodal Quantum-inspired Network for Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0334,Speech Emotion Recognition Using Machine Learning,Excluded at title/abstract,,Scopus
+M-0335,"A Survey on Multimodal Emotion Recognition: Methods, Datasets, and Future Directions",Excluded at title/abstract,,Scopus; WoS
+M-0336,"RETRACTED: Speech Emotion Recognition: A Comprehensive Survey (Retracted article. See vol. 146, pg. 15, 2026)",Excluded at title/abstract,,Scopus; WoS
+M-0337,MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Subtle Clue Dynamics in Video Dialogues,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0338,"13th International Conference on Frontiers in Intelligent Computing: Theory and Applications, FICTA 2025",Excluded at title/abstract,,Scopus
+M-0339,Speech- and Text-Based Emotion Recognition in Anesthesiology Residents During Critical Incident Simulation Training: Exploratory Observational Study,Excluded at title/abstract,,Scopus
+M-0340,"Proceedings - 2022 OITS International Conference on Information Technology, OCIT 2022",Excluded at title/abstract,,Scopus
+M-0341,Intact representation of vocal smile in autism: A reverse correlation approach,Excluded at title/abstract,,Scopus
+M-0342,Gender-Driven English Speech Emotion Recognition with Genetic Algorithm,Excluded at title/abstract,,Scopus; WoS
+M-0343,Basal ganglia and cerebellum contributions to vocal emotion processing as revealed by high-resolution fMRI,Excluded at title/abstract,,Scopus; WoS
+M-0344,Addressing the Dissimulation Problem in the Assessment of Suicide Risk Using CNN-Based Voice Analysis: A Proof-of-Concept Study,Excluded at title/abstract,,Scopus; WoS
+M-0345,Combining a multi-feature neural network with multi-task learning for emergency calls severity prediction,Excluded at title/abstract,,Scopus; WoS
+M-0346,How Much Does the Dynamic F0 Curve Affect the Expression of Emotion in Utterances?,Excluded at title/abstract,,Scopus; WoS
+M-0347,Integrating audio-visual text generation with contrastive learning for enhanced multimodal emotion analysis,Excluded at title/abstract,,Scopus; WoS
+M-0348,Affective Profiling in Indian Speech Using Analytic Signal-Matched Filter Bank Features and Valence–Arousal–Dominance Mapping,Excluded at title/abstract,,Scopus
+M-0349,Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT,Excluded at title/abstract,,Scopus; WoS
+M-0350,Saliency-driven neural network for generalizable speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0351,MEM-8X8: A Multimodal Framework for Emotion Classification and Mismatch Analysis using the ICE Dataset,Excluded at title/abstract,,Scopus
+M-0352,Reinforced and Integrated Prompt Optimization Strategy for Emotion Recognition in Conversation,Excluded at title/abstract,,Scopus
+M-0353,Optimized feature engineering for machine learning-based emotion recognition from human speech,Excluded at title/abstract,,Scopus; WoS
+M-0354,Speech emotion recognition using multimodal LLMs and quality-controlled TTS-based data augmentation for Iberian languages,Excluded at title/abstract,,Scopus; WoS
+M-0355,Review of Intelligent Digital Human Content Generation Technology; [智能数字人内容生成技术综述],Excluded at title/abstract,,Scopus
+M-0356,FACER: Evaluating and Enhancing Explainable Feature-Level Robustness via Causal Effects,Full text sought,,Scopus; WoS
+M-0357,Attention gated tensor neural network architectures for speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0358,Probing Speech Emotion Recognition Transformers for Linguistic Knowledge,Excluded at title/abstract,,Scopus; WoS
+M-0359,A Large Language Model-based Self-analysis Support Dialogue System for Job-hunting Students; [就職活動中の学生を対象とした自己分析支援対話システム],Excluded at title/abstract,,Scopus
+M-0360,Whisper-KAN for Speech Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0361,Multi-scale local-global fusion network with temporal attention for speech emotion recognition,Excluded at title/abstract,,Scopus
+M-0362,MoWER: Multimodal emotion recognition in conversation with emotion wheel-enhanced representation,Excluded at title/abstract,,Scopus
+M-0363,Adaptive Multimodal Fusion for Interpretable and Efficient Conversational Emotion Recognition,Excluded at title/abstract,,Scopus; WoS
+M-0364,Intact Neural and Behavioral Processing of Vocal Emotional Expressions in Men with Autism,Excluded at title/abstract,,Scopus
+M-0365,The conscious processing of emotion in depression disorder: a meta-analysis of neuroimaging studies,Excluded at title/abstract,,Scopus; WoS
+M-0366,Construction of a Knowledge Map of Speech Emotion Features Based on Impulse-Coupled Neural Networks,Excluded at title/abstract,,Scopus; WoS
+M-0367,"6th Congress on Intelligent Systems, CIS 2025",Excluded at title/abstract,,Scopus
+M-0368,Speech Emotion Recognition Using Magnitude and Phase Features,Excluded at title/abstract,,Scopus
+M-0369,Privacy against Real-Time Speech Emotion Detection via Acoustic Adversarial Evasion of Machine Learning,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0370,Machine Learning-Based Emotion Classification from Voice Signals Using MFCC Central Tendency Features,Excluded at title/abstract,,Scopus
+M-0371,Hearing Aids Reshape Neural Processing of Emotional Speech Without Improving Emotion Perception,Excluded at title/abstract,,Scopus; WoS
+M-0372,An Interpretable Hybrid Deep Learning Framework for Speech Emotion Recognition Using Self-Supervised Representations and Bidirectional Sequence Modelling.,Full text sought,Include,Scopus
+M-0373,Multimodal Emotion Recognition for Children with Autism Spectrum Disorder in Social Interaction,Excluded at title/abstract,,Scopus
+M-0374,Advancing Spanish Speech Emotion Recognition: A Comprehensive Benchmark of Pre-Trained Models,Excluded at title/abstract,,Scopus; WoS
+M-0375,The Role of Multi- Modal Sentiment Analysis in Optimizing Leadership Communication,Excluded at title/abstract,,Scopus
+M-0376,Exploring the acoustic-prosodic characteristics of emotional prosody in Mandarin disyllabic speech materials with machine-learning tools,Full text sought,Include,Scopus; WoS
+M-0377,ERMoV: Modeling Affective Mental States via Emotion Regulation for Dialogue Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0378,Evaluating significant features in context-aware multimodal emotion recognition with XAI methods,Full text sought,Include,Scopus
+M-0379,"1st International Conference on Intelligent Multilingual Information Processing, IMLIP 2024",Excluded at title/abstract,,Scopus
+M-0380,EmoRAct: A neuro-symbolic framework coupling acoustic tokens with prosody semantics for emotion recognition*,Excluded at title/abstract,,Scopus; WoS
+M-0381,Multimodal Emotion Recognition on RAVDESS Dataset Using Transfer Learning,Excluded at title/abstract,,Scopus; WoS
+M-0382,"Multimodal Sentiment and Emotion Detection Using Hybrid Fusion of Text, Audio, and Image with Explainable AI Integration",Full text sought,Exclude,Scopus; WoS
+M-0383,"Music censorship in Afghanistan (1996-2023): politics, theology and ethics; [La censura musicale in Afghanistan (1996-2023): politica, teologia, etica]",Excluded at title/abstract,,Scopus
+M-0384,Difference in Task Performance on Sparse Speech Representations,Excluded at title/abstract,,Scopus; WoS; ACL
+M-0385,Enhancing Zero-Shot Emotion Perception in Conversation Through the Internal-to-External Chain-of-Thought,Excluded at title/abstract,,Scopus
+M-0386,Adaptive multi-feature speech emotion recognition using improved whale optimization with Levy-flight exploration and elite opposition learning,Excluded at title/abstract,,Scopus; WoS
+M-0387,TOC-iQA: A time-ordered correlation-inspired quantum attention network for multimodal emotion recognition,Excluded at title/abstract,,Scopus
+M-0388,"19th National Conference on Man-Machine Speech Communication, NCMMSC 2024",Excluded at title/abstract,,Scopus
+M-0389,Atypical functional connectivity of temporal cortex with precuneus and visual regions may be an early-age signature of ASD,Excluded at title/abstract,,Scopus; WoS
+M-0390,Fusion Based AER System Using Deep Learning Approach for Amplitude and Frequency Analysis,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0392,"3rd CSIG Conference on Emotional Intelligence, CEI 2025",Excluded at title/abstract,,Scopus
+M-0393,Progressive Enhancement for Emotional Speech Captioning,Excluded at title/abstract,,Scopus
+M-0394,"26th Iberoamerican Congress on Pattern Recognition, CIARP 2023",Excluded at title/abstract,,Scopus
+M-0395,Robustness Analysis uncovers Language Proficiency Bias in Emotion Recognition Systems,Excluded at title/abstract,,Scopus
+M-0396,CUI 2025 - Proceedings of the 2025 ACM Conference on Conversational User Interfaces,Excluded at title/abstract,,Scopus
+M-0397,"28th International Conference on MultiMedia Modeling, MMM 2022",Excluded at title/abstract,,Scopus
+M-0398,A review of deep learning techniques for speech processing,Excluded at title/abstract,,Scopus
+M-0400,A Unified Approach for Multimodal Emotion Recognition Using Counterfactual Learning,Excluded at title/abstract,,Scopus
+M-0401,Spontaneous speech enables scalable digital phenotyping of physical functional deficits in aging,Excluded at title/abstract,,Scopus; WoS
+M-0402,Watch the Speakers: A Hybrid Continuous Attribution Network for Emotion Recognition in Conversation With Emotion Disentanglement,Excluded at title/abstract,,Scopus
+M-0403,"19th International Symposium on Visual Computing, ISVC 2024",Excluded at title/abstract,,Scopus
+M-0404,DMHG-LEDS: Joint Differentiated Modality-Aware Heterogeneous Graph and Local Emotion Difference Supervision for Multimodal Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0405,Acoustic feature analysis and optimization for Bangla speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0406,The effects of adult attachment style on acoustic characteristics of emotional speech; [成人依恋风格对情绪语音声学特征的作用],Excluded at title/abstract,,Scopus
+M-0407,CiABL: Completeness-Induced Adaptative Broad Learning for Cross-Subject Emotion Recognition With EEG and Eye Movement Signals,Excluded at title/abstract,,Scopus
+M-0408,Speech Emotion Recognition Using Deep Learning Transfer Models and Explainable Techniques,Full text sought,Include,Scopus; WoS
+M-0409,Increasing the effectiveness of digital learning,Excluded at title/abstract,,Scopus
+M-0410,Multi-Level Attention-Based Categorical Emotion Recognition Using Modulation-Filtered Cochleagram,Excluded at title/abstract,,Scopus; WoS
+M-0411,Adversarial Soft-Contrast Modulated Dynamic Graph Learning for Multimodal Emotion Recognition in Conversations; [对抗软对比调制动态图学习的多模态会话情绪识别方法],Excluded at title/abstract,,Scopus
+M-0412,Emotion Recognition Using Acoustic Features and Deep Learning: A Speaker-Independent Study,Excluded at title/abstract,,Scopus; WoS
+M-0413,Enhancing Car Safety with Multimodal Emotion Recognition Using CNN-LSTM Networks,Excluded at title/abstract,,Scopus
+M-0414,Speech Emotion Recognition using Machine Learning Algorithms,Excluded at title/abstract,,Scopus
+M-0415,Visual recognition technologies for complex scenarios analysis; [面向复杂场景的人物视觉理解技术],Excluded at title/abstract,,Scopus
+M-0416,Interpretive Caption: Real-Time Vocal Emotion Cues for DHH Users,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0417,"3rd International Conference on Big Data, IoT and Machine Learning, BIM 2025",Excluded at title/abstract,,Scopus
+M-0418,Emotional Dynamics in Semi-Clinical Settings: Speech Emotion Recognition in Depression-Related Interviews,Excluded at title/abstract,,Scopus
+M-0419,A neuro-symbolic reasoning for affective-aware personalization in virtual learning environments,Excluded at title/abstract,,Scopus; WoS
+M-0420,Occlusion-Robust Multimodal Emotion Recognition in VR via Fusion of Facial Images and EMG,Excluded at title/abstract,,Scopus
+M-0421,Semantics Outperforms Prosody in Emotional Speech Processing: Evidence from a Complex Stroop Experiment,Excluded at title/abstract,,Scopus
+M-0422,Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging,Excluded at title/abstract,,Scopus
+M-0424,SPEECH EMOTION RECOGNITION USING COMBINED TRIPLET AND SINGLE-HEADED ATTENTION-ENABLED INTEGRATED RECURRENT NETWORK,Excluded at title/abstract,,Scopus; WoS
+M-0425,DQ-Former: Querying Transformer with Dynamic Modality Priority for Cognitive-aligned Multimodal Emotion Recognition in Conversation,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0426,Voice Quality Dimensions as Interpretable Primitives for Speaking Style for Atypical Speech and Affect,Excluded at title/abstract,,Scopus; WoS
+M-0427,COIN: Conversational Interactive Networks for Emotion Recognition in Conversation,Excluded at title/abstract,,Scopus
+M-0428,Synergizing Senses: Advancing Multimodal Emotion Recognition in Human-Computer Interaction with MFF-CNN,Excluded at title/abstract,,Scopus
+M-0429,Towards Emotion-Aware Healthcare: A Comprehensive Review of Multimodal Emotion Recognition Technologies in Medical Practice,Excluded at title/abstract,,Scopus
+M-0430,Methods and Findings in the Analysis of Alignment of Bodily Motion in Cooperative Dyadic Dialogue,Excluded at title/abstract,,Scopus
+M-0431,"2nd International Conference on Data, Electronics, and Computing, ICDEC 2023",Excluded at title/abstract,,Scopus
+M-0432,Speech emotion recognition based on Graph-LSTM neural network,Excluded at title/abstract,,Scopus; WoS
+M-0433,Evaluation and optimization of English classroom teaching effect based on neural network,Excluded at title/abstract,,Scopus
+M-0434,Speech Emotion Recognition Model Based on Joint Modeling of Discrete and Dimensional Emotion Representation,Excluded at title/abstract,,Scopus; WoS
+M-0435,USURP: Universal Single-Source Adversarial Perturbations on Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0436,Text and Speech Emotion Recognition for HumanComputer Interaction,Excluded at title/abstract,,Scopus; WoS
+M-0437,Voice Biomarkers: Current Status and Issues in the Development,Excluded at title/abstract,,Scopus
+M-0438,Emotional speech recognition for tamil language using spatial feature fusion and SVM classifier,Excluded at title/abstract,,Scopus
+M-0439,EmotionTalk: An Interactive Chinese Multimodal Emotion Dataset With Rich Annotations,Excluded at title/abstract,,Scopus
+M-0440,AI-Driven Multimodal Evaluation of Communication Skills in Virtual Interviews,Excluded at title/abstract,,Scopus
+M-0441,"20th International Conference of the Italian Association for Artificial Intelligence, AIxIA 2021",Excluded at title/abstract,,Scopus
+M-0443,Interpretabilty of Speech Emotion Recognition modelled using Self-Supervised Speech and Text Pre-Trained Embeddings,Full text sought,Include,Scopus; WoS; ISCA
+M-0444,Unveiling hidden factors: explainable AI for feature boosting in speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0445,Human voice pitch measures are robust across a variety of speech recordings: methodological and theoretical implications,Excluded at title/abstract,,Scopus; WoS
+M-0446,A Review of Geometric Deep Learning Technique for Emotional Detection Systems in the Context of Assistive Learning,Excluded at title/abstract,,Scopus
+M-0447,Perceptual Evaluation of Blended Sonification of Mechanical Robot Sounds Produced by Emotionally Expressive Gestures: Augmenting Consequential Sounds to Improve Non-verbal Robot Communication,Excluded at title/abstract,,Scopus; WoS
+M-0448,InCvT: A Hybrid Inception–Convolutional Vision Transformer Architecture for Speech Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0449,MFASA: New Hierarchical Transformer Model with Dynamic Gating and Contrastive Alignment for Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0450,Decision Tree Classifier-Based Speech Emotion Recognition and Comparing with Librosa Output,Excluded at title/abstract,,Scopus
+M-0451,A deep learning framework for gender sensitive speech emotion recognition based on MFCC feature selection and SHAP analysis,Full text sought,Exclude,Scopus; WoS
+M-0452,Adaptive multi-task adversarial attacks on audio tasks,Excluded at title/abstract,,Scopus; WoS
+M-0453,Vector learning representation for generalized speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0454,"Signals of Communicative Intent Enhance the Impact of Emotional Messages from Human Speakers, While Effects for Robots are Attenuated",Excluded at title/abstract,,Scopus; WoS
+M-0455,UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause,Excluded at title/abstract,,Scopus
+M-0456,Attention to voices is increased in non-clinical auditory verbal hallucinations irrespective of salience,Excluded at title/abstract,,Scopus
+M-0457,Emotion recognition in conversations with emotion shift detection based on multi-task learning,Excluded at title/abstract,,Scopus
+M-0458,Nonverbal Auditory Communication for Human-Robot Interaction in Industry 5.0: A Scoping Review,Excluded at title/abstract,,Scopus; WoS
+M-0459,Multimodal Trait and Emotion Recognition via Agentic AI: An End-to-End Pipeline,Excluded at title/abstract,,Scopus; ACM
+M-0460,Can cognitive impairments explain cardiovascular emotional dampening associated with elevated blood pressure?,Excluded at title/abstract,,Scopus
+M-0461,A Cross-subject and Cross-modal Model for Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0462,A speech emotion recognition method with multi-level sinc filters and deformable adaptive attention,Excluded at title/abstract,,Scopus; WoS
+M-0463,"2nd International Conference on Computational Intelligence and Network Security, ICCINS 2025",Excluded at title/abstract,,Scopus
+M-0464,Interpretable multimodal emotion recognition using optimized transformer model with SHAP-based transparency,Full text sought,Exclude,Scopus; WoS
+M-0465,Contribution of Common Modulation Spectral Features to Vocal-Emotion Recognition of Noise-Vocoded Speech in Noisy Reverberant Environments,Excluded at title/abstract,,Scopus; WoS
+M-0466,Cross-modal Prompt Disentangled Graph Neural Networks for incomplete conversational emotion recognition☆,Excluded at title/abstract,,Scopus; WoS
+M-0467,MSFL: Explainable Multitask-Based Shared Feature Learning for Multilingual Speech Emotion Recognition,Full text sought,Include,Scopus; WoS
+M-0468,A Computerized Multimodal Battery for Emotion Recognition and Visual Attention Assessment in School-Aged Children,Excluded at title/abstract,,Scopus
+M-0469,Explaining cultural emotion in Chinese pop music with multimodal AI: educational and socio-emotional implications,Excluded at title/abstract,,Scopus; WoS
+M-0470,Impaired Recognition of Facial and Vocal Emotions in Mild Cognitive Impairment,Excluded at title/abstract,,Scopus
+M-0471,Pioneering multimodal emotion recognition in the era of large models: Towards open vocabularies,Excluded at title/abstract,,Scopus
+M-0472,"Talk to Me, Like Me: Modular Personalization of Emotional AI via Behavioral Metadata, Fine-Tuning, RAG, Prompts, and Agentic Reasoning",Excluded at title/abstract,,Scopus; ACM
+M-0473,Applications and Challenges of Speech Emotion Recognition in Geriatric Healthcare: A Scoping Review,Excluded at title/abstract,,Scopus; WoS
+M-0474,Applying software-defined ambient intelligence techniques for cognitive and emotional awareness in the Internet of Things,Excluded at title/abstract,,Scopus
+M-0475,Effects of mild-to-moderate sensorineural hearing loss and signal amplification on vocal emotion recognition in middle-aged-older individuals,Excluded at title/abstract,,Scopus; WoS
+M-0476,Trait-Tracer: An AI-Powered Smart Recruiting System,Excluded at title/abstract,,Scopus; WoS
+M-0477,"A Decade of Music Emotion Computing: A Bibliometric Analysis of Trends, Interdisciplinary Collaboration, and Applications",Excluded at title/abstract,,Scopus
+M-0478,PiCo-VITS: Leveraging Pitch Contours for Fine-Grained Emotional Speech Synthesis,Excluded at title/abstract,,Scopus; WoS
+M-0479,Emotionally engaged speech reveals acoustic markers of depression and suicide risk,Excluded at title/abstract,,Scopus; WoS
+M-0480,"The Role of Early Intact Auditory Experience on the Perception of Spoken Emotions, Comparing Prelingual to Postlingual Cochlear Implant Users",Excluded at title/abstract,,Scopus; WoS
+M-0481,A privacy-preserving multimodal emotion recognition framework based on differential privacy and zero-knowledge proof,Excluded at title/abstract,,Scopus
+M-0482,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla,Excluded at title/abstract,,Scopus; WoS
+M-0483,Interpretable multimodal emotion recognition using hybrid fusion of speech and image data,Excluded at title/abstract,,Scopus; WoS
+M-0484,Evaluation of delexicalization methods for research on emotional speech,Excluded at title/abstract,,Scopus; WoS; ISCA
+M-0485,Explainable Multimodal Hybrid Vision Transformers for Emotional Speech Recognition,Full text sought,Include,Scopus; WoS
+M-0486,Central bankers’ political discourse as a driver of clean energy markets,Excluded at title/abstract,,Scopus
+M-0487,CAMER: Contribution-Aware Multimodal Emotion Recognition,Full text sought,Exclude,Scopus; WoS; ISCA
+M-0488,Federated Meta-Learning and Explainable AI for Hybrid Multimodal Emotion Recognition,Full text sought,Exclude,Scopus
+M-0490,Multi-Modal Emotion Detection System: Fusion of Facial Voice and Physiological Data for Improved Emotion Understanding,Excluded at title/abstract,,Scopus
+M-0491,Cross-Modal Contrastive Learning with Attention for Enhanced Facial Feature Extraction in Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0492,Benchmarking Adversarial Robustness in Speech Emotion Recognition: Insights into Low-Resource Romanian and German Languages,Full text sought,Include,Scopus; WoS
+M-0493,A systematic survey on multimodal emotion recognition using learning algorithms,Excluded at title/abstract,,Scopus
+M-0494,Processing of Spoken Emotions in Schizophrenia: Forensic and Non-forensic Patients Differ in Emotional Identification and Integration but Not in Selective Attention,Excluded at title/abstract,,Scopus
+M-0495,Impact of Feature Extraction and Feature Selection Algorithms on Punjabi Speech Emotion Recognition Using Convolutional Neural Network,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0496,Weighted Confidence Scoring for Context-Aware Emotion Recognition using Fine-Tuned DeBERTa,Excluded at title/abstract,,Scopus
+M-0497,"Proceedings of the 5th ACM International Conference on Multimedia in Asia, MMAsia 2023 Workshops",Excluded at title/abstract,,Scopus
+M-0498,Weighted RSA: An Improved Framework on the Perception of Audio-visual Affective Speech in Left Insula and Superior Temporal Gyrus,Excluded at title/abstract,,Scopus; WoS
+M-0499,Emotion Recognition from Spontaneous Tunisian Dialect Speech,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0500,HEDRNet: A Hybrid Diffusion-Transformer Network Enhanced with Latent Adaptive Noise Scheduling and Prosodic Guided Attention for Gender Aware Emotion Recognition in Short Speech,Excluded at title/abstract,,Scopus; WoS
+M-0501,Explainable Speech Emotion Recognition Through Attentive Pooling: Insights from Attention-Based Temporal Localization,Full text sought,Include,Scopus; WoS; ISCA
+M-0502,An Emotion Recognition Method in Conversations Based on Knowledge Selection and Fuzzy Fingerprints,Excluded at title/abstract,,Scopus
+M-0503,Adaptive Modality Weighting For Multimodal Emotion Recognition In Token-disentangling Mutual Transformer,Excluded at title/abstract,,Scopus
+M-0504,Sensory contribution to vocal emotion deficit in patients with cerebellar stroke,Excluded at title/abstract,,Scopus; WoS
+M-0505,Cluster-Level Contrastive Learning for Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0506,EMERSK -Explainable Multimodal Emotion Recognition With Situational Knowledge,Excluded at title/abstract,,Scopus
+M-0507,MA-CapsNet-DA: Speech emotion recognition based on MA-CapsNet using data augmentation,Excluded at title/abstract,,Scopus; WoS
+M-0508,Privacy-Preserving Federated Learning for Emotion Recognition: An Improved Framework with Differential Privacy,Excluded at title/abstract,,Scopus
+M-0509,Affective-CoT: Decomposing Multimodal Emotion Reasoning through a Hierarchical Cognitive Workflow,Excluded at title/abstract,,Scopus; ACM
+M-0510,Analysis and Research on Spectrogram-Based Emotional Speech Signal Augmentation Algorithm,Excluded at title/abstract,,Scopus; WoS
+M-0511,Paving the way for emotional expression in Punjabi: Speech Emotion Recognition using hybrid deep neural network model,Excluded at title/abstract,,Scopus
+M-0512,Artificial Emotional Intelligence: Conventional and deep learning approach,Excluded at title/abstract,,Scopus; WoS
+M-0513,A systematic evaluation of acoustic representation and feature fusion strategies for Arabic speech emotion recognition,Full text sought,Include,Scopus
+M-0514,DSNet: Disentangled Siamese Network with Neutral Calibration for Speech Emotion Recognition; [DSNet:用于语音情感识别的带有中性校准的解耦孪生网络],Excluded at title/abstract,,Scopus
+M-0515,Multimodal Analysis of Family Interactions and Children's Psychology,Excluded at title/abstract,,Scopus
+M-0516,FeelWave: Enabling Emotion-Aware Voice Interaction through Noise-Robust mmWave Emotion Sensing,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0517,"No Pain, No Gain-Giving Real-Time Emotional Feedback in a Virtual Mirror Improves Collaboration in Virtual Teamwork",Excluded at title/abstract,,Scopus; WoS
+M-0518,MultiModal Emotion Detection,Excluded at title/abstract,,Scopus
+M-0519,Acted vs Crowd-Sourced Emotion in Russian Speech: Acoustic Features and 49-Layer Neural Probing on Dusha and RESD; [Актёрская и краудсорсинговая эмоция в русской речи: акустические признаки и 49-слойный нейросетевой анализ на корпусах Dusha и RESD],Excluded at title/abstract,,Scopus
+M-0520,Robust Incremental Fuzzy Concept-cognitive Emotion Recognition Method Based on Three-way Decision; [基于三支决策的鲁棒增量模糊概念认知情感识别方法],Excluded at title/abstract,,Scopus
+M-0521,On the optimal number estimation of selected features using joint histogram based mutual information for speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0522,Missing data imputation and classification of small sample missing time series data based on gradient penalized adversarial multi-task learning,Excluded at title/abstract,,Scopus; WoS
+M-0523,"3rd International Conference on Applied Intelligence and Informatics, AII 2023",Excluded at title/abstract,,Scopus
+M-0524,Spectral Bandwidth Effects on Emotion Classification and Representation in Spoken and Sung Signals,Excluded at title/abstract,,Scopus; WoS
+M-0525,Transformer encoder and data augmentation for real-time speech emotion recognition,Excluded at title/abstract,,Scopus
+M-0526,"5th International Conference on Image, Vision and Intelligent Systems, ICIVIS 2025",Excluded at title/abstract,,Scopus
+M-0527,DialogueMMT: Dialogue Scenes Understanding Enhanced Multi-modal Multi-task Tuning for Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0528,Survey of subspace learning via low-rank sparse representation; [基于低秩稀疏表示的子空间学习研究综述],Excluded at title/abstract,,Scopus
+M-0529,Causal Inference for Modality Debiasing in Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0530,A survey of representation learning for multi-modal emotion recognition,Excluded at title/abstract,,Scopus
+M-0531,"3rd International Conference on Artificial Intelligence: Theory and Applications, AITA 2025",Excluded at title/abstract,,Scopus
+M-0532,Audio-visual expression-based emotion recognition model for neglected people in real-time: a late-fusion approach,Excluded at title/abstract,,Scopus
+M-0533,Intelligent Explainable Dual Path Feature Extraction and Pyramid Squeeze Attention Convolution Network for Speech Emotion Recognition,Full text sought,Include,Scopus; WoS
+M-0534,Cross-Linguistic Speech Emotion Detection Using Convolutional Neural Networks,Excluded at title/abstract,,Scopus; WoS
+M-0535,"2nd International Conference on Data Mining and Information Security, ICDMIS 2025",Excluded at title/abstract,,Scopus
+M-0536,Efficient Speech to Emotion Recognition Using Convolutional Neural Network,Excluded at title/abstract,,Scopus
+M-0537,DeepAgeEmotionNet: A Multi-Task Deep Learning Framework for Speech-Based Age and Emotional State Assessment,Excluded at title/abstract,,Scopus
+M-0538,Improved emotion differentiation under reduced acoustic variability of speech in autism,Excluded at title/abstract,,Scopus
+M-0539,"Detecting Emotions for Preventing Aggression, Bullying, and Femicide: A Description Logic based Approach",Excluded at title/abstract,,Scopus; WoS
+M-0540,FedSER-XAI: PSO-optimized multi-stream cross-attention transformer with graph features for explainable federated speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0541,"9th International Conference on Intelligent Computing and Communication, ICICC 2026",Excluded at title/abstract,,Scopus
+M-0542,Advancements and challenges in speech emotion recognition: A comprehensive review,Excluded at title/abstract,,Scopus
+M-0543,MODELING SPEECH EMOTION WITH LABEL VARIANCE AND ANALYZING PERFORMANCE ACROSS SPEAKERS AND UNSEEN ACOUSTIC CONDITIONS,Excluded at title/abstract,,Scopus; WoS
+M-0544,Acoustic predictors of metacognitive monitoring in vocal emotion recognition,Excluded at title/abstract,,Scopus
+M-0545,Joint acoustic-semantic alignment network for advanced speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0546,Mixture of emotions: Global-to-local emotion representation extraction for emotion recognition in conversation,Excluded at title/abstract,,Scopus
+M-0547,PDCC-MER: Progressive denoising and calibrated consensus learning for multimodal emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0548,Investigating Effective Speaker Property Privacy Protection in Federated Learning for Speech Emotion Recognition,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0549,"Automatic speech emotion recognition based on hybrid features with ANN, LDA and K_NN classifiers",Excluded at title/abstract,,Scopus; WoS
+M-0550,Cross-Modal Emotion Discrepancy Detection: Detecting When Voice Reveals Emotions That Text Conceals,Excluded at title/abstract,,Scopus; ACM
+M-0551,A Dual Contrastive Learning Framework for Enhanced Multimodal Conversational Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0552,Robust Relatable Explanations of Machine Learning with Disentangled Cue-specific Saliency,Full text sought,Include,Scopus; WoS; ACM
+M-0553,Enhanced Recognition of Vocal Emotions in Individuals With Naturally Good Musical Abilities,Excluded at title/abstract,,Scopus; WoS
+M-0554,Multimodal Cross-Attention Bayesian Network for Social News Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0555,A deformable convolution and attention-driven multiscale transformer framework for robust and explainable speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0556,Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations,Excluded at title/abstract,,Scopus
+M-0557,Deep emotion recognition in textual conversations: a survey,Excluded at title/abstract,,Scopus
+M-0558,"11th IAPR TC3 workshop on Artificial Neural Networks in Pattern Recognition, ANNPR 2024",Excluded at title/abstract,,Scopus
+M-0560,Development of multimodal sentiment recognition and understanding; [多模态情感识别与理解发展现状及趋势],Excluded at title/abstract,,Scopus
+M-0561,ESED: Emotion-Specific Evidence Decomposition for Uncertainty-Aware Multimodal Emotion Recognition in Conversation,Excluded at title/abstract,,Scopus
+M-0562,"A Perspective Study on Speech Emotion Recognition: Databases, Features and Classification Models",Excluded at title/abstract,,Scopus; WoS
+M-0563,Interpretable MultiModal AI for Mental Health Detection via Facial and Vocal Emotions,Excluded at title/abstract,,Scopus
+M-0564,Individual variation in suprasegmental perception: insights from adults with typical hearing and cochlear implants,Excluded at title/abstract,,Scopus; WoS
+M-0565,Voice Emotion Detection: Acoustic Features Extraction Using Multi-layer Perceptron Classifier Algorithm,Excluded at title/abstract,,Scopus; WoS
+M-0566,Towards the explainability of Multimodal Speech Emotion Recognition,Full text sought,Exclude,Scopus; WoS
+M-0567,FedEmoNet: Privacy-preserving federated learning with TCN-Transformer fusion for cross-corpus speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0568,"6th International Conference on Data Science and Applications, ICDSA 2025",Excluded at title/abstract,,Scopus
+M-0569,Exploring Foundation Model Fusion Effectiveness and Explainability for Stylistic Analysis of Emotional Podcast Data,Full text sought,Include,Scopus
+M-0570,Advances in speech emotion recognition using a CNN and gender-based segmentation framework with feature selection techniques,Excluded at title/abstract,,Scopus; WoS
+M-0571,A deep interpretable representation learning method for speech emotion recognition,Full text sought,Include,Scopus; WoS
+M-0572,Multimodal emotion recognition in the wild: Corruption modeling and relevance-guided scoring,Excluded at title/abstract,,Scopus
+M-0573,"Multimodal Emotion Analysis Based on Visual, Acoustic and Linguistic Features",Excluded at title/abstract,,Scopus; WoS
+M-0574,A frequency analysis of filterbank initialisation and noise augmentation for LEAF,Excluded at title/abstract,,Scopus; WoS
+M-0575,Wav2TP: A novel speech emotion recognition model using temporal pooling over transformer-based Wav2Vec2 embeddings,Excluded at title/abstract,,Scopus; WoS
+M-0576,"4th International Conference on Soft Computing and its Engineering Applications, icSoftComp 2022",Excluded at title/abstract,,Scopus
+M-0577,"33rd Irish Conference on Artificial Intelligence and Cognitive Science, AICS 2025",Excluded at title/abstract,,Scopus
+M-0578,A Hybrid Approach of Long Short Term Memory and Transformer Models for Speech Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0579,"Proceedings of The 2nd International Conference on Digital Society, Information Science and Risk Management, ICDIR 2026",Excluded at title/abstract,,Scopus
+M-0580,A Robust Hybrid Deep Learning Model for Multiclass Depression Classification from Speech Audio,Excluded at title/abstract,,Scopus
+M-0581,Coupling of emotional prosody recognition and expression and their associations with psychiatric symptoms in schizophrenia,Excluded at title/abstract,,Scopus; WoS
+M-0582,Towards Relatable Explainable AI with the Perceptual Process,Full text sought,Include,Scopus; WoS; ACM
+M-0583,Multimodal Emotion Recognition and Contextual Analysis in Therapy Sessions Using Video Large Language Models,Excluded at title/abstract,,Scopus; WoS
+M-0584,GRPO-Guided Modality Selection Enhanced LoRA-Tuned LLMs for Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0585,"2021 IEEE Spoken Language Technology Workshop, SLT 2021 - Proceedings",Excluded at title/abstract,,Scopus
+M-0586,Learning More with Less: Self-Supervised Approaches for Low-Resource Speech Emotion Recognition,Excluded at title/abstract,,Scopus; WoS; ISCA
+M-0587,Validity and Reliability of the Turkish Version of the Emotional Communication in Hearing Questionnaire,Excluded at title/abstract,,Scopus; WoS
+M-0588,Multimodal Translation System: An Innovative AI-Powered Solution for Film Localization,Excluded at title/abstract,,Scopus; ACM
+M-0589,MTLSER: Multi-task learning enhanced speech emotion recognition with pre-trained acoustic model,Excluded at title/abstract,,Scopus; WoS
+M-0590,Discovering emotion and reasoning its flip in multi-party conversations using masked memory network and transformer,Excluded at title/abstract,,Scopus
+M-0591,CMEF-Net: A Hierarchical Cross-Modality Fusion Framework for Deep Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0592,Explainability guided feature selection for speech emotion recognition using SHAP and permutation importance,Full text sought,Include,Scopus; WoS
+M-0593,Speech Emotion Detection Using Deep Learning,Excluded at title/abstract,,Scopus
+M-0595,An Attention-Guided Framework for Feature-Level and Decision-Level Fusion in Multimodal Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0596,Interpreting Convolutional Layers in DNN Model Based on Time-Frequency Representation of Emotional Speech,Full text sought,Include,Scopus; WoS
+M-0597,Unveiling the Learning Curve: Enhancing Transparency in Robot's Learning with Inner Speech and Emotions,Excluded at title/abstract,,Scopus
+M-0598,Hybrid CNN-embedding fusion with MFCC-SVM for speech emotion recognition: Random vs actor-wise evaluation on CREMA-D,Excluded at title/abstract,,Scopus
+M-0599,"A Comprehensive Review of Multimodal Emotion Recognition: Techniques, Challenges, and Future Directions",Excluded at title/abstract,,Scopus; WoS
+M-0600,Re-Examining emotion2vec’s Cross-Lingual Advantage: A Confound-Controlled Comparison of Self-Supervised Speech Models,Excluded at title/abstract,,Scopus
+M-0601,MATER: Multi-level Acoustic and Textual Emotion Representation for Interpretable Speech Emotion Recognition,Excluded at title/abstract,,Scopus; WoS
+M-0602,A Smart System for Assessment of Mental Health Using Explainable AI Approach,Excluded at title/abstract,,Scopus
+M-0603,An Efficient Fuzzy Neural Network for Arabic Speech Emotion Recognition,Excluded at title/abstract,,Scopus
+M-0604,Modulation spectral features for speech emotion recognition using deep neural networks,Full text sought,Include,Scopus; WoS
+M-0605,"10th International Conference on Information and Communication Technology for Competitive Strategies, ICTCS 2025",Excluded at title/abstract,,Scopus
+M-0606,"2025 5th International Conference on Computational Modeling, Simulation and Data Analysis, CMSDA 2025",Excluded at title/abstract,,Scopus
+M-0607,Exploring corpus-invariant emotional acoustic feature for cross-corpus speech emotion recognition,Excluded at title/abstract,,Scopus; WoS
+M-0608,The effect of voice emotion response on brand recall by gender,Excluded at title/abstract,,Scopus
+M-0609,"A review of multimodal emotion recognition from datasets, preprocessing, and fusion methods",Excluded at title/abstract,,Scopus; WoS
+M-0610,"Retraction notice to “Deep-CNN based knowledge learning with Beluga Whale optimization using chaogram transformation using intelligent sensors for speech emotion recognition”(Measurement: Sensors, (2024), 32, C, (101030), (S2665917424000060), 10.1016/j.measen.2024.101030)",Excluded at title/abstract,,Scopus
+M-0611,Interpretable Feature Selection for Speech Emotion Recognition in New Zealand English with Grid Search Optimization for Effective Hyperparameter Tuning,Full text sought,Include,Scopus
+M-0612,Explainable Artificial Intelligence Techniques for Speech Emotion Recognition: A Focus on XAI Models,Full text sought,Include,Scopus; WoS
+M-0613,"Deep Learning for Emotion Recognition – CNNs, RNNs, Transformers, and Self-Supervised Learning Techniques",Excluded at title/abstract,,Scopus
+M-0614,Speech emotion recognition with light weight deep neural ensemble model using hand crafted features,Full text sought,Include,Scopus; WoS
+M-0615,Vocal emotion perception in Mandarin-speaking older adults with hearing loss,Excluded at title/abstract,,Scopus; WoS
+M-0616,Non-verbal Signals in Oral History Archives,Excluded at title/abstract,,Scopus; WoS; ACM
+M-0617,A multiturn complementary generative framework for conversational emotion recognition,Excluded at title/abstract,,Scopus
+M-0619,Biometric Emotion Profiling Framework for Safe Audio Deep Fake Detection in Voice Authentication Systems,Excluded at title/abstract,,Scopus
+M-0620,Disentangling Cross-Modal Interactions for Enhanced Multimodal Emotion Recognition in Conversation,Excluded at title/abstract,,Scopus; ACM
+M-0621,ST-AlignNet: Semantic alignment with temporal saliency filtering for emotion recognition,Excluded at title/abstract,,Scopus
+M-0622,Enhancing Emotion Recognition in Conversation via Multi-view Feature Alignment and Memorization,Excluded at title/abstract,,Scopus
+M-0735,Sparse Implicit Connectivity Graphs with Scheduled Emotion History Sampling for Multimodal Emotion Recognition in Conversation,Excluded at title/abstract,,ACM
+M-0736,Adaptive Structural High-Order Representation Learning for Cross-Corpus Speech Emotion Recognition,Excluded at title/abstract,,ACM
+M-0737,DIEU: A Dynamic Interaction Emotion Unit for Emotion Recognition in Conversation,Excluded at title/abstract,,ACM
+M-0739,On Multimodal Emotion Recognition for Human-Chatbot Interaction in the Wild,Excluded at title/abstract,,ACM
+M-0740,DARE to Disagree: A Multi-Agent Adversarial Debate Framework for Open-Vocabulary Multimodal Emotion Recognition,Excluded at title/abstract,,ACM
+M-0741,EmoType-Zero: Adaptive Fonts to Render the Speech Emotion,Excluded at title/abstract,,WoS; ACM
+M-0743,Sequential Modeling by Leveraging Non-Uniform Distribution of Speech Emotion,Excluded at title/abstract,,ACM
+M-0744,EmoSync: Multi-Stage Reasoning with Multimodal Large Language Models for Fine-Grained Emotion Recognition,Full text sought,Exclude,WoS; ACM
+M-0745,CERA: Conflict-Explicit Reflective Agent for Multimodal Emotion Reasoning,Full text sought,,ACM
+M-0746,VAEmo: Efficient Representation Learning for Visual-Audio Emotion With Knowledge Injection,Excluded at title/abstract,,ACM
+M-0748,Disentangling Prosody Representations With Unsupervised Speech Reconstruction,Excluded at title/abstract,,ACM
+M-0749,CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing,Excluded at title/abstract,,ACM
+M-0750,FLOW: An Immersive Installation Exploring the Co-production of Emotion and Technology,Excluded at title/abstract,,WoS; ACM
+M-0751,Beyond Known Speakers: Enhancing Spoofing Detection Generalization with VIVED,Excluded at title/abstract,,ACM
+M-0753,BERT-based Context-Aware Emotion Recognition Model for Improving Mental Health Assessment,Excluded at title/abstract,,ACM
+M-0754,A Multimodal Dynamical Variational Autoencoder for Audiovisual Speech Representation Learning,Excluded at title/abstract,,ACM
+M-0756,Explainable deep learning framework for multimodal emotion recognition using physiological signals,Excluded at title/abstract,,WoS
+M-0759,"Effect of Data Augmentation, Cross-Validation Methods in Robustness of Explainable Speech Based Emotion Recognition",Full text sought,Include,WoS
+M-0760,The Emotion Probe: On the Universality of Cross-Linguistic and Cross-Gender Speech Emotion Recognition via Machine Learning,Excluded at title/abstract,,WoS
+M-0762,AI-Based Analysis of Student Frustration: Speech and Facial Expression Recognition,Excluded at title/abstract,,WoS
+M-0769,Affective Brain-Computer Interfaces (aBCIs): A Tutorial,Excluded at title/abstract,,WoS
+M-0771,Influence of hearing aid processing on acoustic features associated with emotional speech: Acoustic analyses and perception by listeners with normal hearing,Excluded at title/abstract,,WoS
+M-0773,Music Training and Nonmusical Abilities,Excluded at title/abstract,,WoS
+M-0776,Laughter as a paradigm of socio-emotional signal processing in dementia,Excluded at title/abstract,,WoS
+M-0779,Enhancing Patient-Centric Healthcare Communication Through Multimodal Emotion Recognition: A Transformer-Based Framework for Clinical Decision Support,Excluded at title/abstract,,ACL
+M-0780,MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus,Excluded at title/abstract,,ACL
+M-0781,Cutting Through Overload: Efficient Token Dropping for Speech Emotion Recognition in Multimodal Large Language Models,Excluded at title/abstract,,ACL
+M-0782,Beyond Classification: Towards Speech Emotion Reasoning with Multitask AudioLLMs,Full text sought,Include,ACL
+M-0783,EMO-RL: Emotion-Rule-Based Reinforcement Learning Enhanced Audio-Language Model for Generalized Speech Emotion Recognition,Full text sought,Include,ACL
+M-0784,AlignCap: Aligning Speech Emotion Captioning to Human Preferences,Excluded at title/abstract,,ACL
+M-0785,EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control,Excluded at title/abstract,,ACL
+M-0786,PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue,Excluded at title/abstract,,ISCA
+M-0787,Disentangling Reasoning in Large Audio-Language Models for Ambiguous Emotion Prediction,Excluded at title/abstract,,ISCA
+M-0788,AcoustEmo: An Utterance-Aware Acoustic Q-Former for Open-Vocabulary Emotion Reasoning,Excluded at title/abstract,,ISCA
+M-0789,Comparative Reasoning: Making an Audio Language Model Better at Comparing Emotions,Excluded at title/abstract,,ISCA
+M-0795,Explainable and Trustworthy Speech Emotion Recognition Using Confidence Score and Reinforcement Learning Rectified Speech Emotion Descriptors,Excluded at title/abstract,,ISCA
+M-0796,Multimodal Emotion Recognition on Mobile Devices Using Hybrid MobileNetV2-ViT and Contextual Sentiment Analysis,Excluded at title/abstract,,Scopus
+M-0807,Affective Human-Robot Interaction with Multimodal Explanations,Full text sought,,OpenAlex citation searching
+M-0809,Multimodal Emotion Recognition with Explainable AI for Cognitive Human-Computer Interaction in Smart Environments,Full text sought,,OpenAlex citation searching
+M-0810,Enhancing Emotion Detection Accuracy and Transparency Through Multimodal Fusion and Explainable AI,Full text sought,,OpenAlex citation searching
+M-0811,Explainable cross-domain emotion recognition using non-linear optimization and multimodal feature fusion based deep learning model,Full text sought,,OpenAlex citation searching
+M-0808,TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition,Full text sought,,OpenAlex citation searching
+M-0806,Multimodal Emotional Analysis using XAI for Psychotherapy,Full text sought,Exclude,OpenAlex citation searching
+M-0801,Zero-shot cross-lingual speech emotion recognition: a study of loss functions and feature importance,Full text sought,Include,OpenAlex citation searching
+M-0802,Analysis of Deep Learning-Based Decision-Making in an Emotional Spontaneous Speech Task,Full text sought,Include,OpenAlex citation searching
+M-0803,Bridging Text and Speech for Emotion Understanding: An Explainable Multimodal Transformer Fusion Framework with Unified Audio–Text Attribution,Full text sought,Include,OpenAlex citation searching
+M-0804,Assessing random forest performance in low resource speech emotion recognition,Full text sought,Include,OpenAlex citation searching
+M-0805,Interpretable Speech Emotion Recognition: A Comparative Study of BiLSTM Temporal Attention and Transformer-Based Multi-Head Self-Attention,Full text sought,Include,OpenAlex citation searching
+OA-W4392904295,Prompting Audios Using Acoustic Properties for Emotion Representation,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7138860807,Advanced feature selection and temporal attention mechanisms with Bi-LSTM classifier for optimizing emotion recognition in Kashmiri speech,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7225179295,Modelling the Flow of Emotion: A Hierarchical Attention Network for Vocal Trajectory Classification,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7212249715,ASER: Attribute-Serialized Emotion Recognition With Generative Multi-Task Learning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415795657,Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400910594,Exploring the Effectiveness of Advanced Machine Learning Models in Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7169838137,Efficacy of Multi-Domain Acoustic Features in Speech Emotion Recognition: A Comparative Analysis of Machine Learning and Deep Learning Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7225183820,Gender and Intensity Bias in Speech Emotion Recognition: A Cross-Subject Analysis on Augmented Data,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393147046,SECap: Speech Emotion Captioning with Large Language Model,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400526797,Unlocking the Black Box: Concept-Based Modeling for Interpretable Affective Computing Applications,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4307190436,Kids' Emotion Recognition Using Various Deep-Learning Models with Explainable AI,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404369810,An explainable fast deep neural network for emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3161384586,Interpretable Emotion Classification Using Temporal Convolutional Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7133201092,Real-Time Classroom Emotion Detection Using Explainable AI (XAI) for Adaptive Learning Feedback,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396908448,Explainable Artificial Intelligence (XAI) for Emotion Detection,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409919294,Emotional Features in Speech: A Deep Scattering-Based Analysis,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7211915284,Speech-Based Sentiment Recognition: A Real-Time Machine Learning Approach Using Tonal and Prosodic Cues,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408934273,A comprehensive approach to enhance emotion recognition through advanced feature extraction and Attention,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7154184837,Raw Waveform Modeling for Speech Emotion Recognition Across Diverse Datasets,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7166119071,A Multimodal Fusion Framework for Speech Emotion Recognition in Human-AI Interaction,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3148933250,A machine learning perspective on the emotional content of Parkinsonian speech,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400529108,Optimizing Speech Emotion Recognition with Machine Learning Based Advanced Audio Cue Analysis,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416911958,Integrating Automatic Speech Recognition and Emotion Detection: A Conformer-XGBoost Framework for Human-Centered Speech Systems,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416744780,BAH: Beyond Acoustic Handcrafted features for speech emotion recognition in Portuguese,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400492952,Feature-Enhanced Multi-Task Learning for Speech Emotion Recognition Using Decision Trees and LSTM,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3023281269,Deep Auto-Encoders With Sequential Learning for Multimodal Dimensional Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3092788858,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3101317406,On the Use of Self-Supervised Pre-Trained Acoustic and Linguistic Features for Continuous Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3108792608,Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3118765838,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3120709499,Cross corpus multi-lingual speech emotion recognition using ensemble learning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3121647842,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3124875196,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3126625480,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3127572380,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3128401974,Real-Time Speech Emotion Analysis for Smart Home Assistants,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3129001924,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3129285739,Speech emotion recognition based on formant characteristics feature extraction and phoneme type convergence,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3130875629,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3131806423,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3132219808,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3132230678,Technology-Assisted Emotion Recognition for Autism Spectrum Disorder (ASD) Children: A Systematic Literature Review,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3132302778,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3133066644,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3133793003,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3134063422,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3134460746,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3136524425,Head Fusion: Improving the Accuracy and Robustness of Speech Emotion Recognition on the IEMOCAP and RAVDESS Dataset,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3137284029,Multimodal and Context-Aware Emotion Perception Model With Multiplicative Fusion,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3137890092,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3139283096,What makes a smile? A Deep Neural Network Point of View,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3139847237,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3142456083,Correspondence Learning for Deep Multi-Modal Recognition and Fraud Detection,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3143173712,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3144073776,Emotion Recognition from Speech Using wav2vec 2.0 Embeddings,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3145643603,Improved speech emotion recognition with Mel frequency magnitude coefficient,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3147565828,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3154935508,When Old Meets New: Emotion Recognition from Speech Signals,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3156130504,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3158138534,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3158293574,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3158929093,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3159301005,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3160016036,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3160039712,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3160183718,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3160222702,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3160505857,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3161492850,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3161659450,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3162343586,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3162387328,Compact Graph Architecture for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3163091219,Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3163573274,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3164046946,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3165067022,MMTrans-MT: A Framework for Multimodal Emotion Recognition Using Multitask Learning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3171032899,Speech Emotion Recognition Using Machine Learning Techniques,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3173127765,Speech Emotion Recognition Using ANN on MFCC Features,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3173311612,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3174134652,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3174977508,Multimodal Emotion Recognition Fusion Analysis Adapting BERT With Heterogeneous Feature Unification,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3176399185,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3183294261,Interpretable SincNet-based Deep Learning for Emotion Recognition from EEG brain activity,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3183580551,Bi-Bimodal Modality Fusion for Correlation-Controlled Multimodal Sentiment Analysis,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3186192207,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3187709298,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3194346343,Feature Extraction Network with Attention Mechanism for Data Enhancement and Recombination Fusion for Multimodal Sentiment Analysis,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3194531986,An overlapping sliding window and combined features based emotion recognition system for EEG signals,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3194765442,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3195074470,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3196443845,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3197013730,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3197599801,Audio-Visual Speech Emotion Recognition by Disentangling Emotion and Identity Attributes,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3198528147,Speech Emotion Recognition with Multi-Task Learning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3198562695,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3199294604,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3199964822,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3200866700,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3201040525,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3203003247,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3203115521,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3204087964,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3205428167,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3208332648,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3208501439,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3209072429,End-to-End Speech Emotion Recognition: Challenges of Real-Life Emergency Call Centers Data Recordings,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3209572141,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3210961004,Prosodic alignment toward emotionally expressive speech: Comparing human and Alexa model talkers,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3211062931,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3211756514,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3215155711,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3215165842,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3215746418,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3216440558,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W3217501503,Multimodal Sentiment Analysis Using Multi-tensor Fusion Network with Cross-modal Modeling,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4200502037,Learning affective representations based on magnitude and dynamic relative phase information for speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4200528506,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4200602804,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4205131079,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4206246784,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4206326349,SMIN: Semi-Supervised Multi-Modal Interaction Network for Conversational Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4206957338,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4210273409,End-to-End Modeling and Transfer Learning for Audiovisual Emotion Recognition in-the-Wild,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4210412034,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4210621764,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4213424653,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4214541065,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4214825215,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4220754084,Convolutional neural network-based cross-corpus speech emotion recognition with data augmentation and features fusion,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4220894258,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221046698,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221089191,Survey on bimodal speech emotion recognition from acoustic and linguistic information fusion,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221121088,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221139382,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221161839,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4221162872,Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4224227751,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4224234075,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4224917001,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4224918181,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4224920209,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4225096144,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4225463334,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4225635674,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4225694800,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4225989372,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4226031303,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4226043702,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4226239215,Hybrid Curriculum Learning for Emotion Recognition in Conversation,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4226507209,Context-Aware Multimodal Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4233356904,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4281388068,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4281710448,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4283366946,A feature selection model for speech emotion recognition using clustering-based population generation with hybrid of equilibrium optimizer and atom search optimization algorithm,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4283698005,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4283711157,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4283755225,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4283828626,A Graph Isomorphism Network with Weighted Multiple Aggregators for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4284899427,Machine learning techniques for speech emotion recognition using paralinguistic acoustic features,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4285144065,Robust Speech Emotion Recognition Using CNN+LSTM Based on Stochastic Fractal Search Optimization Algorithm,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4285235436,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4285250231,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4285319295,Emotion Recognition using Speech Data with Convolutional Neural Network,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4285808663,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4289169652,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4289516314,MFF-SAug: Multi feature fusion with spectrogram augmentation of speech emotion recognition using convolution neural network,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4289831055,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4291800392,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4293833005,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4294567953,A robust feature selection method based on meta-heuristic optimization for speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4295957212,GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4296523924,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4296930501,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4300818570,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4303437686,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4303579084,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4303981256,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4304098658,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4308216549,Investigating Graph-based Features for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4309329782,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4309969805,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4310154196,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4310506378,A Review of the Advancement in Speech Emotion Recognition for Indo-Aryan and Dravidian Languages,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4310988694,Speech Emotion Recognition Using Audio Matching,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4311224859,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4311970277,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312209192,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312218381,Cross-corpus speech emotion recognition using subspace learning and domain adaption,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312237773,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312327819,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312506570,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312611743,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312729513,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312743211,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4312857458,Speech Emotion Recognition via an Attentive Time–Frequency Neural Network,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4313887688,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4315490759,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4318051978,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4318200341,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4318570466,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4318570632,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4319596491,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4319596972,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4319771047,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4321442131,An efficient feature selection method for arabic and english speech emotion recognition using Grey Wolf Optimizer,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4321496488,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4321609205,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4322730953,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4323059831,Comparative Deep Network Analysis of Speech Emotion Recognition Models using Data Augmentation,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4323665375,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4324382619,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4360764856,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4361017851,Speech Emotion Recognition Using CNN-LSTM and Vision Transformer,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4362712087,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4364378283,Speech Emotion Recognition through Hybrid Features and Convolutional Neural Network,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4366690220,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4366979110,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4367677024,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4368232813,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372259935,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372259942,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372263296,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372266212,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372267501,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4372341110,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4375868941,Designing and Evaluating Speech Emotion Recognition Systems: A Reality Check Case Study with IEMOCAP,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4377565691,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4377819254,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4378473477,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4378528588,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4378603564,TamilEmo: Fine-grained Emotion Detection Dataset for Tamil,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4379033883,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4380991688,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4381192676,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4381802061,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4382407665,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4382701340,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4382998827,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4383069721,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4383426413,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4383747081,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4383899676,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4384517870,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385128072,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385240187,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385247697,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385336056,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385382111,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385625333,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385801060,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385801070,Analysis of Emotion Annotation Strength Improves Generalization in Speech Emotion Recognition Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385814073,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385822457,Learning Local to Global Feature Aggregation for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385822715,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385822836,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385823319,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385823381,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385823394,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4385954206,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386068662,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386156746,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386176982,DSTCNet: Deep Spectro-Temporal-Channel Attention Network for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386397728,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386424265,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386449513,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386524296,Speech emotion recognition approaches: A systematic review,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386716259,Speech emotion recognition using multiple classification models based on MFCC feature values,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386800155,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386826611,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386921156,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386933967,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4386968962,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387055738,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387219851,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387247645,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387479675,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387603332,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387682244,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4387789875,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388470286,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388550092,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388634648,English Speech Emotion Classification Based on Multi-Objective Differential Evolution,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388754381,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388773771,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388776037,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388821586,"Multilingual, Cross-lingual, and Monolingual Speech Emotion Recognition on EmoFilm Dataset",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4388998763,Time-Frequency Transformer: A Novel Time Frequency Joint Learning Method for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389058056,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389076505,Equilibrium Optimizer for Emotion Classification From English Speech Signals,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389222634,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389252851,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389719457,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389752793,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4389946051,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4390414889,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4390905568,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4390905977,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4390992994,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391307871,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391404009,Speech Emotion Recognition Using RA-Gmlp Model on Time–Frequency Domain Features Extracted by TFCM,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391407069,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391574995,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391849148,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391992881,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4391997162,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392034510,A New Network Structure for Speech Emotion Recognition Research,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392124182,Speech emotion recognition via graph-based representations,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392125748,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392172995,Vesper: A Compact and Effective Pretrained Model for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392309280,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392356983,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392548423,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392654280,In-depth investigation of speech emotion recognition studies from past to present –The importance of emotion recognition from speech signal for AI–,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392902646,Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392903203,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392903309,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392903514,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392903618,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392903739,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392904176,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392904469,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392908716,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392908941,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392909765,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4392982123,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393058543,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393181080,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393217352,Layer-Adapted Implicit Distribution Alignment Networks for Cross-Corpus Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393340415,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393406783,NITK-KLESC: Kannada Language Emotional Speech Corpus for Speaker Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4393407069,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4394063698,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4394783026,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396575427,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396704117,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396855649,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396890037,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4396917982,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4398193181,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4398198425,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399082360,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399126208,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399134373,Self-supervised Learning for Speech Emotion Recognition Task Using Audio-visual Features and Distil Hubert Model on BAVED and RAVDESS Databases,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399266758,A Study on Speech Emotion Recognition in the Context of Voice User Experience,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399376552,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399434529,An enhanced speech emotion recognition using vision transformer,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399489418,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399617776,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4399951514,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400102012,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400114480,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400334123,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400391952,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400438927,Speech emotion recognition based on multi-feature speed rate and LSTM,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400454663,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400485682,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400522055,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400574916,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400590501,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400621977,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4400824915,Speech Emotion Recognition Using Convolutional Neural Network and Its Use Case in Digital Healthcare,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4401333176,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4401334882,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4401808502,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4401842519,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4401890484,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402095521,Speech emotion recognition for human–computer interaction,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402111512,SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402112382,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402115910,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402316237,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402541803,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402669711,emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402670683,Modelling Variability in Human Annotator Simulation,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4402989757,Hybrid CNN-BiLSTM architecture with multiple attention mechanisms to enhance speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403102331,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403123061,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403136502,Graph-Based Multi-Feature Fusion Method for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403183204,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403262674,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403465751,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403677552,Multi-Class Emotion Classification on Tamil and Tulu Code-Mixed Text,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403828470,"Performance Metrics for Multilabel Emotion Classification: Comparing Micro, Macro, and Weighted F1-Scores",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4403918653,Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404030328,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404032042,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404067337,Prototypical Networks for Speech Emotion Recognition in Spanish,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404238578,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404239282,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404371020,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404398253,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404533470,Addressing data scarcity in speech emotion recognition: A comprehensive review,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404678177,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404688882,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404739220,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404739679,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4404782655,BLSP-Emo: Towards Empathetic Large Speech-Language Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4405239879,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4405429477,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4405761372,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4405867830,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4405963956,AMGCN: An adaptive multi-graph convolutional network for speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406137817,Multitask Transformer for Cross-Corpus Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406178794,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406202151,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406249631,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406461641,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406461656,Embracing Ambiguity And Subjectivity Using The All-Inclusive Aggregation Rule For Evaluating Multi-Label Speech Emotion Recognition Systems,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406772261,Coordination Attention based Transformers with bidirectional contrastive loss for multimodal speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4406857261,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4407476463,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4407477717,"Enhancing Sentiment Analysis of Customer Reviews Using Deep Learning, Data Augmentation and Explainable AI",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4407559183,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408012284,A dynamic-static feature fusion learning network for speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408061742,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408163277,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408347320,AER-LLM: Ambiguity-aware Emotion Recognition Leveraging Large Language Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408354408,"Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408359055,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408361561,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408401694,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408445271,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408640462,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4408760591,Advanced speech emotion recognition utilizing optimized equivariant quantum convolutional neural network for accurate emotional state classification,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409327450,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409346401,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409409805,The Acoustic Profiles of Emotion: Analyzing the Spoken Voice in Theater Performance,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409728756,Speech Emotion Recognition via CNN-Transformer and multidimensional attention mechanism,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409787152,Multimodal Emotion Recognition based on Face and Speech using Deep Convolution Neural Network and Long Short Term Memory,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4409797003,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410118057,RMER-DT: Robust multimodal emotion recognition in conversational contexts based on diffusion and transformers,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410153524,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410204070,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410236540,Speech Emotion Recognition: Comparative Analysis of CNN-LSTM and Attention-Enhanced CNN-LSTM Models,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410536062,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410612871,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410636336,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410909488,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4410995531,High-arousal emotional speech enhances speech intelligibility and emotion recognition in noise,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411143102,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411358758,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411364489,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411436409,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411488299,Bimodal speech emotion recognition via contrastive self-alignment learning,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411499477,Emotion Recognition from Speech in a Subject-Independent Approach,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411565457,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411599733,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411610053,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411727370,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411745441,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411859139,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411863404,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4411865290,MS-EmoBoost: a novel strategy for enhancing self-supervised speech emotion representations,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412035033,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412036329,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412050790,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412164083,A Lightweight Tri-Stream Feature Fusion Network for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412438081,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412455387,Multimodal speech emotion recognition via modality constraint with hierarchical bottleneck feature fusion,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412522739,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412534207,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412558417,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412627971,Measuring negative emotions and stress through acoustic correlates in speech: A systematic review,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412659728,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412725705,A Performance Benchmarking Review of Transformers for Speaker-Independent Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412828043,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412870663,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412985033,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4412994269,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413129582,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413156194,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413184212,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413204584,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413416079,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413559254,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413887415,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413946288,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4413991673,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414011233,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414249365,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414464137,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414580812,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414676586,Acoustic signatures of depression elicited by emotion-based and theme-based speech tasks,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4414897383,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415188343,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415214006,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415324905,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415378792,Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415432986,AA-SLLM: An Acoustically Augmented Speech Large Language Model for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415571224,"Hybrid-Module Transformer: enhancing speech emotion recognition with HuBERT, LSTM, and ResNet-50",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415624406,Coupled Sparse Subspace Alignment-Based Domain Adaptation for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415743604,MDIPI-Net: Multidimensional information perception and interleaving strategy for speech emotion recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415744833,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415821551,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4415934477,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416078285,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416166868,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416260634,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416403982,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416450732,Modeling the acoustic profiles of vocal emotions in American English and Mandarin Chinese,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416460575,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416582908,"Multimodal Emotion Recognition: A Comprehensive Survey of Datasets, Methods, and Applications",Excluded at title/abstract,,OpenAlex citation searching
+OA-W4416682933,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4417176242,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4417404437,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W4417495036,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7105741676,A Multi-branch Interactive Attention Network Based on Self-Distillation for Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7108076681,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7108601604,Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7116763759,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7117120958,SONANCE: Speech-oriented neuromorphic auditory noise-resilient cascaded emotion-recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7117157140,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7117817819,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7117898649,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7117970730,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7118003233,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7118104391,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7118680432,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7118767577,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7118799829,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7123339137,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7123355441,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7123358274,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7124179313,A Comprehensive Study on the Effectiveness of ASR Representations for Noise-Robust Speech Emotion Recognition,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7124834648,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7125278777,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7125586230,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7125672658,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7125933321,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7126047820,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7126213265,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7126414082,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7127613831,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7128510820,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7130501983,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7130525335,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7130691970,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7131114174,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7131129304,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7134169651,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7134991134,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7140226094,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7143387150,The MSP-Podcast Corpus,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7143445474,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7148862812,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7150198220,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7151454283,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7152019086,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7154283092,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7155098126,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7155353308,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7159789240,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7159839885,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160027226,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160089291,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160519830,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160549837,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160870713,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7160908364,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7161732711,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7162142128,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7162444566,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7162456603,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7162565687,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7163645424,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7163651481,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7164147224,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7164825645,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7164854360,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7165385921,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7165903720,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7166029155,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7167049862,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7168251307,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7169780148,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7171425635,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7171500656,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7171870643,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7172413838,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7196947840,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7197039694,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7203731981,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7203749469,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7204094286,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7204448896,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7204653387,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7207839847,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7212181487,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7212258749,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7213406942,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7214308606,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7214355321,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7214727276,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7214921724,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7214976372,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7215049934,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7220470109,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7220858363,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7223158735,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7223250457,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7223254054,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7224947573,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching
+OA-W7225039414,Title not retained in the archived export,Excluded at title/abstract,,OpenAlex citation searching

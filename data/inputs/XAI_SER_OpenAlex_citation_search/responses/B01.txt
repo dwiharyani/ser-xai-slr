@@ -1,0 +1,42 @@
+40
+W1923034539 | 1996 | 10.1109/icslp.1996.608022 | Recognizing emotion in speech
+W3089365109 | 2020 | 10.1016/j.procs.2020.08.027 | Speech Emotion Recognition with deep learning
+W2097740601 | 2007 | 10.1037/1089-2680.11.2.155 | Emotion and Rationality: A Critical Review and Interpretation of Empirical Evidence
+W2895615590 | 2019 | 10.18653/v1/p19-1050 | MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations
+W2117967450 | 2003 | 10.1016/s0005-7967(02)00189-4 | Cultural differences in emotions: a context for interpreting emotional experiences
+W3144073776 | 2021 | 10.21437/interspeech.2021-703 | Emotion Recognition from Speech Using wav2vec 2.0 Embeddings
+W2769507557 | 2017 | 10.1109/jiot.2017.2772959 | Emotion-Aware Connected Healthcare Big Data Towards 5G
+W2766825571 | 2017 | 10.1007/978-3-319-70093-9_86 | Multimodal Emotion Recognition Using Deep Neural Networks
+W4221145199 | 2023 | 10.1109/tpami.2023.3263585 | Dawn of the Transformer Era in Speech Emotion Recognition: Closing the Valence Gap
+W4385801070 | 2023 | 10.1109/cvprw59228.2023.00619 | Analysis of Emotion Annotation Strength Improves Generalization in Speech Emotion Recognition Models
+W3022013598 | 2020 | 10.1109/access.2020.2990405 | Clustering-Based Speech Emotion Recognition by Incorporating Learned Features and Deep BiLSTM
+W2959999730 | 2019 | 10.1109/isdfs.2019.8757528 | New Trends in Speech Emotion Recognition
+W4392654280 | 2024 | 10.1016/j.iswa.2024.200351 | In-depth investigation of speech emotion recognition studies from past to present –The importance of emotion recognition from speech signal for AI–
+W3173127765 | 2021 | 10.1109/icspc51351.2021.9451810 | Speech Emotion Recognition Using ANN on MFCC Features
+W4364378283 | 2023 | 10.3390/app13084750 | Speech Emotion Recognition through Hybrid Features and Convolutional Neural Network
+W2997399314 | 2019 | 10.1016/j.specom.2019.12.001 | Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers
+W3025283630 | 2020 | 10.1109/ectidamtncon48261.2020.9090768 | Negative Emotion Recognition using Deep Learning for Thai Language
+W4408354408 | 2025 | 10.1109/icassp49660.2025.10888591 | Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction
+W3109961563 | 2020 | 10.3390/math8122133 | CLSTM: Deep Feature-Based Speech Emotion Recognition Using the Hierarchical ConvLSTM Network
+W4385648800 | 2023 | 10.1111/exsy.13403 | Evaluating significant features in context-aware multimodal emotion recognition with XAI methods
+W4402111512 | 2024 | 10.21437/interspeech.2024-2257 | SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios
+W2956824775 | 2019 | 10.1109/access.2019.2928625 | Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition
+W4399216988 | 2024 | 10.1007/s10489-024-05536-5 | Unveiling hidden factors: explainable AI for feature boosting in speech emotion recognition
+W4289516314 | 2022 | 10.1016/j.chaos.2022.112512 | MFF-SAug: Multi feature fusion with spectrogram augmentation of speech emotion recognition using convolution neural network
+W4408347320 | 2025 | 10.1109/icassp49660.2025.10888198 | AER-LLM: Ambiguity-aware Emotion Recognition Leveraging Large Language Models
+W4220754084 | 2022 | 10.1007/s00138-022-01294-x | Convolutional neural network-based cross-corpus speech emotion recognition with data augmentation and features fusion
+W4415433400 | 2025 | 10.21437/interspeech.2025-1112 | Towards LLM-Empowered Fine-Grained Speech Descriptors for Explainable Emotion Recognition
+W4306933566 | 2022 | 10.21437/spsc.2022-5 | Zero-shot cross-lingual speech emotion recognition: a study of loss functions and feature importance
+W4415432986 | 2025 | 10.21437/interspeech.2025-1915 | AA-SLLM: An Acoustically Augmented Speech Large Language Model for Speech Emotion Recognition
+W4406461656 | 2024 | 10.1109/slt61566.2024.10832302 | Embracing Ambiguity And Subjectivity Using The All-Inclusive Aggregation Rule For Evaluating Multi-Label Speech Emotion Recognition Systems
+W4399374391 | 2024 | 10.1109/icit58233.2024.10540745 | Enhancing Speech Emotion Recognition in Urdu Using Bi-GRU Networks: An In-Depth Analysis of Acoustic Features and Model Interpretability
+W2030931454 | 2014 | 10.1109/taffc.2014.2336244 | CREMA-D: Crowd-Sourced Emotional Multimodal Actors Dataset
+W175750906 | 2005 | 10.21437/interspeech.2005-446 | A database of German emotional speech
+W2146334809 | 2008 | 10.1007/s10579-008-9076-6 | IEMOCAP: interactive emotional dyadic motion capture database
+W4404782655 | 2024 | 10.18653/v1/2024.emnlp-main.1070 | BLSP-Emo: Towards Empathetic Large Speech-Language Models
+W7143387150 | 2026 | 10.1109/taffc.2026.3678489 | The MSP-Podcast Corpus
+W2803193013 | 2018 | 10.1371/journal.pone.0196391 | The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+W2742542661 | 2017 | 10.1109/taffc.2017.2736999 | Building Naturalistic Emotionally Balanced Speech Corpus by Retrieving Emotional Speech from Existing Podcast Recordings
+W4393522565 | 2018 | 10.5281/zenodo.1188975 | The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+W4402670683 | 2024 | 10.18653/v1/2024.findings-acl.67 | Modelling Variability in Human Annotator Simulation
+older=11

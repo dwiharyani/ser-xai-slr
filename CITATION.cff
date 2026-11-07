@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and identify this companion snapshot (2026-11-07) when using the data."
+type: dataset
+title: "Explainable AI for Speech Emotion Recognition: A Systematic Review and Multidimensional Taxonomy"
+authors:
+  - family-names: Haryani
+    given-names: Dwi
+  - family-names: Al-Jamimi
+    given-names: Hamdi A.
+  - family-names: Schuller
+    given-names: Björn W.
+version: 1.0.0
+date-released: 2026-11-07

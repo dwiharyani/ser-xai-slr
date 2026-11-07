@@ -1,0 +1,162 @@
+{
+  "EmoDB": [
+    "German",
+    "Acted (scripted)"
+  ],
+  "RAVDESS": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "RAVNESS (as printed)": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "TESS": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "SAVEE": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "CREMA-D": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "IEMOCAP": [
+    "English",
+    "Acted (scripted and improvised)"
+  ],
+  "MSP-IMPROV": [
+    "English",
+    "Acted (scripted and improvised)"
+  ],
+  "MSP-Podcast": [
+    "English",
+    "Naturalistic (podcast)"
+  ],
+  "MELD": [
+    "English",
+    "Broadcast / film / radio"
+  ],
+  "EmoFilm": [
+    "English; Italian; Spanish",
+    "Broadcast / film / radio"
+  ],
+  "eNTERFACE’05": [
+    "English",
+    "Induced"
+  ],
+  "ESD": [
+    "English; Mandarin",
+    "Acted (scripted)"
+  ],
+  "EmoV-DB": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "JL Corpus": [
+    "English",
+    "Acted (scripted)"
+  ],
+  "SUSAS": [
+    "English",
+    "Stress (real and simulated)"
+  ],
+  "ABC": [
+    "German",
+    "Induced"
+  ],
+  "AESSD": [
+    "Greek",
+    "Acted (scripted)"
+  ],
+  "AI-Hub": [
+    "Korean",
+    "Not specified"
+  ],
+  "CSU 2021": [
+    "Korean",
+    "Acted and synthetic voices"
+  ],
+  "CSU 2022": [
+    "Korean",
+    "Acted and synthetic voices"
+  ],
+  "ASVP-ESD": [
+    "Multiple / unspecified",
+    "Mixed media sources"
+  ],
+  "Author Afrikaans emotional-speech corpus": [
+    "Afrikaans",
+    "Not specified"
+  ],
+  "Author Mandarin disyllabic emotional-speech recordings": [
+    "Mandarin",
+    "Acted (scripted)"
+  ],
+  "Author emotional speech corpus (HD, preHD and controls)": [
+    "French",
+    "Spontaneous (clinical narratives)"
+  ],
+  "CASIA": [
+    "Mandarin",
+    "Acted (scripted)"
+  ],
+  "CaFE": [
+    "French",
+    "Acted (scripted)"
+  ],
+  "DEMoS": [
+    "Italian",
+    "Induced"
+  ],
+  "DES": [
+    "Danish",
+    "Acted (scripted)"
+  ],
+  "Danish emotional speech database": [
+    "Danish",
+    "Acted (scripted)"
+  ],
+  "EYASE": [
+    "Arabic",
+    "Broadcast / film / radio"
+  ],
+  "Emo-IIT": [
+    "Romanian",
+    "Acted (scripted)"
+  ],
+  "EmoTa": [
+    "Tamil",
+    "Acted (scripted)"
+  ],
+  "Polish emotional speech database": [
+    "Polish",
+    "Acted (scripted)"
+  ],
+  "SUBESCO": [
+    "Bangla",
+    "Acted (scripted)"
+  ],
+  "ShEMO": [
+    "Persian",
+    "Broadcast / film / radio"
+  ],
+  "Urdu emotional speech corpus": [
+    "Urdu",
+    "Spontaneous (talk shows)"
+  ],
+  "author recordings (named only)": [
+    "Not established",
+    "Not specified"
+  ],
+  "CMU-MOSEI": [
+    "English",
+    "Naturalistic (online videos)"
+  ],
+  "M3ED": [
+    "Mandarin",
+    "Broadcast / film / radio"
+  ]
+}

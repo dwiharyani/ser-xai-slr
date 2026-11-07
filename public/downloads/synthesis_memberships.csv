@@ -1,0 +1,92 @@
+﻿dimension,category,reportedCount,ids,sourceRow
+XAI method,SHAP,24,"[""M-0005"", ""M-0007"", ""M-0017"", ""M-0029"", ""M-0049"", ""M-0065"", ""M-0073"", ""M-0075"", ""M-0076"", ""M-0168"", ""M-0311"", ""M-0376"", ""M-0378"", ""M-0444"", ""M-0513"", ""M-0533"", ""M-0540"", ""M-0545"", ""M-0567"", ""M-0592"", ""M-0611"", ""M-0612"", ""M-0759"", ""M-0804""]",5
+XAI method,LIME,10,"[""M-0001"", ""M-0003"", ""M-0029"", ""M-0031"", ""M-0408"", ""M-0513"", ""M-0540"", ""M-0567"", ""M-0612"", ""M-0614""]",6
+XAI method,Grad-CAM,7,"[""M-0029"", ""M-0408"", ""M-0485"", ""M-0513"", ""M-0582"", ""M-0596"", ""M-0604""]",7
+XAI method,Attention analysis,7,"[""M-0005"", ""M-0443"", ""M-0467"", ""M-0485"", ""M-0501"", ""M-0567"", ""M-0805""]",8
+XAI method,Permutation importance,5,"[""M-0057"", ""M-0168"", ""M-0376"", ""M-0592"", ""M-0804""]",9
+XAI method,Generated rationale,4,"[""M-0009"", ""M-0284"", ""M-0782"", ""M-0783""]",10
+XAI method,Integrated Gradients,4,"[""M-0001"", ""M-0037"", ""M-0208"", ""M-0803""]",11
+XAI method,Occlusion,4,"[""M-0005"", ""M-0408"", ""M-0569"", ""M-0803""]",12
+XAI method,Tree importance,3,"[""M-0046"", ""M-0405"", ""M-0804""]",13
+XAI method,Learned filters,2,"[""M-0016"", ""M-0018""]",14
+XAI method,Counterfactual audio,2,"[""M-0552"", ""M-0582""]",15
+XAI method,TCAV,2,"[""M-0106"", ""M-0533""]",16
+XAI method,DeepLIFT,2,"[""M-0555"", ""M-0801""]",17
+XAI method,Cue saliency,1,"[""M-0552""]",18
+XAI method,Decision coefficients,1,"[""M-0571""]",19
+XAI method,Generated caption,1,"[""M-0019""]",20
+XAI method,Generative audio,1,"[""M-0208""]",21
+XAI method,Grad-CAM++,1,"[""M-0492""]",22
+XAI method,Gradient attribution,1,"[""M-0372""]",23
+XAI method,Layer probing,1,"[""M-0086""]",24
+XAI method,Network weights,1,"[""M-0068""]",25
+XAI method,Contrastive acoustic cues,1,"[""M-0582""]",26
+XAI method,Layer-wise Relevance Propagation (LRP),1,"[""M-0582""]",27
+XAI method,Class model visualisation,1,"[""M-0802""]",28
+Explanation target,Acoustic features / descriptors,16,"[""M-0007"", ""M-0046"", ""M-0049"", ""M-0057"", ""M-0065"", ""M-0073"", ""M-0075"", ""M-0076"", ""M-0168"", ""M-0376"", ""M-0405"", ""M-0467"", ""M-0592"", ""M-0611"", ""M-0759"", ""M-0801""]",29
+Explanation target,Time–frequency regions / spectral bands,11,"[""M-0003"", ""M-0029"", ""M-0031"", ""M-0408"", ""M-0485"", ""M-0492"", ""M-0555"", ""M-0569"", ""M-0596"", ""M-0604"", ""M-0802""]",30
+Explanation target,Mixed representations across outputs,10,"[""M-0001"", ""M-0208"", ""M-0372"", ""M-0513"", ""M-0533"", ""M-0540"", ""M-0552"", ""M-0582"", ""M-0614"", ""M-0803""]",31
+Explanation target,Learned representations / model states,6,"[""M-0016"", ""M-0018"", ""M-0037"", ""M-0068"", ""M-0086"", ""M-0571""]",32
+Explanation target,Named concepts and cues,6,"[""M-0009"", ""M-0019"", ""M-0106"", ""M-0284"", ""M-0782"", ""M-0783""]",33
+Explanation target,Indexed features (mapping limited),6,"[""M-0017"", ""M-0311"", ""M-0378"", ""M-0567"", ""M-0612"", ""M-0804""]",34
+Explanation target,Learned frame- or word-level evidence,4,"[""M-0005"", ""M-0443"", ""M-0501"", ""M-0805""]",35
+Explanation target,Boosted or transformed coordinates,2,"[""M-0444"", ""M-0545""]",36
+Explained system / broad group,CNN / recurrent / neural ensemble,18,"[""M-0001"", ""M-0016"", ""M-0018"", ""M-0029"", ""M-0031"", ""M-0037"", ""M-0073"", ""M-0106"", ""M-0311"", ""M-0378"", ""M-0408"", ""M-0571"", ""M-0596"", ""M-0604"", ""M-0612"", ""M-0614"", ""M-0802"", ""M-0805""]",37
+Explained system / broad group,Tree / classical ML,16,"[""M-0003"", ""M-0007"", ""M-0017"", ""M-0046"", ""M-0049"", ""M-0057"", ""M-0065"", ""M-0075"", ""M-0076"", ""M-0376"", ""M-0405"", ""M-0444"", ""M-0592"", ""M-0611"", ""M-0759"", ""M-0804""]",38
+Explained system / broad group,Specialised or mixed architecture,12,"[""M-0068"", ""M-0168"", ""M-0208"", ""M-0443"", ""M-0467"", ""M-0513"", ""M-0533"", ""M-0545"", ""M-0552"", ""M-0567"", ""M-0582"", ""M-0801""]",39
+Explained system / broad group,Pretrained encoder / Transformer,10,"[""M-0005"", ""M-0086"", ""M-0372"", ""M-0485"", ""M-0492"", ""M-0501"", ""M-0540"", ""M-0555"", ""M-0569"", ""M-0803""]",40
+Explained system / broad group,Language or audio-language model,5,"[""M-0009"", ""M-0019"", ""M-0284"", ""M-0782"", ""M-0783""]",41
+Named corpus in evaluated pipeline,RAVDESS,22,"[""M-0001"", ""M-0003"", ""M-0005"", ""M-0009"", ""M-0017"", ""M-0019"", ""M-0031"", ""M-0037"", ""M-0057"", ""M-0168"", ""M-0405"", ""M-0444"", ""M-0533"", ""M-0555"", ""M-0567"", ""M-0571"", ""M-0582"", ""M-0592"", ""M-0604"", ""M-0614"", ""M-0783"", ""M-0805""]",42
+Named corpus in evaluated pipeline,EmoDB,20,"[""M-0003"", ""M-0017"", ""M-0031"", ""M-0057"", ""M-0068"", ""M-0076"", ""M-0168"", ""M-0311"", ""M-0444"", ""M-0467"", ""M-0485"", ""M-0492"", ""M-0540"", ""M-0555"", ""M-0567"", ""M-0596"", ""M-0604"", ""M-0614"", ""M-0759"", ""M-0801""]",43
+Named corpus in evaluated pipeline,IEMOCAP,16,"[""M-0003"", ""M-0005"", ""M-0009"", ""M-0016"", ""M-0019"", ""M-0068"", ""M-0086"", ""M-0106"", ""M-0168"", ""M-0284"", ""M-0443"", ""M-0545"", ""M-0571"", ""M-0782"", ""M-0783"", ""M-0801""]",44
+Named corpus in evaluated pipeline,SAVEE,12,"[""M-0001"", ""M-0017"", ""M-0037"", ""M-0168"", ""M-0444"", ""M-0467"", ""M-0485"", ""M-0540"", ""M-0592"", ""M-0614"", ""M-0783"", ""M-0801""]",45
+Named corpus in evaluated pipeline,TESS,11,"[""M-0001"", ""M-0017"", ""M-0037"", ""M-0046"", ""M-0065"", ""M-0168"", ""M-0208"", ""M-0372"", ""M-0444"", ""M-0592"", ""M-0614""]",46
+Named corpus in evaluated pipeline,CREMA-D,9,"[""M-0001"", ""M-0009"", ""M-0029"", ""M-0037"", ""M-0555"", ""M-0567"", ""M-0571"", ""M-0592"", ""M-0614""]",47
+Named corpus in evaluated pipeline,MELD,6,"[""M-0009"", ""M-0284"", ""M-0545"", ""M-0782"", ""M-0783"", ""M-0803""]",48
+Named corpus in evaluated pipeline,MSP-Podcast,4,"[""M-0009"", ""M-0019"", ""M-0501"", ""M-0569""]",49
+Named corpus in evaluated pipeline,AESSD,2,"[""M-0311"", ""M-0801""]",50
+Named corpus in evaluated pipeline,CaFE,2,"[""M-0057"", ""M-0801""]",51
+Named corpus in evaluated pipeline,Urdu emotional speech corpus,2,"[""M-0073"", ""M-0801""]",52
+Named corpus in evaluated pipeline,ABC,1,"[""M-0068""]",53
+Named corpus in evaluated pipeline,AI-Hub,1,"[""M-0408""]",54
+Named corpus in evaluated pipeline,ASVP-ESD,1,"[""M-0555""]",55
+Named corpus in evaluated pipeline,Author Afrikaans emotional-speech corpus,1,"[""M-0612""]",56
+Named corpus in evaluated pipeline,Author Mandarin disyllabic emotional-speech recordings,1,"[""M-0376""]",57
+Named corpus in evaluated pipeline,"Author emotional speech corpus (HD, preHD and controls)",1,"[""M-0075""]",58
+Named corpus in evaluated pipeline,CASIA,1,"[""M-0467""]",59
+Named corpus in evaluated pipeline,CSU 2021,1,"[""M-0408""]",60
+Named corpus in evaluated pipeline,CSU 2022,1,"[""M-0408""]",61
+Named corpus in evaluated pipeline,DEMoS,1,"[""M-0168""]",62
+Named corpus in evaluated pipeline,DES,1,"[""M-0168""]",63
+Named corpus in evaluated pipeline,Danish emotional speech database,1,"[""M-0485""]",64
+Named corpus in evaluated pipeline,ESD,1,"[""M-0552""]",65
+Named corpus in evaluated pipeline,EYASE,1,"[""M-0513""]",66
+Named corpus in evaluated pipeline,Emo-IIT,1,"[""M-0492""]",67
+Named corpus in evaluated pipeline,EmoFilm,1,"[""M-0049""]",68
+Named corpus in evaluated pipeline,EmoTa,1,"[""M-0007""]",69
+Named corpus in evaluated pipeline,EmoV-DB,1,"[""M-0168""]",70
+Named corpus in evaluated pipeline,JL Corpus,1,"[""M-0611""]",71
+Named corpus in evaluated pipeline,MSP-IMPROV,1,"[""M-0019""]",72
+Named corpus in evaluated pipeline,Polish emotional speech database,1,"[""M-0485""]",73
+Named corpus in evaluated pipeline,SUBESCO,1,"[""M-0405""]",74
+Named corpus in evaluated pipeline,SUSAS,1,"[""M-0168""]",75
+Named corpus in evaluated pipeline,ShEMO,1,"[""M-0018""]",76
+Named corpus in evaluated pipeline,eNTERFACE’05,1,"[""M-0571""]",77
+Named corpus in evaluated pipeline,CMU-MOSEI,1,"[""M-0378""]",78
+Named corpus in evaluated pipeline,M3ED,1,"[""M-0782""]",79
+Named corpus in evaluated pipeline,Spanish TV debate corpus,1,"[""M-0802""]",80
+Named corpus in evaluated pipeline,SEMOUR+,1,"[""M-0804""]",81
+Publication year,2026,19,"[""M-0005"", ""M-0007"", ""M-0009"", ""M-0018"", ""M-0019"", ""M-0037"", ""M-0049"", ""M-0068"", ""M-0086"", ""M-0168"", ""M-0372"", ""M-0376"", ""M-0513"", ""M-0533"", ""M-0545"", ""M-0555"", ""M-0567"", ""M-0592"", ""M-0611""]",82
+Publication year,2025,19,"[""M-0001"", ""M-0003"", ""M-0029"", ""M-0065"", ""M-0208"", ""M-0284"", ""M-0378"", ""M-0485"", ""M-0501"", ""M-0540"", ""M-0552"", ""M-0569"", ""M-0612"", ""M-0614"", ""M-0782"", ""M-0783"", ""M-0803"", ""M-0804"", ""M-0805""]",83
+Publication year,2024,10,"[""M-0017"", ""M-0031"", ""M-0046"", ""M-0073"", ""M-0075"", ""M-0408"", ""M-0444"", ""M-0492"", ""M-0596"", ""M-0759""]",84
+Publication year,2023,6,"[""M-0076"", ""M-0311"", ""M-0405"", ""M-0571"", ""M-0604"", ""M-0802""]",85
+Publication year,2022,5,"[""M-0106"", ""M-0443"", ""M-0467"", ""M-0582"", ""M-0801""]",86
+Publication year,2021,2,"[""M-0016"", ""M-0057""]",87
+Validation / sensitivity,Direct prediction faithfulness,7,"[""M-0016"", ""M-0029"", ""M-0208"", ""M-0443"", ""M-0552"", ""M-0582"", ""M-0802""]",88
+Validation / sensitivity,Human evaluation of explanations,4,"[""M-0009"", ""M-0019"", ""M-0552"", ""M-0582""]",89
+Validation / sensitivity,Controlled robustness of explanation or cue outputs,2,"[""M-0029"", ""M-0552""]",90
+Validation / sensitivity,Repeated-run stability of explanations,2,"[""M-0029"", ""M-0106""]",91
+Validation / sensitivity,Human task performance with explanation conditions,2,"[""M-0552"", ""M-0582""]",92
+Validation / sensitivity,Automated scoring of generated rationales,2,"[""M-0009"", ""M-0782""]",93
+Validation / sensitivity,Human annotation agreement without utility test,1,"[""M-0443""]",94
+Validation / sensitivity,Stability claim without adequate procedure,1,"[""M-0555""]",95

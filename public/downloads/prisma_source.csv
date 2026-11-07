@@ -1,0 +1,46 @@
+﻿stage,count,basis,interpretation
+Scopus records,640,Search log,"Core, all years"
+IEEE Xplore records,277,Search log,"Core, all years"
+WoS records,305,Search log,"Core, all years"
+ACM DL records,46,Search log,"Core, all years"
+Four primary sources,1268,640 + 277 + 305 + 46,Occurrences before deduplication
+ACL Anthology,10,Search log,4 strict and 6 exploratory
+ISCA Archive,23,Search log,Distinct source records across five searches
+Total source occurrences,1301,1268 + 10 + 23,Database and archive searches only; citation searching is reported separately below
+Surplus occurrences after record matching,505,1301 − 796,Derived from source master
+Unique across years,796,05 ALL RECORDS,Normalized DOI or title
+Outside screening window,199,796 − 597,Removed before title/abstract review
+Unique records screened,597,XAI_SER_Screening_597_Full.xlsx,585 core-indexed + 12 only from subject archives
+Excluded at title/abstract,516,597 − reports sought,"SER scope (speech audio, speech transcript or both)"
+Reports sought,81,QA register (76) + M-0488 + 4 records advanced to full text,"2 only in subject archives: M-0782, M-0783"
+Reports not retrieved,4,"M-0027, M-0313, M-0356, M-0745",Full text not available at the time of analysis
+Reports assessed for eligibility,77,QA register,"Eligibility first, then QA v2 for eligible reports"
+Feature selection or class separation only,3,"M-0022, M-0312, M-0566",Primary code X1
+"Explanation described, no eligible output",4,"M-0010, M-0325, M-0451, M-0488",Primary code X2
+Sung material only,1,M-0147,Primary code X3
+Speech or transcript evidence not separable from visual or physiological fusion,8,"M-0014, M-0033, M-0176, M-0264, M-0382, M-0464, M-0487, M-0744",Primary code X4
+Explained target is training difficulty,1,M-0071,Primary code X5
+Text not derived from spoken speech,1,M-0060,Primary code X6
+Full-text exclusions,18,Sum of six reason groups,Eligibility not met
+Eligible reports scored with QA v2,59,QA register,"Q1–Q7, 0/0.5/1"
+Excluded after quality appraisal,2,"M-0002, M-0013","Total < 4 or Q1, Q4 or Q5 = 0"
+Studies included from database and archive searches,56,57 reports passing QA v2 − 1 companion report,"Studies in the synthesis; M-0038 merged with M-0444 (FB-01). 2 indexed only in ACL Anthology: M-0782, M-0783"
+Citation searching: seeds,61,"57 reports of included studies (incl. companion M-0038), 2 closest reviews, 2 studies named by the reviewer",60 indexed in OpenAlex; M-0016 not indexed
+Citation searching: backward links (references),1092,"20 queries, filter cited_by + ""emotion"" in title/abstract",Run 7 Nov 2026
+Citation searching: forward links (citing works),358,"20 queries, filter cites + ""emotion"" in title/abstract",Run 7 Nov 2026
+Citation searching: records identified,1450,1092 + 358,Citation links before matching
+Citation searching: outside screening window,551,Publication year before 2021,Removed before screening
+Citation searching: duplicate links,197,Same work reached from several seed batches,Removed before screening
+Citation searching: already identified,75,Seed report or record already in the database register,Removed before screening
+Citation searching: preprints or non-reports,13,"arXiv, SSRN, Research Square and dataset deposits",Document-type criterion
+Citation searching: records screened,614,1450 − 551 − 197 − 75 − 13,Title and abstract
+Citation searching: excluded at title/abstract,603,Reasons in sheet Citation search,
+Citation searching: reports sought,11,"M-0801, M-0802, M-0803, M-0804, M-0805, M-0806, M-0807, M-0808, M-0809, M-0810, M-0811",
+Citation searching: reports not retrieved,5,"M-0807, M-0808, M-0809, M-0810, M-0811",Subscription content not accessible
+Citation searching: reports assessed for eligibility,6,"M-0801, M-0802, M-0803, M-0804, M-0805, M-0806",
+Citation searching: full-text exclusions,0,,Eligibility not met
+Citation searching: eligible reports scored with QA v2,6,"M-0801, M-0802, M-0803, M-0804, M-0805, M-0806",
+Citation searching: excluded after quality appraisal,1,M-0806,"Total < 4 or Q1, Q4 or Q5 = 0"
+Additional reports from citation searching,5,"M-0801, M-0802, M-0803, M-0804, M-0805",Included studies identified by citation searching
+Included reports,61,56 + 5,Studies in the synthesis (both identification routes)
+Reports of included studies,62,61 studies + 1 companion report,M-0038 is the conference version of M-0444

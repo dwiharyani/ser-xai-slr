@@ -1,0 +1,272 @@
+[
+  {
+    "stage": "Scopus records",
+    "count": 640,
+    "basis": "Search log",
+    "interpretation": "Core, all years"
+  },
+  {
+    "stage": "IEEE Xplore records",
+    "count": 277,
+    "basis": "Search log",
+    "interpretation": "Core, all years"
+  },
+  {
+    "stage": "WoS records",
+    "count": 305,
+    "basis": "Search log",
+    "interpretation": "Core, all years"
+  },
+  {
+    "stage": "ACM DL records",
+    "count": 46,
+    "basis": "Search log",
+    "interpretation": "Core, all years"
+  },
+  {
+    "stage": "Four primary sources",
+    "count": 1268,
+    "basis": "640 + 277 + 305 + 46",
+    "interpretation": "Occurrences before deduplication"
+  },
+  {
+    "stage": "ACL Anthology",
+    "count": 10,
+    "basis": "Search log",
+    "interpretation": "4 strict and 6 exploratory"
+  },
+  {
+    "stage": "ISCA Archive",
+    "count": 23,
+    "basis": "Search log",
+    "interpretation": "Distinct source records across five searches"
+  },
+  {
+    "stage": "Total source occurrences",
+    "count": 1301,
+    "basis": "1268 + 10 + 23",
+    "interpretation": "Database and archive searches only; citation searching is reported separately below"
+  },
+  {
+    "stage": "Surplus occurrences after record matching",
+    "count": 505,
+    "basis": "1301 − 796",
+    "interpretation": "Derived from source master"
+  },
+  {
+    "stage": "Unique across years",
+    "count": 796,
+    "basis": "05 ALL RECORDS",
+    "interpretation": "Normalized DOI or title"
+  },
+  {
+    "stage": "Outside screening window",
+    "count": 199,
+    "basis": "796 − 597",
+    "interpretation": "Removed before title/abstract review"
+  },
+  {
+    "stage": "Unique records screened",
+    "count": 597,
+    "basis": "XAI_SER_Screening_597_Full.xlsx",
+    "interpretation": "585 core-indexed + 12 only from subject archives"
+  },
+  {
+    "stage": "Excluded at title/abstract",
+    "count": 516,
+    "basis": "597 − reports sought",
+    "interpretation": "SER scope (speech audio, speech transcript or both)"
+  },
+  {
+    "stage": "Reports sought",
+    "count": 81,
+    "basis": "QA register (76) + M-0488 + 4 records advanced to full text",
+    "interpretation": "2 only in subject archives: M-0782, M-0783"
+  },
+  {
+    "stage": "Reports not retrieved",
+    "count": 4,
+    "basis": "M-0027, M-0313, M-0356, M-0745",
+    "interpretation": "Full text not available at the time of analysis"
+  },
+  {
+    "stage": "Reports assessed for eligibility",
+    "count": 77,
+    "basis": "QA register",
+    "interpretation": "Eligibility first, then QA v2 for eligible reports"
+  },
+  {
+    "stage": "Feature selection or class separation only",
+    "count": 3,
+    "basis": "M-0022, M-0312, M-0566",
+    "interpretation": "Primary code X1"
+  },
+  {
+    "stage": "Explanation described, no eligible output",
+    "count": 4,
+    "basis": "M-0010, M-0325, M-0451, M-0488",
+    "interpretation": "Primary code X2"
+  },
+  {
+    "stage": "Sung material only",
+    "count": 1,
+    "basis": "M-0147",
+    "interpretation": "Primary code X3"
+  },
+  {
+    "stage": "Speech or transcript evidence not separable from visual or physiological fusion",
+    "count": 8,
+    "basis": "M-0014, M-0033, M-0176, M-0264, M-0382, M-0464, M-0487, M-0744",
+    "interpretation": "Primary code X4"
+  },
+  {
+    "stage": "Explained target is training difficulty",
+    "count": 1,
+    "basis": "M-0071",
+    "interpretation": "Primary code X5"
+  },
+  {
+    "stage": "Text not derived from spoken speech",
+    "count": 1,
+    "basis": "M-0060",
+    "interpretation": "Primary code X6"
+  },
+  {
+    "stage": "Full-text exclusions",
+    "count": 18,
+    "basis": "Sum of six reason groups",
+    "interpretation": "Eligibility not met"
+  },
+  {
+    "stage": "Eligible reports scored with QA v2",
+    "count": 59,
+    "basis": "QA register",
+    "interpretation": "Q1–Q7, 0/0.5/1"
+  },
+  {
+    "stage": "Excluded after quality appraisal",
+    "count": 2,
+    "basis": "M-0002, M-0013",
+    "interpretation": "Total < 4 or Q1, Q4 or Q5 = 0"
+  },
+  {
+    "stage": "Studies included from database and archive searches",
+    "count": 56,
+    "basis": "57 reports passing QA v2 − 1 companion report",
+    "interpretation": "Studies in the synthesis; M-0038 merged with M-0444 (FB-01). 2 indexed only in ACL Anthology: M-0782, M-0783"
+  },
+  {
+    "stage": "Citation searching: seeds",
+    "count": 61,
+    "basis": "57 reports of included studies (incl. companion M-0038), 2 closest reviews, 2 studies named by the reviewer",
+    "interpretation": "60 indexed in OpenAlex; M-0016 not indexed"
+  },
+  {
+    "stage": "Citation searching: backward links (references)",
+    "count": 1092,
+    "basis": "20 queries, filter cited_by + \"emotion\" in title/abstract",
+    "interpretation": "Run 7 Nov 2026"
+  },
+  {
+    "stage": "Citation searching: forward links (citing works)",
+    "count": 358,
+    "basis": "20 queries, filter cites + \"emotion\" in title/abstract",
+    "interpretation": "Run 7 Nov 2026"
+  },
+  {
+    "stage": "Citation searching: records identified",
+    "count": 1450,
+    "basis": "1092 + 358",
+    "interpretation": "Citation links before matching"
+  },
+  {
+    "stage": "Citation searching: outside screening window",
+    "count": 551,
+    "basis": "Publication year before 2021",
+    "interpretation": "Removed before screening"
+  },
+  {
+    "stage": "Citation searching: duplicate links",
+    "count": 197,
+    "basis": "Same work reached from several seed batches",
+    "interpretation": "Removed before screening"
+  },
+  {
+    "stage": "Citation searching: already identified",
+    "count": 75,
+    "basis": "Seed report or record already in the database register",
+    "interpretation": "Removed before screening"
+  },
+  {
+    "stage": "Citation searching: preprints or non-reports",
+    "count": 13,
+    "basis": "arXiv, SSRN, Research Square and dataset deposits",
+    "interpretation": "Document-type criterion"
+  },
+  {
+    "stage": "Citation searching: records screened",
+    "count": 614,
+    "basis": "1450 − 551 − 197 − 75 − 13",
+    "interpretation": "Title and abstract"
+  },
+  {
+    "stage": "Citation searching: excluded at title/abstract",
+    "count": 603,
+    "basis": "Reasons in sheet Citation search",
+    "interpretation": null
+  },
+  {
+    "stage": "Citation searching: reports sought",
+    "count": 11,
+    "basis": "M-0801, M-0802, M-0803, M-0804, M-0805, M-0806, M-0807, M-0808, M-0809, M-0810, M-0811",
+    "interpretation": null
+  },
+  {
+    "stage": "Citation searching: reports not retrieved",
+    "count": 5,
+    "basis": "M-0807, M-0808, M-0809, M-0810, M-0811",
+    "interpretation": "Subscription content not accessible"
+  },
+  {
+    "stage": "Citation searching: reports assessed for eligibility",
+    "count": 6,
+    "basis": "M-0801, M-0802, M-0803, M-0804, M-0805, M-0806",
+    "interpretation": null
+  },
+  {
+    "stage": "Citation searching: full-text exclusions",
+    "count": 0,
+    "basis": null,
+    "interpretation": "Eligibility not met"
+  },
+  {
+    "stage": "Citation searching: eligible reports scored with QA v2",
+    "count": 6,
+    "basis": "M-0801, M-0802, M-0803, M-0804, M-0805, M-0806",
+    "interpretation": null
+  },
+  {
+    "stage": "Citation searching: excluded after quality appraisal",
+    "count": 1,
+    "basis": "M-0806",
+    "interpretation": "Total < 4 or Q1, Q4 or Q5 = 0"
+  },
+  {
+    "stage": "Additional reports from citation searching",
+    "count": 5,
+    "basis": "M-0801, M-0802, M-0803, M-0804, M-0805",
+    "interpretation": "Included studies identified by citation searching"
+  },
+  {
+    "stage": "Included reports",
+    "count": 61,
+    "basis": "56 + 5",
+    "interpretation": "Studies in the synthesis (both identification routes)"
+  },
+  {
+    "stage": "Reports of included studies",
+    "count": 62,
+    "basis": "61 studies + 1 companion report",
+    "interpretation": "M-0038 is the conference version of M-0444"
+  }
+]
