@@ -15,3 +15,16 @@
 ## v1.0.0 — previous snapshot
 
 Original companion based on 597 screening records and 56 included studies, now superseded.
+
+## Website display cleanup (7 November 2026)
+
+- Reproducibility page: removed public manuscript card, known-evidence-limitations card, local rebuild instructions, reconciliation table, and known-limits panel.
+- Renamed public display labels “QA v2” to “QA” where used as page headings and download labels; QA source records and score criteria are unchanged.
+- Removed `public/downloads/limitations.md` to retire the former direct download URL. `docs/limitations.md` remains in the Git repository as an audit note.
+- No counts, Study IDs, screening decisions, taxonomy categories, or research figures were modified.
+
+## Website presentation and manuscript access — 7 November 2026
+- Removed manuscript PDF links from the home hero and navigation header.
+- Removed the manuscript PDF from the publicly served assets and removed the corresponding existence requirement from validation.
+- Removed editorial QA revision notes from the website; numerical QA scores and inclusion decisions are unchanged.
+- All eleven figure PNGs, tables, and download datasets remain available.

@@ -11,7 +11,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "validate": "python3 scripts/validate.py",
-    "reproduce": "python scripts/rebuild_latest.py && python scripts/extract_manuscript_figures.py public/downloads/manuscript-v6.pdf && python scripts/validate.py"
+    "reproduce": "python scripts/rebuild_latest.py && python scripts/validate.py"
   },
   "dependencies": {
     "react": "^19.2.0",

@@ -6,7 +6,7 @@ The workflow validates public data, regenerates figures, checks that synthesis a
 
 Use Node 22.12+ and Python 3.12. The Vite base is relative; paths work at `username.github.io/repository/` and at a root domain. Every page uses a hash route, so `.../repository/#quality` is reload-safe on GitHub Pages. If you opt into an absolute base, set `BASE_PATH=/repository/` during the build.
 
-The source GitHub URL is injected with `VITE_REPOSITORY_URL`. Without it, the header links to the local downloads section rather than a fabricated repository. To add a final paper DOI, update `CITATION.cff` and the manuscript link deliberately; the current PDF is the author-supplied 29-page manuscript dated 7 November 2026.
+The source GitHub URL is injected with `VITE_REPOSITORY_URL`. Without it, the header links to the local downloads section rather than a fabricated repository. To add a final paper DOI, update `CITATION.cff` when the publication is available. The manuscript PDF is not included in the website.
 
 If Pages deployment fails before Pages was enabled, enable GitHub Actions as the publishing source and rerun the workflow. If npm ci fails after changing dependencies, regenerate and commit package-lock.json with npm install. A data validation failure should be investigated rather than bypassed: it may signal changed counts, a missing ID or an invalid score.
 

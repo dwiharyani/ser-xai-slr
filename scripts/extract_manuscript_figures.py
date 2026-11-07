@@ -2,7 +2,9 @@
 import fitz,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-pdf=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'public/downloads/manuscript-v6.pdf'
+pdf=Path(sys.argv[1]) if len(sys.argv)>1 else None
+if pdf is None:
+    raise SystemExit('Usage: python scripts/extract_manuscript_figures.py /path/to/local-manuscript.pdf')
 out=ROOT/'public/figures/paper';out.mkdir(parents=True,exist_ok=True)
 doc=fitz.open(pdf)
 # n: (zero-indexed page, x0,y0,x1,y1) ; crop deliberately ends before caption.
@@ -16,5 +18,4 @@ for n,(p,x0,y0,x1,y1) in rects.items():
     page=doc[p]
     clip=fitz.Rect(x0,y0,x1,y1)
     page.get_pixmap(matrix=fitz.Matrix(2.1,2.1),clip=clip,alpha=False).save(out/f'fig{n:02}.png')
-doc[0].get_pixmap(matrix=fitz.Matrix(1.5,1.5),alpha=False).save(out/'manuscript-page1.png')
-print(f'Extracted {len(rects)} figures and manuscript preview from {pdf.name}')
+print(f'Extracted {len(rects)} figures from {pdf.name}')

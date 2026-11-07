@@ -92,7 +92,7 @@
     "datasets": "EmoDB, RAVDESS, IEMOCAP",
     "setting": "Acoustic SER; direct XAI evidence",
     "observedOutput": "Fig. 3 weighted speech-spectral explanations; distribution shifts",
-    "justification": "Verified on 7 Nov 2026 against the authors' version of the ICASSP paper (arXiv:2504.05368). Q2 0.5 EmoDB, RAVDESS (counted as 7,356 files, including song) and IEMOCAP, four classes, little preprocessing detail; Q3 1 leave-one-speaker-out training of linear SVCs; Q4 1 EmoLIME over eight spectral bands on ComParE-SVC and wav2vec 2.0-SVC; Q5 1 per-utterance band weights (Figs. 2-3) and class means (Fig. 4); Q6 0 no recognition results reported; Q7 0.5 Cramer tests compare explanation distributions across models and corpora (Table I), no fidelity test.",
+    "justification": "Q2 0.5 EmoDB, RAVDESS (counted as 7,356 files, including song) and IEMOCAP, four classes, little preprocessing detail; Q3 1 leave-one-speaker-out training of linear SVCs; Q4 1 EmoLIME over eight spectral bands on ComParE-SVC and wav2vec 2.0-SVC; Q5 1 per-utterance band weights (Figs. 2-3) and class means (Fig. 4); Q6 0 no recognition results reported; Q7 0.5 Cramer tests compare explanation distributions across models and corpora (Table I), no fidelity test.",
     "limitations": "Explanation is model-targeted; limited number of examples, limited stability",
     "source": {
       "file": "Final synthesis workbook",

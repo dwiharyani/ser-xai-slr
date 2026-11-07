@@ -820,11 +820,6 @@
       "detail": "597 database-and-archive screening records use the final register; public web exports exclude full abstracts for redistribution reasons. The source workbook retains their metadata."
     },
     {
-      "kind": "QA score precedence",
-      "id": "M-0003",
-      "detail": "The final synthesis workbook supplies the verified Q1–Q7 scores for M-0003. Earlier QA extracts differed, so its historical scores must not be presented as final."
-    },
-    {
       "kind": "Study versus report",
       "id": "Companion",
       "detail": "62 passing reports represent 61 distinct studies. Companion M-0038 is merged with its journal extension and excluded from study-level counts."

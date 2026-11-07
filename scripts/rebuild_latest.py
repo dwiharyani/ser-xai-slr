@@ -17,6 +17,10 @@ def sheetrows(w,name,headerrow,firstrow,endrow,ncols):
         if not any(v is not None and str(v).strip() for v in row): continue
         yield ri,{k:v for k,v in zip(headers,row) if k}
 def txt(v):return '' if v is None else str(v).strip()
+def public_qa_note(v):
+    s=txt(v)
+    # Retain criterion evidence while omitting internal revision commentary.
+    return re.sub(r"^Verified on 7 Nov 2026 against the authors' version of the ICASSP paper \(arXiv:2504\.05368\)\. ", '', s)
 def ids(v):return re.findall(r'M-\d{4}',txt(v))
 def export(n,rows):
     if not rows:return
@@ -99,7 +103,7 @@ for i,(row,q) in q_orig.items():
      'locator':fin.get('locator') if fin else q.get('Evidence: page / figure'),'finalLocator':fin.get('locator') if fin else None,
      'methods':q.get('XAI method'),'target':q.get('Explanation target'),'datasets':q.get('Corpus / datasets'),
      'setting':q.get('Input / SER setting'),'observedOutput':q.get('Observed explanation result'),
-     'justification':fq.get('Criterion-level justification') if can_score else None,
+     'justification':public_qa_note(fq.get('Criterion-level justification')) if can_score else None,
      'limitations':q.get('Evidence limitations'),'source':{'file':'Final synthesis workbook','sheet':'QA','row':fq.get('sourceRow')} }
     row_obj.update(score);qa.append(row_obj)
 assert len(qa)==92,len(qa)
@@ -195,7 +199,6 @@ for ch in charts:
     ch['bars']=[{'label':v,'count':n} for v,n in (sorted(counts.items()) if key=='year' else sorted(counts.items(),key=lambda z:(-z[1],z[0])))]
 issue=[{'kind':'OpenAlex metadata limitation','id':'Citation screening','detail':f"{c['missingOpenAlexTitles']} of 614 archived citation records have no recorded title, and the export does not retain abstracts. Their historical decisions cannot be independently audited from this snapshot."},
  {'kind':'Screening provenance','id':'Database records','detail':'597 database-and-archive screening records use the final register; public web exports exclude full abstracts for redistribution reasons. The source workbook retains their metadata.'},
- {'kind':'QA score precedence','id':'M-0003','detail':'The final synthesis workbook supplies the verified Q1–Q7 scores for M-0003. Earlier QA extracts differed, so its historical scores must not be presented as final.'},
  {'kind':'Study versus report','id':'Companion','detail':'62 passing reports represent 61 distinct studies. Companion M-0038 is merged with its journal extension and excluded from study-level counts.'}]
 summary={'counts':c,'comparison':comparison,'charts':charts,'issues':issue,'snapshot':'2026-11-07'}
 save('summary',summary)

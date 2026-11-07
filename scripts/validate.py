@@ -10,6 +10,6 @@ assert sum(r['state']=='Included study' for r in qa)==61
 assert sum(r['state']=='Companion report' for r in qa)==1
 assert all(v['match'] for v in s['comparison'])
 assert all((R/f"public/figures/paper/{f['id']}.png").exists() for f in fig)
-assert (R/'public/downloads/manuscript-v6.pdf').exists()
+assert not (R/'public/downloads/manuscript-v6.pdf').exists(), 'Manuscript PDF must not be published'
 assert (R/'public/downloads/XAI_SER_OpenAlex_citation_search.zip').exists()
 print('VALID: 1211 screening, 92 reports sought, 83 assessed, 62 passing reports, 61 studies; 11 manuscript figures.')
