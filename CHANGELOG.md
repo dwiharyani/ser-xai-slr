@@ -1,3 +1,8 @@
+## 2026-11-07 — QA register and full-text denominator
+- The QA sheet and public table now list 83 full-text-assessed reports; nine unretrieved reports are tracked separately for PRISMA.
+- QA scores apply to 65 eligible reports, with 18 eligibility exclusions retaining their full-text decisions but no Q1–Q7 score.
+- Reconciled criterion scores with the final synthesis workbook.
+
 # Release changes
 
 ## v1.1.0 — 7 November 2026

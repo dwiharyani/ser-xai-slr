@@ -37,6 +37,13 @@ qa_book=SpreadsheetFile.import_xlsx(Blob.load(str(I/'XAI_SER_QA_FullText_Final.x
 screen_book=SpreadsheetFile.import_xlsx(Blob.load(str(I/'XAI_SER_Screening_597_Full.xlsx')))
 F=lambda s,h,start,end,n:sheetrows(final,s,h,start,end,n)
 q_orig={txt(v['Study ID']):(row,v) for row,v in sheetrows(qa_book,'QA',1,2,130,35) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
+# The working QA sheet has only 83 assessed full texts. Nine unsuccessful retrievals
+# are retained separately for the PRISMA retrieval count, not QA table/export.
+not_retrieved_orig={txt(v['Study ID']):(row,v) for row,v in sheetrows(qa_book,'Not retrieved',1,2,30,35) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
+assert len(q_orig)==83 and len(not_retrieved_orig)==9
+assert not (set(q_orig)&set(not_retrieved_orig))
+q_orig.update(not_retrieved_orig)
+assert len(q_orig)==92
 screen_orig={txt(v['Study ID']):(row,v) for row,v in sheetrows(screen_book,'Screening',1,2,700,29) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
 screens=[]
 for row,v in F('Screening 597',4,5,650,12):
@@ -107,6 +114,11 @@ for i,(row,q) in q_orig.items():
      'limitations':q.get('Evidence limitations'),'source':{'file':'Final synthesis workbook','sheet':'QA','row':fq.get('sourceRow')} }
     row_obj.update(score);qa.append(row_obj)
 assert len(qa)==92,len(qa)
+qa_all=qa  # 92 sought; includes nine not retrieved, needed only for PRISMA accounting.
+qa=[r for r in qa_all if r['state']!='Pending retrieval']
+assert len(qa)==83 and {r['id'] for r in qa}==set(E)
+assert sum(r['total'] is not None for r in qa)==65
+assert sum(r['state']=='Excluded at eligibility' for r in qa)==18
 for r in qa:
     if r['total'] is not None:
         scores=[r[f'Q{k}'] for k in range(1,8)]
@@ -151,7 +163,7 @@ for rec in el:
     mgroup=txt(x.get('Model group')) or 'Not supplied'
     study.append({'id':i,'title':rec['title'],'year':rec['year'],'doi':rec['doi'],'authors':None,
       'publicationType':s.get('publicationType') or memberships('Publication type',i) or 'Not supplied',
-      'publicationCategory':({'M-0801':'Conference paper','M-0802':'Journal article','M-0803':'Journal article','M-0804':'Journal article','M-0805':'Journal article'}.get(i) or ('Journal article' if 'journal' in txt(s.get('publicationType')).lower() or txt(s.get('publicationType'))=='Article' else 'Conference paper' if 'conference' in txt(s.get('publicationType')).lower() else 'Not supplied')),
+      'publicationCategory':('Journal article' if 'journal' in txt(s.get('publicationType')).lower() or txt(s.get('publicationType'))=='Article' else 'Conference paper' if 'conference' in txt(s.get('publicationType')).lower() else 'Not supplied'),
       'databases':s.get('databases') or rec['route'], 'd1':d1,'d1Raw':d1raw,'d2':d2,'d2Raw':d2raw,
       'd3':a.get('D3 Explained representation') or x.get('Explanation target'),
       'd4':sorted(f for f,aliases in fam.items() if set(methods)&set(aliases)),
@@ -163,12 +175,12 @@ for rec in el:
       'humanEvaluation':x.get('Human evaluation type'),'recognitionReported':any(r['id']==i and r['Q6'] is not None and r['Q6']>0 for r in qa),
       'source':{'file':'Final synthesis workbook','sheet':'Taxonomy'}})
 assert len(study)==61,len(study)
-assert sum(z['publicationCategory']=='Journal article' for z in study)==31, collections.Counter(z['publicationCategory'] for z in study)
-assert sum(z['publicationCategory']=='Conference paper' for z in study)==30, collections.Counter(z['publicationCategory'] for z in study)
+# Publication-type metadata are incomplete for some sources; do not impute unknown classes.
+assert len(study)==61
 save('studies',study)
 # source-specific metrics, aggregate counts from the 61 unique included study rows
-c={'screened':len(sc_all),'databaseScreened':len(screens),'citationScreened':len(alex),'sought':len(qa),
- 'databaseSought':81,'citationSought':11,'notRetrieved':len(qa)-len(el),'assessed':len(el),'included':len(study),
+c={'screened':len(sc_all),'databaseScreened':len(screens),'citationScreened':len(alex),'sought':len(qa_all),
+ 'databaseSought':81,'citationSought':11,'notRetrieved':len(qa_all)-len(el),'assessed':len(el),'included':len(study),
  'reportsIncluded':sum(q['gate']=='Pass' for q in qa),'companion':sum(r['decision']=='Companion' for r in el),
  'eligible':sum(q['gate'] in ('Pass','Fail') for q in qa), 'passed':sum(q['gate']=='Pass' for q in qa),
  'qaFailed':sum(q['gate']=='Fail' and q['reasonCode']=='Q' for q in qa),
