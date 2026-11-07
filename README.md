@@ -1,8 +1,8 @@
 # Explainable AI for Speech Emotion Recognition
-https://dwiharyani.github.io/ser-xai-slr/#home
+
 **A Systematic Review and Multidimensional Taxonomy**  
 Dwi Haryani · Hamdi A. Al-Jamimi · Björn W. Schuller
-
+Visit website : https://dwiharyani.github.io/ser-xai-slr
 Publication-facing static research companion for the latest manuscript snapshot (7 November 2026). The website is made with React, TypeScript and Vite, retaining the manuscript-inspired forest green, sage, warm brown and cream palette. 
 
 ## Study-flow snapshot
