@@ -308,7 +308,7 @@
     "decision": "Companion",
     "gate": "Pass",
     "total": 6.5,
-    "reasonCode": "IN",
+    "reasonCode": "CO",
     "rationale": "Conference version of the feature-boosting study reported in full in M-0444 (journal extension, same group and pipeline). Counted once; codes taken from M-0444. The paper reports class-wise mean absolute SHAP on principal components and traces those components to original descriptors. Linked to M-0444.",
     "locator": "PDF 3–4, Figs 2–3 and class-wise feature importance",
     "title": "Iterative Feature Boosting for Explainable Speech Emotion Recognition",

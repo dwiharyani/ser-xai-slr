@@ -1,17 +1,17 @@
 {
-  "snapshot": "2026-11-07",
+  "snapshot": "2026-11-08",
   "sourceFiles": [
     {
       "file": "Final_Included_Excluded_Studies_XAI_SER_Final.xlsx",
-      "sha256": "46f9f8cb2eb4ea227aaec68a02f7b53b4a80c9dba9bbedb8aa778b870f12fa65"
+      "sha256": "94bc5f47e10071009fca629b66bd772bc8a735ccfde0ce5e886a6c96abd3c764"
     },
     {
-      "file": "XAI_SER_QA_FullText_Final.xlsx",
-      "sha256": "30be2cc21aa721bc73b61855fd38b0b9fb0e3311394b4d555931f46d711c326a"
+      "file": "XAI_SER_QA_Fix_Final.xlsx",
+      "sha256": "6f0b9dd9c8bcaefd3e3251aafaff135a782dbe0c58f61bff99075380396b77c1"
     },
     {
       "file": "XAI_SER_Screening_597_Full.xlsx",
-      "sha256": "33a3533ec3321699199a5665b0b44c98ee2e00c2b0800b79f52850240540200d"
+      "sha256": "18d5574d1a7446b852252e9c2c5fa56945039277729b5323a830225ce926b308"
     },
     {
       "file": "records_2021_2026.csv",
@@ -19,7 +19,7 @@
     }
   ],
   "primaryWorkbook": "Final_Included_Excluded_Studies_XAI_SER_Final.xlsx",
-  "qaWorkbook": "XAI_SER_QA_FullText_Final.xlsx",
+  "qaWorkbook": "XAI_SER_QA_Fix_Final.xlsx",
   "scope": "Speech-derived acoustic or linguistic evidence, or both",
   "privacy": "Abstracts and third-party full-text PDFs are not redistributed via the website."
 }

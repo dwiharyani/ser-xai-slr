@@ -1,3 +1,12 @@
+## 8 November 2026 — Source register and agreement synchronization
+
+- Rebuilt screening from the latest 597-record screening workbook, preserving all existing OpenAlex records.
+- Rebuilt 83 full-text assessment rows from the updated QA workbook; retained nine not-retrieved identifiers from the earlier register.
+- Adopted the final synthesis workbook’s companion code `CO` for M-0038 without increasing the 61 unique studies.
+- Added interactive Coding Agreement page and CSV exports from the supplied aligned 61-study, 10,000-bootstrap workbook (14 agreement measures; 55 category-level disagreements).
+- Included only derived agreement data in the public package; second-coder remarks and full source agreement workbooks remain offline.
+- Kept Figures 1–11 and original site design unchanged. Manuscript PDF and links remain omitted.
+
 ## 2026-11-07 — QA register and full-text denominator
 - The QA sheet and public table now list 83 full-text-assessed reports; nine unretrieved reports are tracked separately for PRISMA.
 - QA scores apply to 65 eligible reports, with 18 eligibility exclusions retaining their full-text decisions but no Q1–Q7 score.
