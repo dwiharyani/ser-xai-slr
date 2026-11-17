@@ -53,3 +53,9 @@ Original companion based on 597 screening records and 56 included studies, now s
 - Removed the manuscript PDF from the publicly served assets and removed the corresponding existence requirement from validation.
 - Removed editorial QA revision notes from the website; numerical QA scores and inclusion decisions are unchanged.
 - All eleven figure PNGs, tables, and download datasets remain available.
+
+## 17 November 2026 — taxonomy correction and navigation cleanup
+- Updated Figure 3 using the author-supplied `fig_taxonomy(1).pdf` (original vector and high-resolution PNG); Figure 2 PRISMA update retained.
+- Removed Results and Coding agreement navigation tabs and page content; no changes to QA, screening, taxonomy data, or coding agreement source files.
+- Moved all 11 downloadable research figures into Reproducibility to preserve access while removing Results.
+- Verified latest second-coder form matched existing version byte for byte; no duplicate was added.

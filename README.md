@@ -3,7 +3,7 @@
 **A Systematic Review and Multidimensional Taxonomy**  
 Dwi Haryani · Hamdi A. Al-Jamimi · Björn W. Schuller
 
-Research companion website with refreshed supplementary records (17 November 2026) and retained manuscript figures from the earlier snapshot. The website is made with React, TypeScript and Vite, retaining the manuscript-inspired forest green, sage, warm brown and cream palette. Figures 1–11 were extracted from the manuscript provided for the research snapshot. The full manuscript PDF is not distributed through this website.
+Research companion website with refreshed supplementary records (17 November 2026) and updated Figures 2 and 3 with the other manuscript figures retained. The website is made with React, TypeScript and Vite, retaining the manuscript-inspired forest green, sage, warm brown and cream palette. Figures 1 and 4–11 were extracted from the earlier manuscript snapshot; Figures 2 (PRISMA) and 3 (taxonomy) were updated from author-supplied vector PDFs. The full manuscript PDF is not distributed through this website.
 
 ## Study-flow snapshot
 
@@ -55,11 +55,11 @@ python scripts/validate.py
 - `data/inputs/XAI_SER_OpenAlex_citation_search/`: recorded OpenAlex queries, seed reports, CSV exports and query logs.
 - `public/data/`: derived, versioned, structured JSON actually loaded by the website.
 - `public/downloads/`: public CSV exports of website fields and the original citation-search ZIP; no manuscript PDF is served.
-- `public/figures/paper/`: direct PNG crops of Figures 1–11 from the earlier manuscript PDF.
+- `public/figures/paper/`: retained Figures 1 and 4–11 plus revised Figure 2 and Figure 3 in PNG and vector PDF formats.
 
 The optional converter `scripts/rebuild_latest.py` reads the local source XLSX files using `artifact_tool` in an environment where that library is available. Its outputs are committed in `public/data` and `public/downloads`, so GitHub Actions does **not** need the spreadsheet converter. `scripts/extract_manuscript_figures.py` requires PyMuPDF only if regenerating image crops; the resulting images are committed.
 
-The Coding Agreement page uses 61 paired coding records and 14 Cohen’s κ measures from the user-supplied aligned workbook. Public downloads contain only numerical coding summaries and category-level differences, without raw reviewer remarks; to rebuild these agreement snapshots offline, use `python scripts/build_agreement.py /local/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies.xlsx`. The original second-coder and alignment workbooks are deliberately not added to this publicly shareable repository package. Agreement describes initial coding; revised taxonomy decisions are used for synthesis.
+The coding agreement supplementary files contain 61 paired coding records and 14 Cohen’s κ measures from the user-supplied aligned workbook. The separate Coding Agreement tab has been removed. Public downloads contain only numerical coding summaries and category-level differences, without raw reviewer remarks; to rebuild these agreement snapshots offline, use `python scripts/build_agreement.py /local/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies.xlsx`. The original second-coder and alignment workbooks are deliberately not added to this publicly shareable repository package. Agreement describes initial coding; revised taxonomy decisions are used for synthesis.
 
 **Public-release review:** Workbooks under `data/inputs/` include original abstracts and full-text reviewer extraction notes. The website intentionally excludes full abstracts and third-party PDF articles. The public-update patch intentionally excludes updated source XLSX; replace them locally using the supplied supplementary archive when rebuilding (do not commit sensitive workbooks to a public repository). Before making the repository public, check rights and institutional permissions for redistributing the source workbooks; remove originals if necessary. The website continues to work from the committed public JSON/CSV snapshots.
 
@@ -85,3 +85,8 @@ The review includes explainable emotion recognition from spoken audio, transcrip
 ### 17 November 2026 figure and coding-document update
 
 Figure 2 (`public/figures/paper/fig02.png` and `.pdf`) now uses the revised PRISMA diagram provided with the latest supplementary data (86 assessed, 66 quality-appraised, 62 passing reports, 61 studies). The initial independent first- and second-coder categorical matrices are downloadable as sanitized XLSX files without free-text reviewer comments; the blank second-coder form was already identical and is unchanged. See `docs/figure-provenance.md` and `public/downloads/README.md`.
+
+### 17 November 2026 taxonomy and navigation correction
+
+- Figure 3 updated from `fig_taxonomy(1).pdf` (PNG and original vector PDF). The newer second-coder form is byte-identical to the existing downloadable form, so the form was preserved.
+- Removed the **Results** and **Coding agreement** pages from the top navigation and removed their old hash links. Existing supplementary datasets and all eleven manuscript figures remain available. The gallery is now under **Reproducibility**.

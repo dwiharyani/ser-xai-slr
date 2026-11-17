@@ -15,7 +15,11 @@ rects={
 8:(12,48,54,564,261),9:(12,48,296,564,490),
 10:(14,48,54,564,397),11:(19,48,53,565,417)}
 for n,(p,x0,y0,x1,y1) in rects.items():
+    # Keep user-supplied PRISMA (Fig. 2) and taxonomy (Fig. 3) vector assets authoritative.
+    if n in (2,3) and (out/f'fig{n:02}.pdf').exists():
+        print(f'Preserving supplied Figure {n} PDF/PNG (not extracting from manuscript)')
+        continue
     page=doc[p]
     clip=fitz.Rect(x0,y0,x1,y1)
     page.get_pixmap(matrix=fitz.Matrix(2.1,2.1),clip=clip,alpha=False).save(out/f'fig{n:02}.png')
-print(f'Extracted {len(rects)} figures from {pdf.name}')
+print(f'Processed {len(rects)} figure slots from {pdf.name}; supplied figures retained where present')
