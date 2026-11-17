@@ -10,4 +10,6 @@ Missing OpenAlex metadata is not imputed. Figure image crops (PNG) are available
 - `coding_pairs.csv` — per-study first/second coder D1–D3 labels and match flags.
 - `coding_disagreements.csv` — 55 category-level disagreements, without reviewers' free-text remarks.
 
-The full second-coder and aligned agreement source workbooks are not included among public downloads. Agreement values reflect the initial independent coding before adjudication; synthesis charts use the revised final taxonomy.
+Sanitized public workbooks `XAI_SER_First_Coder_Coding_Public.xlsx` and `XAI_SER_Second_Coder_Coding_Public.xlsx` reproduce the initial categorical coding of the 61 included studies, without evidence-locator free text, reviewer remarks or personal notes. The independently supplied blank form `XAI_SER_Second_Coder_Form.xlsx` was checked against the newer copy and is unchanged. Raw source workbooks and the aligned agreement source file are not among public downloads. Agreement values reflect initial independent coding before adjudication; synthesis charts use the revised final taxonomy.
+
+The updated PRISMA diagram is available as `../figures/paper/fig02.png` and `../figures/paper/fig02.pdf`.

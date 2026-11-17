@@ -81,3 +81,7 @@ Recorded QA is *reporting-quality appraisal*, not proof that an explanation is f
 ## Scope
 
 The review includes explainable emotion recognition from spoken audio, transcripts originating from the same speech, or both. A model using visual or physiological signals is eligible only when the speech-derived explanatory evidence can be separately identified.
+
+### 17 November 2026 figure and coding-document update
+
+Figure 2 (`public/figures/paper/fig02.png` and `.pdf`) now uses the revised PRISMA diagram provided with the latest supplementary data (86 assessed, 66 quality-appraised, 62 passing reports, 61 studies). The initial independent first- and second-coder categorical matrices are downloadable as sanitized XLSX files without free-text reviewer comments; the blank second-coder form was already identical and is unchanged. See `docs/figure-provenance.md` and `public/downloads/README.md`.
