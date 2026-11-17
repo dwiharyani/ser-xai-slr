@@ -3,7 +3,7 @@
 **A Systematic Review and Multidimensional Taxonomy**  
 Dwi Haryani · Hamdi A. Al-Jamimi · Björn W. Schuller
 
-Research companion website for the latest manuscript snapshot (8 November 2026). The website is made with React, TypeScript and Vite, retaining the manuscript-inspired forest green, sage, warm brown and cream palette. Figures 1–11 were extracted from the manuscript provided for the research snapshot. The full manuscript PDF is not distributed through this website.
+Research companion website with refreshed supplementary records (17 November 2026) and retained manuscript figures from the earlier snapshot. The website is made with React, TypeScript and Vite, retaining the manuscript-inspired forest green, sage, warm brown and cream palette. Figures 1–11 were extracted from the manuscript provided for the research snapshot. The full manuscript PDF is not distributed through this website.
 
 ## Study-flow snapshot
 
@@ -13,11 +13,11 @@ Research companion website for the latest manuscript snapshot (8 November 2026).
 | Records screened from OpenAlex citation searching | 614 |
 | **Total records screened** | **1,211** |
 | Full-text reports sought (81 + 11) | 92 |
-| Full-text reports not retrieved (4 + 5) | 9 |
-| **Full-text reports assessed (77 + 6)** | **83** |
-| Excluded at eligibility | 18 |
-| Eligible reports appraised with QA | 65 |
-| Below QA gate | 3 |
+| Full-text reports not retrieved (2 + 4) | 6 |
+| **Full-text reports assessed (79 + 7)** | **86** |
+| Excluded at eligibility | 20 |
+| Eligible reports appraised with QA | 66 |
+| Below QA gate | 4 |
 | **Reports passing QA** | **62** |
 | **Unique studies included in synthesis** | **61** |
 
@@ -49,19 +49,19 @@ python scripts/validate.py
 ## Data sources and rebuilding
 
 - `data/inputs/Final_Included_Excluded_Studies_XAI_SER_Final.xlsx`: authoritative final decisions, QA criteria and study-level synthesis.
-- `data/inputs/XAI_SER_QA_Fix_Final.xlsx`: updated 83-report assessed full-text/QA register, used for the public QA page.
-- `data/inputs/XAI_SER_QA_FullText_Final.xlsx`: earlier register retained solely to preserve 9 not-retrieved report identifiers and ancillary fields.
+- `data/inputs/XAI_SER_QA_Fix_Final.xlsx`: updated 86-report assessed full-text/QA register, used for the public QA page.
+- `data/inputs/XAI_SER_QA_FullText_Final.xlsx`: earlier register retained to identify the 92 sought reports (six still not retrieved) and ancillary fields.
 - `data/inputs/XAI_SER_Screening_597_Full.xlsx`: detailed original screening metadata and abstracts.
 - `data/inputs/XAI_SER_OpenAlex_citation_search/`: recorded OpenAlex queries, seed reports, CSV exports and query logs.
 - `public/data/`: derived, versioned, structured JSON actually loaded by the website.
 - `public/downloads/`: public CSV exports of website fields and the original citation-search ZIP; no manuscript PDF is served.
-- `public/figures/paper/`: direct PNG crops of Figures 1–11 from the latest PDF.
+- `public/figures/paper/`: direct PNG crops of Figures 1–11 from the earlier manuscript PDF.
 
-The optional converter `scripts/rebuild_latest.py` reads the four source XLSX files using `artifact_tool` in an environment where that library is available. Its outputs are committed in `public/data` and `public/downloads`, so GitHub Actions does **not** need the spreadsheet converter. `scripts/extract_manuscript_figures.py` requires PyMuPDF only if regenerating image crops; the resulting images are committed.
+The optional converter `scripts/rebuild_latest.py` reads the local source XLSX files using `artifact_tool` in an environment where that library is available. Its outputs are committed in `public/data` and `public/downloads`, so GitHub Actions does **not** need the spreadsheet converter. `scripts/extract_manuscript_figures.py` requires PyMuPDF only if regenerating image crops; the resulting images are committed.
 
-The Coding Agreement page uses 61 paired coding records and 14 Cohen’s κ measures from the user-supplied aligned workbook. Public downloads contain only numerical coding summaries and category-level differences, without raw reviewer remarks; to rebuild these agreement snapshots offline, use `python scripts/build_agreement.py /local/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies_aligned.xlsx`. The original second-coder and aligned workbooks are deliberately not added to this publicly shareable repository package.
+The Coding Agreement page uses 61 paired coding records and 14 Cohen’s κ measures from the user-supplied aligned workbook. Public downloads contain only numerical coding summaries and category-level differences, without raw reviewer remarks; to rebuild these agreement snapshots offline, use `python scripts/build_agreement.py /local/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies.xlsx`. The original second-coder and alignment workbooks are deliberately not added to this publicly shareable repository package. Agreement describes initial coding; revised taxonomy decisions are used for synthesis.
 
-**Public-release review:** Workbooks under `data/inputs/` include original abstracts and full-text reviewer extraction notes. The website intentionally excludes full abstracts and third-party PDF articles. Before making the repository public, check rights and institutional permissions for redistributing the source workbooks; remove originals if necessary. The website continues to work from the committed public JSON/CSV snapshots.
+**Public-release review:** Workbooks under `data/inputs/` include original abstracts and full-text reviewer extraction notes. The website intentionally excludes full abstracts and third-party PDF articles. The public-update patch intentionally excludes updated source XLSX; replace them locally using the supplied supplementary archive when rebuilding (do not commit sensitive workbooks to a public repository). Before making the repository public, check rights and institutional permissions for redistributing the source workbooks; remove originals if necessary. The website continues to work from the committed public JSON/CSV snapshots.
 
 ## Data integrity limits
 

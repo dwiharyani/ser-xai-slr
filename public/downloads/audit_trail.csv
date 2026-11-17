@@ -21,7 +21,7 @@ M-0022,Feature Selection Based on Causal Analysis Algorithm for Speech Emotion R
 M-0024,Implementation of the MFCC-Streaming Bi-LSTM Based Speech Emotion Recognition Method,Excluded at title/abstract,,Scopus; IEEE
 M-0025,Temporal Graph Modeling for Speech Emotion Recognition Using LSTM-Aggregated Multigraph Networks,Excluded at title/abstract,,IEEE
 M-0026,Speech Emotion Recognition Method Using Depth Wavefield Extrapolation and Improved Wave Physics Model,Excluded at title/abstract,,IEEE
-M-0027,"Multimodal Emotion Recognition using Explainable AI for Text, Multilingual Audio, and Live Video",Full text sought,,Scopus; IEEE
+M-0027,"Multimodal Emotion Recognition using Explainable AI for Text, Multilingual Audio, and Live Video",Full text sought,Exclude,Scopus; IEEE
 M-0028,Steering Language Model to Stable Speech Emotion Recognition via Contextual Perception and Chain of Thought,Excluded at title/abstract,,Scopus; IEEE; WoS
 M-0029,Can We Trust AI With Our Ears? A Cross-Domain Comparative Analysis of Explainability in Audio Intelligence,Full text sought,Include,Scopus; IEEE; WoS
 M-0030,Improving Domain Generalization in Speech Emotion Recognition with Whisper,Excluded at title/abstract,,IEEE
@@ -567,7 +567,7 @@ M-0740,DARE to Disagree: A Multi-Agent Adversarial Debate Framework for Open-Voc
 M-0741,EmoType-Zero: Adaptive Fonts to Render the Speech Emotion,Excluded at title/abstract,,WoS; ACM
 M-0743,Sequential Modeling by Leveraging Non-Uniform Distribution of Speech Emotion,Excluded at title/abstract,,ACM
 M-0744,EmoSync: Multi-Stage Reasoning with Multimodal Large Language Models for Fine-Grained Emotion Recognition,Full text sought,Exclude,WoS; ACM
-M-0745,CERA: Conflict-Explicit Reflective Agent for Multimodal Emotion Reasoning,Full text sought,,ACM
+M-0745,CERA: Conflict-Explicit Reflective Agent for Multimodal Emotion Reasoning,Full text sought,Exclude,ACM
 M-0746,VAEmo: Efficient Representation Learning for Visual-Audio Emotion With Knowledge Injection,Excluded at title/abstract,,ACM
 M-0748,Disentangling Prosody Representations With Unsupervised Speech Reconstruction,Excluded at title/abstract,,ACM
 M-0749,CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing,Excluded at title/abstract,,ACM
@@ -597,7 +597,7 @@ M-0789,Comparative Reasoning: Making an Audio Language Model Better at Comparing
 M-0795,Explainable and Trustworthy Speech Emotion Recognition Using Confidence Score and Reinforcement Learning Rectified Speech Emotion Descriptors,Excluded at title/abstract,,ISCA
 M-0796,Multimodal Emotion Recognition on Mobile Devices Using Hybrid MobileNetV2-ViT and Contextual Sentiment Analysis,Excluded at title/abstract,,Scopus
 M-0807,Affective Human-Robot Interaction with Multimodal Explanations,Full text sought,,OpenAlex citation searching
-M-0809,Multimodal Emotion Recognition with Explainable AI for Cognitive Human-Computer Interaction in Smart Environments,Full text sought,,OpenAlex citation searching
+M-0809,Multimodal Emotion Recognition with Explainable AI for Cognitive Human-Computer Interaction in Smart Environments,Full text sought,Exclude,OpenAlex citation searching
 M-0810,Enhancing Emotion Detection Accuracy and Transparency Through Multimodal Fusion and Explainable AI,Full text sought,,OpenAlex citation searching
 M-0811,Explainable cross-domain emotion recognition using non-linear optimization and multimodal feature fusion based deep learning model,Full text sought,,OpenAlex citation searching
 M-0808,TempA: Temporal Alignment of Human Expert-Referenced with Model-Inferred Acoustic Concepts for Speech Emotion Recognition,Full text sought,,OpenAlex citation searching

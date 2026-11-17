@@ -4,11 +4,12 @@ R=pathlib.Path(__file__).resolve().parents[1];D=R/'public/data'
 read=lambda n:json.loads((D/f'{n}.json').read_text())
 s=read('summary');c=s['counts'];study=read('studies');screen=read('screening');qa=read('qa');fig=read('figures')
 assert len(screen)==1211 and len({r['id'] for r in screen})==1211
-assert len(qa)==83 and len(study)==61 and len({r['id'] for r in study})==61
+assert len(qa)==86 and len(study)==61 and len({r['id'] for r in study})==61
 assert len([r for r in qa if r['state']=='Pending retrieval'])==0
-assert sum(r['total'] is not None for r in qa)==65
-assert sum(r['state']=='Excluded at eligibility' for r in qa)==18
-assert c['sought']==92 and c['notRetrieved']==9 and c['assessed']==83
+assert sum(r['total'] is not None for r in qa)==66
+assert sum(r['state']=='Excluded at eligibility' for r in qa)==20
+assert c['eligibilityExcluded']==20 and c['qaFailed']==4
+assert c['sought']==92 and c['notRetrieved']==6 and c['assessed']==86
 assert sum(r['state']=='Included study' for r in qa)==61
 assert sum(r['state']=='Companion report' for r in qa)==1
 assert all(v['match'] for v in s['comparison'])
@@ -29,4 +30,4 @@ assert {r['id'] for r in qa if r['state']=='Companion report'}=={'M-0038'}
 assert {r['id']:r['reasonCode'] for r in qa}['M-0038']=='CO'
 for f in ('coding_agreement.csv','coding_pairs.csv','coding_disagreements.csv'):
     assert (R/'public/downloads'/f).exists()
-print('VALID: 1211 screened, 92 sought (9 unavailable), 83 assessed, 65 scored, 62 passed, 61 studies, 11 figures; 61 inter-rater pairs, 14 measures, 55 disagreements.')
+print('VALID: 1211 screened, 92 sought (6 unavailable), 86 assessed, 66 scored, 62 passed, 61 studies, 11 figures; 61 inter-rater pairs, 14 measures, 55 disagreements.')

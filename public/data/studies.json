@@ -12,7 +12,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Mixed representations across outputs",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Gradient / propagation attribution",
       "Perturbation / surrogate attribution"
@@ -111,7 +111,7 @@
     "d1Raw": "Internal attention analysis plus post-hoc attribution",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Learned frame- or word-level evidence",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Model-internal inspection",
       "Perturbation / surrogate attribution",
@@ -158,16 +158,18 @@
     "publicationType": "IEEE Conferences",
     "publicationCategory": "Conference paper",
     "databases": "Scopus; IEEE",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Built-in importance or component plus post-hoc attribution",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Acoustic features / descriptors",
     "d4": [
+      "Model-internal inspection",
       "Shapley-value attribution"
     ],
     "methods": [
-      "SHAP"
+      "SHAP",
+      "Tree importance"
     ],
     "datasets": [
       "EmoTa"
@@ -258,15 +260,17 @@
     "publicationType": "IEEE Conferences",
     "publicationCategory": "Conference paper",
     "databases": "Scopus; IEEE; WoS",
-    "d1": "Inspection of a built-in model component",
-    "d1Raw": "Learned internal mechanism analysed",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Built-in importance or component plus post-hoc attribution",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Learned representations / model states",
     "d4": [
-      "Model-internal inspection"
+      "Model-internal inspection",
+      "Perturbation / surrogate attribution"
     ],
     "methods": [
+      "Occlusion",
       "Learned filters"
     ],
     "datasets": [
@@ -283,11 +287,9 @@
     "delivery": "Visual (plot, map, table)",
     "speechInformation": "Acoustic only",
     "input": "Audio",
-    "evaluation": [
-      "Direct prediction faithfulness"
-    ],
+    "evaluation": [],
     "locator": "PDF 3–4, filter masking and Table II. 4–5, Figs 4–5",
-    "fidelityEvidence": "One-filter masking and confidence/accuracy change (pp. 3–4, Table II).",
+    "fidelityEvidence": "No qualifying test located",
     "stabilityEvidence": "No qualifying test located",
     "humanEvaluation": "No qualifying user evaluation located",
     "recognitionReported": true,
@@ -307,9 +309,9 @@
     "databases": "Scopus; IEEE",
     "d1": "Post-hoc analysis of a trained model",
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
-    "d2": "Unresolved",
-    "d2Raw": "Temporal correspondence unresolved for the coded output",
-    "d3": "Indexed features (mapping limited)",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Shapley-value attribution"
     ],
@@ -430,7 +432,8 @@
     "speechInformation": "Acoustic only",
     "input": "Audio",
     "evaluation": [
-      "Human evaluation of explanations"
+      "Human evaluation of explanations",
+      "Automated scoring of generated rationales"
     ],
     "locator": "PDF 8, datasets and pipeline. 10, Table II. 11–12, Fig 5",
     "fidelityEvidence": "No qualifying test located",
@@ -455,7 +458,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Time–frequency regions / spectral bands",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Gradient / propagation attribution",
       "Perturbation / surrogate attribution",
@@ -508,7 +511,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Unresolved",
     "d2Raw": "Temporal correspondence unresolved for the coded output",
-    "d3": "Time–frequency regions / spectral bands",
+    "d3": "Indexed features (mapping limited)",
     "d4": [
       "Perturbation / surrogate attribution"
     ],
@@ -555,7 +558,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Learned representations / model states",
+    "d3": "Boosted or transformed coordinates",
     "d4": [
       "Gradient / propagation attribution"
     ],
@@ -599,8 +602,8 @@
     "publicationType": "IEEE Conferences",
     "publicationCategory": "Conference paper",
     "databases": "Scopus; IEEE",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Inspection of a built-in model component",
+    "d1Raw": "Learned internal mechanism analysed",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Acoustic features / descriptors",
@@ -744,7 +747,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Acoustic features / descriptors",
+    "d3": "Indexed features (mapping limited)",
     "d4": [
       "Shapley-value attribution"
     ],
@@ -789,7 +792,7 @@
     "d1Raw": "Learned internal mechanism analysed",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Learned representations / model states",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Model-internal inspection"
     ],
@@ -839,7 +842,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Acoustic features / descriptors",
+    "d3": "Indexed features (mapping limited)",
     "d4": [
       "Shapley-value attribution"
     ],
@@ -902,7 +905,7 @@
     ],
     "model": "Random forest on acoustics and transcript features",
     "modelGroup": "Tree / classical ML",
-    "delivery": "Visual (plot, map, table)",
+    "delivery": "Ranked list or prose",
     "speechInformation": "Acoustic only",
     "input": "Audio",
     "evaluation": [],
@@ -925,8 +928,8 @@
     "publicationType": "IEEE Conferences",
     "publicationCategory": "Conference paper",
     "databases": "Scopus; IEEE; WoS",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Acoustic features / descriptors",
@@ -1080,7 +1083,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Localised",
     "d2Raw": "Time-preserving generated audio; selection reported in latent space",
-    "d3": "Mixed representations across outputs",
+    "d3": "Learned representations / model states",
     "d4": [
       "Generative, contrastive or example-based",
       "Gradient / propagation attribution"
@@ -1176,7 +1179,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Indexed features (mapping limited)",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Shapley-value attribution"
     ],
@@ -1221,9 +1224,9 @@
     "databases": "Scopus",
     "d1": "Post-hoc analysis of a trained model",
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
-    "d2": "Unresolved",
-    "d2Raw": "Temporal correspondence unresolved for the coded output",
-    "d3": "Mixed representations across outputs",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Gradient / propagation attribution"
     ],
@@ -1264,8 +1267,8 @@
     "publicationType": "Article",
     "publicationCategory": "Journal article",
     "databases": "Scopus; WoS",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Post-hoc explanation used in feature construction or selection",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Acoustic features / descriptors",
@@ -1311,8 +1314,8 @@
     "publicationType": "Article",
     "publicationCategory": "Journal article",
     "databases": "Scopus; WoS",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Explanation-guided learning or feature selection",
+    "d1Raw": "Built-in importance used in feature selection",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Acoustic features / descriptors",
@@ -1461,7 +1464,7 @@
     "d1Raw": "Post-hoc explanation used in feature construction or selection",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Boosted or transformed coordinates",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Shapley-value attribution"
     ],
@@ -1559,7 +1562,7 @@
     "d1Raw": "Internal attention analysis plus post-hoc attribution",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Time–frequency regions / spectral bands",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Gradient / propagation attribution",
       "Model-internal inspection"
@@ -1751,8 +1754,8 @@
     "databases": "Scopus; WoS",
     "d1": "Post-hoc analysis of a trained model",
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
-    "d2": "Unresolved",
-    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Mixed representations across outputs",
     "d4": [
       "Model-internal inspection",
@@ -1800,7 +1803,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Mixed representations across outputs",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Perturbation / surrogate attribution",
       "Shapley-value attribution"
@@ -1899,8 +1902,8 @@
     "databases": "Scopus; WoS",
     "d1": "Post-hoc analysis of a trained model",
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
-    "d2": "Unresolved",
-    "d2Raw": "Temporal correspondence unresolved for the coded output",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Time–frequency regions / spectral bands",
     "d4": [
       "Gradient / propagation attribution"
@@ -1925,7 +1928,7 @@
     ],
     "model": "DUST-Net, deformable convolution and multiscale Transformer",
     "modelGroup": "Pretrained encoder / Transformer",
-    "delivery": "Visual (plot, map, table)",
+    "delivery": "Ranked list or prose",
     "speechInformation": "Acoustic only",
     "input": "Audio",
     "evaluation": [
@@ -1954,7 +1957,7 @@
     "d1Raw": "Internal attention analysis plus post-hoc attribution",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Indexed features (mapping limited)",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Model-internal inspection",
       "Perturbation / surrogate attribution",
@@ -2006,7 +2009,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Localised",
     "d2Raw": "At least one reported output localized within an utterance",
-    "d3": "Time–frequency regions / spectral bands",
+    "d3": "Mixed representations across outputs",
     "d4": [
       "Perturbation / surrogate attribution"
     ],
@@ -2051,7 +2054,7 @@
     "d1Raw": "Learned internal mechanism analysed",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Learned representations / model states",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Model-internal inspection"
     ],
@@ -2333,9 +2336,9 @@
     "databases": "Scopus; WoS",
     "d1": "Post-hoc analysis of a trained model",
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
-    "d2": "Unresolved",
-    "d2Raw": "Temporal correspondence unresolved for the coded output",
-    "d3": "Mixed representations across outputs",
+    "d2": "Aggregated",
+    "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
+    "d3": "Acoustic features / descriptors",
     "d4": [
       "Perturbation / surrogate attribution"
     ],
@@ -2504,12 +2507,10 @@
     "delivery": "Visual (plot, map, table)",
     "speechInformation": "Acoustic and lexical",
     "input": "Audio and transcript",
-    "evaluation": [
-      "Repeated-run stability of explanations"
-    ],
+    "evaluation": [],
     "locator": "PDF 5-6, Fig. 2b-d; Table I",
     "fidelityEvidence": "No qualifying test located",
-    "stabilityEvidence": "CAVs retrained 30 times with minimal accuracy variation; two-tailed t-tests against 50 random concepts (Fig. 2)",
+    "stabilityEvidence": "No qualifying test located",
     "humanEvaluation": "No qualifying user evaluation located",
     "recognitionReported": true,
     "source": {
@@ -2779,7 +2780,7 @@
     "d1Raw": "Analysis of fitted predictor or its learned subsystem",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
-    "d3": "Time–frequency regions / spectral bands",
+    "d3": "Mixed representations across outputs",
     "d4": [],
     "methods": [
       "Class model visualisation"
@@ -2830,8 +2831,8 @@
       "Perturbation / surrogate attribution"
     ],
     "methods": [
-      "Integrated Gradients",
-      "Occlusion"
+      "Occlusion",
+      "Integrated Gradients"
     ],
     "datasets": [
       "MELD"
@@ -2867,8 +2868,8 @@
     "publicationType": "Not recorded",
     "publicationCategory": "Not supplied",
     "databases": "OpenAlex citation searching",
-    "d1": "Post-hoc analysis of a trained model",
-    "d1Raw": "Analysis of fitted predictor or its learned subsystem",
+    "d1": "Combined: built-in component and post-hoc method",
+    "d1Raw": "Built-in importance or component plus post-hoc attribution",
     "d2": "Aggregated",
     "d2Raw": "Reported evidence summarized over a class, item, feature, frequency or layer",
     "d3": "Indexed features (mapping limited)",

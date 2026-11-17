@@ -1,6 +1,8 @@
 {
   "Analysis of fitted predictor or its learned subsystem": "Post-hoc analysis of a trained model",
   "Post-training probing of a learned decision pathway": "Post-hoc analysis of a trained model",
+  "Built-in importance or component plus post-hoc attribution": "Combined: built-in component and post-hoc method",
+  "Built-in importance used in feature selection": "Explanation-guided learning or feature selection",
   "Learned internal mechanism analysed": "Inspection of a built-in model component",
   "Internal attention analysis plus post-hoc attribution": "Combined: built-in component and post-hoc method",
   "Jointly trained explanatory modules plus post-hoc attribution": "Combined: built-in component and post-hoc method",

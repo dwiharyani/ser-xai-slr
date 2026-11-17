@@ -38,18 +38,20 @@ qa_fixed_book=SpreadsheetFile.import_xlsx(Blob.load(str(I/'XAI_SER_QA_Fix_Final.
 screen_book=SpreadsheetFile.import_xlsx(Blob.load(str(I/'XAI_SER_Screening_597_Full.xlsx')))
 F=lambda s,h,start,end,n:sheetrows(final,s,h,start,end,n)
 q_orig={txt(v['Study ID']):(row,v) for row,v in sheetrows(qa_book,'QA',1,2,130,35) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
-# The working QA sheet has only 83 assessed full texts. Nine unsuccessful retrievals
-# are retained separately for the PRISMA retrieval count, not QA table/export.
+# Earlier QA source has 83 assessed reports; the new supplied register has 86.
+# Keep the older register to identify the original 92 sought reports and metadata;
+# move the three newly assessed records out of the pending-retrieval group.
 not_retrieved_orig={txt(v['Study ID']):(row,v) for row,v in sheetrows(qa_book,'Not retrieved',1,2,30,35) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
 assert len(q_orig)==83 and len(not_retrieved_orig)==9
 assert not (set(q_orig)&set(not_retrieved_orig))
 q_orig.update(not_retrieved_orig)
 assert len(q_orig)==92
-# The newly supplied 83-report QA workbook overrides the earlier register for
-# assessed papers. Original register remains used only for 9 not-retrieved items
-# and older contextual descriptors absent from the new QA workbook.
+# The updated 86-report QA workbook overrides the prior register for assessed
+# papers. Of the nine previously not-retrieved reports, three are now assessed;
+# the remaining six are retained for PRISMA without inclusion in the QA table.
 qa_fixed={txt(v['Study ID']):(row,v) for row,v in sheetrows(qa_fixed_book,'QA',4,5,100,20) if re.fullmatch(r'M-\d{4}',txt(v.get('Study ID')))}
-assert len(qa_fixed)==83 and not (set(qa_fixed)&set(not_retrieved_orig))
+assert len(qa_fixed)==86 and set(qa_fixed).issubset(q_orig), (len(qa_fixed), set(qa_fixed)-set(q_orig))
+assert len(set(qa_fixed)&set(not_retrieved_orig))==3, 'Expected three newly retrieved full texts'
 for i,(newrow,q) in qa_fixed.items():
     assert i in q_orig,('Missing old register source',i)
     orig=dict(q_orig[i][1])
@@ -95,29 +97,39 @@ el=[]
 for row,v in F('Eligibility',4,5,140,18):
     i=txt(v.get('Master ID'))
     if not re.fullmatch(r'M-\d{4}',i):continue
-    el.append({'id':i,'decision':v.get('Full-text decision'),'gate':v.get('QA v2 result'),'total':v.get('QA v2 total /7'),
+    el.append({'id':i,'decision':v.get('Full-text decision'),'gate':v.get('QA result'),'total':v.get('QA total /7'),
         'reasonCode':v.get('Code'),'rationale':v.get('Rationale or main result'), 'locator':v.get('Page / figure / table'),
         'title':v.get('Title'),'year':v.get('Year'),'doi':v.get('DOI'),'route':v.get('Identification route'),
         'studyFamily':v.get('Study family'),'source':{'file':'Final synthesis workbook','sheet':'Eligibility','row':row}})
-assert len(el)==83,len(el)
+assert len(el)==86,len(el)
 E={r['id']:r for r in el}
 qa_vals={}
 for row,v in F('QA',4,5,150,17):
     i=txt(v.get('Master ID'))
     if not re.fullmatch(r'M-\d{4}',i):continue
     qa_vals[i]=dict(v,sourceRow=row)
+# The criterion-level QA sheet is canonical for total scores. The source Eligibility
+# summary contains two stale totals; preserve the original workbook and log the
+# discrepancies rather than publishing contradictory public totals.
+for i,rec in E.items():
+    q=qa_vals.get(i)
+    if q and rec['gate'] in ('Pass','Fail'):
+        canonical=float(q['Total /7'])
+        if rec.get('total') not in (None,'') and abs(float(rec['total'])-canonical)>1e-9:
+            print(f'QA source-total discrepancy {i}: Eligibility {rec["total"]} vs QA {canonical}; public total uses Q1-Q7.',flush=True)
+        rec['total']=canonical
 qa=[]
 for i,(row,q) in q_orig.items():
     fin=E.get(i);fq=qa_vals.get(i,{})
     state=('Pending retrieval' if not fin else 'Included study' if fin['decision']=='Include' else 'Companion report' if fin['decision']=='Companion' else 'Excluded after QA' if fin['gate']=='Fail' and fin['reasonCode']=='Q' else 'Excluded at eligibility')
-    score={f'Q{k}':fq.get({1:'Q1 task',2:'Q2 data',3:'Q3 protocol',4:'Q4 XAI approach',5:'Q5 XAI evidence',6:'Q6 recognition results',7:'Q7 interpretation'}[k]) for k in range(1,8)}
+    score={f'Q{k}':(float(fq[{1:'Q1 task',2:'Q2 data',3:'Q3 protocol',4:'Q4 XAI approach',5:'Q5 XAI evidence',6:'Q6 recognition results',7:'Q7 interpretation'}[k]]) if fq.get({1:'Q1 task',2:'Q2 data',3:'Q3 protocol',4:'Q4 XAI approach',5:'Q5 XAI evidence',6:'Q6 recognition results',7:'Q7 interpretation'}[k]) not in (None,'') else None) for k in range(1,8)}
     # QA performance is assessed only after eligibility. Keep pre-eligibility scores out of the published QA register.
     can_score=bool(fin and fin.get('gate') in ('Pass','Fail') and fin.get('reasonCode') in ('IN','Q','COMP','CO'))
     if not can_score:score={f'Q{k}':None for k in range(1,8)}
     status='Final register, criterion-level verified' if can_score else ('No full text retrieved' if not fin else 'Eligibility exclusion; QA scores not applicable')
     row_obj={'id':i,'year':q.get('Year'),'title':q.get('Study title'),'doi':q.get('DOI'), 'state':state,
      'decision':q.get('Eligibility decision'),'finalDecision':fin.get('decision') if fin else 'Awaiting full text',
-     'gate':fin.get('gate') if fin else None,'total':fin.get('total') if can_score else None,
+     'gate':fin.get('gate') if fin else None,'total':float(fq.get('Total /7')) if can_score else None,
      'reviewStatus':q.get('Full-text review stage'),'scorePublicationStatus':status,
      'reasonCode':fin.get('reasonCode') if fin else None,'reason':fin.get('rationale') if fin else None,
      'locator':fin.get('locator') if fin else q.get('Evidence: page / figure'),'finalLocator':fin.get('locator') if fin else None,
@@ -127,10 +139,10 @@ for i,(row,q) in q_orig.items():
      'limitations':q.get('Evidence limitations'),'source':{'file':'Final synthesis workbook','sheet':'QA','row':fq.get('sourceRow')} }
     row_obj.update(score);qa.append(row_obj)
 assert len(qa)==92,len(qa)
-qa_all=qa  # 92 sought; includes nine not retrieved, needed only for PRISMA accounting.
+qa_all=qa  # 92 sought; six remain not retrieved, needed only for PRISMA accounting.
 qa=[r for r in qa_all if r['state']!='Pending retrieval']
-assert len(qa)==83 and {r['id'] for r in qa}==set(E)
-assert sum(r['total'] is not None for r in qa)==65
+assert len(qa)==86 and {r['id'] for r in qa}==set(E)
+assert sum(r['total'] is not None for r in qa)==66
 # Scores in the supplied QA workbook must agree with the final synthesis.assert sum(r['state']=='Excluded at eligibility' for r in qa)==18
 for r in qa:
     if r['total'] is not None:
@@ -195,7 +207,7 @@ assert len(study)==61,len(study)
 # Publication-type metadata are incomplete for some sources; do not impute unknown classes.
 assert len(study)==61
 save('studies',study)
-# source-specific metrics, aggregate counts from the 61 unique included study rows
+# Metrics regenerated from the 61 included studies in the revised source workbook
 c={'screened':len(sc_all),'databaseScreened':len(screens),'citationScreened':len(alex),'sought':len(qa_all),
  'databaseSought':81,'citationSought':11,'notRetrieved':len(qa_all)-len(el),'assessed':len(el),'included':len(study),
  'reportsIncluded':sum(q['gate']=='Pass' for q in qa),'companion':sum(r['decision']=='Companion' for r in el),
@@ -211,9 +223,19 @@ c={'screened':len(sc_all),'databaseScreened':len(screens),'citationScreened':len
  'human':sum('Human evaluation of explanations' in x['evaluation'] for x in study),
  'anyEvaluation':sum(bool(set(x['evaluation']) & {'Direct prediction faithfulness','Human evaluation of explanations','Controlled robustness of explanation or cue outputs','Repeated-run stability of explanations','Human task performance with explanation conditions','Automated scoring of generated rationales'}) for x in study),
  'pendingScreeningLabels':0,'missingOpenAlexTitles':sum('not retained' in s['title'] for s in alex)}
-assert c['reportsIncluded']==62 and c['notRetrieved']==9 and c['eligible']==65 and c['qaFailed']==3,(c)
-expected={'screened':1211,'assessed':83,'included':61,'passed':62,'posthoc':40,'shap':24,'aggregated':35,'localised':19,'lexical':10,'fidelity':7,'human':4,'anyEvaluation':11}
-comparison=[{'metric':k,'manuscript':v,'computed':c[k],'match':v==c[k]} for k,v in expected.items()]
+assert c['reportsIncluded']==62 and c['notRetrieved']==6 and c['eligible']==66 and c['qaFailed']==4,(c)
+expected={'screened':1211,'assessed':86,'included':61,'passed':62,'posthoc':34,'shap':24,'aggregated':40,'localised':19,'lexical':10,'fidelity':6,'human':4,'anyEvaluation':9}
+# Stage counts are obtained from the revised PRISMA source, not old manuscript figures.
+flow={txt(v.get('Stage / unit')):v.get('N') for _,v in F('PRISMA',4,5,90,8) if v.get('Stage / unit')}
+c.update({'databaseNotRetrieved':int(flow['Reports not retrieved']), 'citationNotRetrieved':int(flow['Citation searching: reports not retrieved']),
+  'databaseAssessed':int(flow['Reports assessed for eligibility']), 'citationAssessed':int(flow['Citation searching: reports assessed for eligibility']),
+  'databaseEligibilityExcluded':int(flow['Full-text exclusions']), 'citationEligibilityExcluded':int(flow['Citation searching: full-text exclusions']),
+  'databaseQaFailed':int(flow['Excluded after quality appraisal']), 'citationQaFailed':int(flow['Citation searching: excluded after quality appraisal'])})
+assert c['databaseNotRetrieved']+c['citationNotRetrieved']==c['notRetrieved']
+assert c['databaseAssessed']+c['citationAssessed']==c['assessed']
+assert c['databaseEligibilityExcluded']+c['citationEligibilityExcluded']==c['eligibilityExcluded']
+assert c['databaseQaFailed']+c['citationQaFailed']==c['qaFailed']
+comparison=[{'metric':k,'sourceRegister':v,'computed':c[k],'match':v==c[k]} for k,v in expected.items()]
 print('RECONCILIATION',comparison,flush=True)
 # preserve dynamically defined chart choices and codebook
 prev= json.loads((D/'summary.json').read_text()); charts=prev['charts']
@@ -229,7 +251,7 @@ for ch in charts:
 issue=[{'kind':'OpenAlex metadata limitation','id':'Citation screening','detail':f"{c['missingOpenAlexTitles']} of 614 archived citation records have no recorded title, and the export does not retain abstracts. Their historical decisions cannot be independently audited from this snapshot."},
  {'kind':'Screening provenance','id':'Database records','detail':'597 database-and-archive screening records use the final register; public web exports exclude full abstracts for redistribution reasons. The source workbook retains their metadata.'},
  {'kind':'Study versus report','id':'Companion','detail':'62 passing reports represent 61 distinct studies. Companion M-0038 is merged with its journal extension and excluded from study-level counts.'}]
-summary={'counts':c,'comparison':comparison,'charts':charts,'issues':issue,'snapshot':'2026-11-08'}
+summary={'counts':c,'comparison':comparison,'charts':charts,'issues':issue,'snapshot':'2026-11-17'}
 save('summary',summary)
 # use the actual final workbook search/flow tables
 search=[]
@@ -239,7 +261,10 @@ for row,v in F('Search log',4,5,40,9):
 save('search_log',search)
 prisma=[]
 for row,v in F('PRISMA',4,5,90,8):
-    if v.get('Stage / unit'):prisma.append({'stage':v['Stage / unit'],'count':v.get('N'),
+    if v.get('Stage / unit'):
+        stage=txt(v['Stage / unit'])
+        public_stage='Distinct studies included' if stage=='Included reports' and str(v.get('N')).strip()=='61' else stage
+        prisma.append({'stage':public_stage,'sourceStage':stage,'count':v.get('N'),
     'basis':v.get('Source or derivation'),'interpretation':v.get('Interpretation')})
 save('prisma_source',prisma)
 criteria=[]
@@ -247,14 +272,14 @@ for row,v in sheetrows(qa_fixed_book,'Criteria',4,5,16,10):
     if txt(v.get('Criterion')).startswith('Q'):criteria.append(v)
 save('qa_criteria',criteria)
 # Public codebook from previous version remains valid D1–D4; supplement with exact current taxonomy columns.
-prov={'snapshot':'2026-11-08','sourceFiles':[], 'primaryWorkbook':'Final_Included_Excluded_Studies_XAI_SER_Final.xlsx',
+prov={'snapshot':'2026-11-17','sourceFiles':[], 'primaryWorkbook':'Final_Included_Excluded_Studies_XAI_SER_Final.xlsx',
  'qaWorkbook':'XAI_SER_QA_Fix_Final.xlsx','scope':'Speech-derived acoustic or linguistic evidence, or both',
  'privacy':'Abstracts and third-party full-text PDFs are not redistributed via the website.'}
 for p in [I/'Final_Included_Excluded_Studies_XAI_SER_Final.xlsx',I/'XAI_SER_QA_Fix_Final.xlsx',I/'XAI_SER_Screening_597_Full.xlsx',I/'XAI_SER_OpenAlex_citation_search/records_2021_2026.csv']:
     prov['sourceFiles'].append({'file':p.name,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
 save('provenance',prov)
 # New exact figure images are sourced from manuscript PDF, not re-estimated from separate plot code.
-figures=[{'id':f'fig{n:02}','title':title,'note':f'Exact figure crop from final manuscript, page {pg}. Consult the caption and original paper for context.','page':pg} for n,title,pg in [
+figures=[{'id':f'fig{n:02}','title':title,'note':f'Figure crop from the earlier manuscript snapshot, page {pg}; the updated supplementary counts are shown in the interactive tables and charts.','page':pg} for n,title,pg in [
  (1,'Conceptual overview',3),(2,'PRISMA selection flow',5),(3,'Four-dimensional taxonomy',7),(4,'Publication profile',10),
  (5,'Explanation–model relationship',10),(6,'Explained target and temporal resolution',11),(7,'Explanation methods',11),
  (8,'Method families by explained target',13),(9,'Explanation evaluation',13),(10,'Corpus, language and model contexts',15),(11,'Evidence gaps and research agenda',20)]]

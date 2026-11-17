@@ -1,3 +1,14 @@
+## 17 November 2026 — Supplementary data reconciliation (86 assessed reports)
+
+- Synchronized the 597-record database screening, full-text/QA, final taxonomy and 61-study agreement outputs with the newly supplied four-workbook supplementary archive.
+- Report retrieval revised from 92 sought / 9 unavailable / 83 assessed to 92 sought / 6 unavailable / 86 assessed. Three newly assessed reports: M-0027 (below QA threshold), M-0745 and M-0809 (eligibility exclusions).
+- Updated QA table and CSV to 86 assessed reports: 20 eligibility exclusions and 66 QA-appraised reports (62 pass, 4 fail). The 61 independent studies and one companion report are unchanged.
+- Recalculated study-level graphs from revised taxonomy and evaluation coding, including D1 post-hoc 34, D2 aggregated 40, decision fidelity 6, and any evaluation test 9.
+- Regenerated agreement and coding-disagreement exports from the supplied current 61-study workbook; 14 agreement measures and 55 category-level disagreements. Agreement reflects initial coding before adjudication, whereas synthesis uses the revised taxonomy.
+- Preserved manuscript Figures 1–11 without replacement. The earlier Figure 2 depicts an older assessment snapshot; the live PRISMA cards and table provide current counts.
+- The supplied Eligibility table has two total-score discrepancies relative to the criterion-level QA rows: M-0016 (7 vs 6.5) and M-0106 (6.5 vs 6). Public QA uses the criterion sums while the original source workbook is left unchanged.
+- Updated UI descriptions and CSV exports; no full abstracts, reviewer notes, or manuscript PDF added to public website assets.
+
 ## 8 November 2026 — Source register and agreement synchronization
 
 - Rebuilt screening from the latest 597-record screening workbook, preserving all existing OpenAlex records.

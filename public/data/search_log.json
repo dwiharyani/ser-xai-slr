@@ -26,14 +26,14 @@
   {
     "database": "ACL",
     "occurrences": 10,
-    "dateEvidence": "Four strict and six exploratory. Supplemental source.",
-    "query": null
+    "dateEvidence": "2 November 2026. Supplemental source; two searches of titles and abstracts.",
+    "query": "(1) #1 AND #2 (4 records); (2) SER terms of #1 combined with reasoning terms: reasoning, rationale, explanation*, \"evidence-grounded\", faithfulness (6 records)."
   },
   {
     "database": "ISCA",
     "occurrences": 23,
-    "dateEvidence": "Five searches. Supplemental source.",
-    "query": null
+    "dateEvidence": "2 November 2026. Supplemental source; five keyword searches of the archive.",
+    "query": "S1 \"speech emotion reasoning\"; S2 \"emotion acoustic cues\"; S3 \"speech emotion attribution\"; S4 \"emotion interpretability\"; S5 \"speech emotion explain\"."
   },
   {
     "database": "Citation searching (OpenAlex)",

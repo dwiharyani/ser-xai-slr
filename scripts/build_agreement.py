@@ -1,7 +1,7 @@
 """Build public, non-identifying agreement summaries from a supplied aligned XLSX.
 
 Run (offline; artifact_tool required):
-    python scripts/build_agreement.py '/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies_aligned.xlsx'
+    python scripts/build_agreement.py '/path/to/XAI_SER_Inter_Rater_Reliability_61_Studies.xlsx'
 
 This does not publish the source second-coder workbook, reviewer remarks or any full texts.
 """
@@ -36,7 +36,7 @@ secondary=rows('Secondary coding',24)
 assert len(primary)==len(methods)==len(secondary)==61
 assert {r['Study ID'] for r in primary}=={r['Study ID'] for r in methods}=={r['Study ID'] for r in secondary}==known
 
-result_sheet=w.worksheets.get_item('Results').get_range('A5:J25').values
+result_sheet=w.worksheets.get_item('Results').get_range('A6:J25').values
 assert result_sheet[0][0]=='Dimension / category'
 results=[]
 for row in result_sheet[1:]:
@@ -96,10 +96,10 @@ for v in raw_disagreements:
 assert all(r['id'] in known for r in public_disagreements)
 assert len(public_disagreements)==sum(r['disagreed'] for r in results),(len(public_disagreements),sum(r['disagreed'] for r in results))
 
-agreement={'nStudies':61,'bootstrapResamples':10000,'status':'Pre-adjudication; aligned coding framework as supplied',
+agreement={'nStudies':61,'bootstrapResamples':10000,'status':'Initial independent coding, before adjudication; updated synthesis uses revised decisions',
   'definition':'Observed agreement and Cohen’s kappa with percentile-bootstrap 95% confidence intervals. Multilabel dimensions are evaluated per binary category.',
   'results':results,'methodNote':'D4 uses five binary method families; each evaluation type is assessed separately. Low-prevalence evaluation categories may yield unstable kappa.',
-  'source':'XAI_SER_Inter_Rater_Reliability_61_Studies_aligned.xlsx'}
+  'source':'XAI_SER_Inter_Rater_Reliability_61_Studies.xlsx'}
 (D/'agreement.json').write_text(json.dumps(agreement,ensure_ascii=False,indent=2)+'\n')
 (D/'agreement_pairs.json').write_text(json.dumps(pairs_out,ensure_ascii=False,indent=2)+'\n')
 (D/'agreement_disagreements.json').write_text(json.dumps(public_disagreements,ensure_ascii=False,indent=2)+'\n')
